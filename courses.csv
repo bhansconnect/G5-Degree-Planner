@@ -1,0 +1,1699 @@
+Course,Department,Credits,Pre-Requisites,Co-Requisites,Semesters
+ACC 2000,Accounting Principles I,Accounting,3.0,,,"Fall, Spring, Summer"
+ACC 2100,Accounting Principles II,Accounting,3.0,ACC 2000,,"Fall, Spring, Summer"
+ACC 3000,Accounting Theory/Practice I,Accounting,3.0,ACC 2000,,Fall
+ACC 3100,Accounting Theory/Practice II,Accounting,3.0,ACC 3000 and FIN 3000(C),,Spring
+ACC 3500,Managerial/Cost Accounting I,Accounting,3.0,ACC 2100,,Fall
+ACC 3600,Foundations of Taxation,Accounting,3.0,ACC 2100,,Fall
+ACC 4100,Attestation and Assurance,Accounting,3.0,ACC 3100 or ACC 5050,,Fall
+ACC 4200,Advanced Accounting,Accounting,3.0,ACC 3100,,Fall
+ACC 4500,Managerial/Cost Accounting II,Accounting,3.0,ACC 3500,,Spring
+ACC 4600,Advanced Tax Topics,Accounting,3.0,ACC 3600,,Spring
+ACC 4700,Governmental and Not-for-Profit Accounting,Accounting,3.0,ACC 3100,,Spring
+ACC 4800,Accounting Systems,Accounting,3.0,ACC 2100 or ACC 5050,,Fall
+ACC 4990,Special Topics in Accounting,Accounting,variable to   3.0;  Repeatable to a Max of 6,ACC 3310,,On Demand
+AF 0120,Physical Conditioning,Air Force ROTC,0.5; Graded Pass/Fail Only,,,Spring
+AF 0130,Air Force Elite Forces Workout,Air Force ROTC,1.0; Graded Pass/Fail Only,,,On Demand
+AF 0230,Precision Drill Team,Air Force ROTC,0.5; Graded Pass/Fail Only,,,Fall
+AF 0340,Field Training,Air Force ROTC,1.0; Graded Pass/Fail Only,,,Summer
+AF 1001,Foundations of US Air Force I,Air Force ROTC,1.0,,,Fall
+AF 1002,Foundations of US Air Force II,Air Force ROTC,1.0,,,Spring
+AF 2001,Evolution of US Air &amp; Space Power I,Air Force ROTC,1.0,,,Fall
+AF 2002,Evolution of US Air &amp; Space Power II,Air Force ROTC,1.0,,,Spring
+AF 2010,Evolution of US Air And Space Power I for Non-AFROTC Students,Air Force ROTC,1.0,,,Fall
+AF 2020,Evolution of US Air and Space Power II for Non-AFROTC Students,Air Force ROTC,1.0,,,Spring
+AF 3001,Leadership Studies I,Air Force ROTC,3.0,,,Fall
+AF 3002,Leadership Studies II,Air Force ROTC,3.0,,,Spring
+AF 3010,Leadership Studies I for Non-AFROTC Students,Air Force ROTC,3.0,,,Fall
+AF 3020,Leadership Studies II for Non-AFROTC Students,Air Force ROTC,3.0,,,Spring
+AF 4001,National Security Affairs I,Air Force ROTC,3.0,,,Fall
+AF 4002,National Security Affairs II,Air Force ROTC,3.0,,,Spring
+AF 4010 - National Security Affairs I,National Security Affairs I - for Non-AFROTC Students,Air Force ROTC,3.0,,,Fall
+AF 4020 - National Security Affairs II,National Security Affairs II - for Non-AFROTC Students,Air Force ROTC,3.0,,,Spring
+AR 0340,Internship in Advanced Military Leadership,Army ROTC,3.0; Graded Pass/Fail Only,,,Summer
+AR 1001,Introduction to the Army and Critical Thinking,Army ROTC,1.0,,,Fall
+AR 1003,Leadership and Competence,Army ROTC,1.0,,,Spring
+AR 1011,Basic Leadership Lab I,Army ROTC,1.0,,,Fall
+AR 1012,Basic Leadership Lab II,Army ROTC,1.0,,,Spring
+AR 2001,Leadership and Decision Making,Army ROTC,1.0,,,Fall
+AR 2002,Army Doctrine and Team Development,Army ROTC,1.0,,,Spring
+AR 2011,Intermediate Leadership Lab I,Army ROTC,1.0,,,Fall
+AR 2012,Intermediate Leadership Lab II,Army ROTC,1.0,,,Spring
+AR 2068,Fall Military Physical Conditioning,Army ROTC,1.0;  Repeatable to a Max of 12; Graded Pass/Fail Only,,,Fall
+AR 2069,Spring Military Physical Conditioning,Army ROTC,1.0;  Repeatable to a Max of 12; Graded Pass/Fail Only,,,Spring
+AR 3001,Warfighting Functions,Army ROTC,variable to   3.0,,AR 3011,Fall
+AR 3002,Leadership and Operations,Army ROTC,variable to   3.0,AR 3001,AR 3012,Spring
+AR 3011,Advanced Leadership Lab I,Army ROTC,1.0,,AR 3001,Fall
+AR 3012,Advanced Leadership Lab II,Army ROTC,1.0,AR 3011,AR 3002,Spring
+AR 3068,Military Physical Leadership I,Army ROTC,1.0;  Repeatable to a Max of 12; Graded Pass/Fail Only,AR 2068 and AR 2069,,Fall
+AR 3069,Military Physical Leadership II,Army ROTC,1.0;  Repeatable to a Max of 12; Graded Pass/Fail Only,AR 3068,,Spring
+AR 3100,Special Topics Small Group Leadership,Army ROTC,variable to   3.0,,,On Demand
+AR 3775,U.S. Military History for the Professional Officers,Army ROTC,3.0,,,Summer
+AR 4001,Mission Command I and the Army Profession,Army ROTC,variable to   3.0,AR 3001 and AR 3002,AR 4011,"Fall, Spring"
+AR 4004,Mission Command II and the Company Grade Officer,Army ROTC,variable to   3.0,AR 3001 and AR 3002,AR 4012,Spring
+AR 4011,Battalion Staff Operations I,Army ROTC,1.0,,AR 4001,Fall
+AR 4012,Battalion Staff Operations II,Army ROTC,1.0,,AR 4004,Spring
+AR 4100,Special Topics Leadership Development,Army ROTC,variable to   3.0,,,On Demand
+ATM 4640,Fundamentals of Atmospheric Science,Atmospheric Science,3.0,(PH 2200 or PH 2260) and (PH 1360 or PH 2300) and MA 3160 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+BE 2100,Undergraduate Biomedical Engineering Seminar,Biomedical Engineering,1.0; Graded Pass/Fail Only,,,Fall
+BE 2110,Statistical Methods for Biomedical Engineering,Biomedical Engineering,3.0,MA 1135 or MA 1160 or MA 1161,,Spring
+BE 2400,Cellular and Molecular Biology,Biomedical Engineering,3.0,CH 1150 and MA 1160 or MA 1161,,Fall
+BE 2700,Biomedical Signals &amp; Systems,Biomedical Engineering,3.0,CH 1150 or CH 1112 and PH 2100 and MA 2160 and ENG 1102,,Fall
+BE 2800,Biomaterials I: Fundamental Materials Science and Engineering,Biomedical Engineering,3.0,BE 2400,,Spring
+BE 3300,Biomechanics I: Statics and Dynamics,Biomedical Engineering,3.0,BE 2400 and (MA 2321 or MA 2320 or MA 2330) and (MA 3521 or MA 3520 or MA 3530) and BL 2010,,Fall
+BE 3350,Biomechanics II: Soft Tissue and Bio-Fluid Mechanics,Biomedical Engineering,3.0,BE 3300,,Spring
+BE 3400,Experimental Techniques in Biomedical Engineering,Biomedical Engineering,2.0,BE 2800,,Fall
+BE 3700,Biomedical Instrumentation,Biomedical Engineering,3.0,EE 3010 and PH 2200(C) and BL 2020(C) and BE 2700,BE 3701,Spring
+BE 3701,Biomedical Instrumentation Lab,Biomedical Engineering,1.0,,BE 3700,Spring
+BE 3800,Biomaterials II: Properties and Biological Interactions,Biomedical Engineering,3.0,BE 2700(C) and BE 2800,,Fall
+BE 4000,Independent Study,Biomedical Engineering,variable to   6.0;  Repeatable to a Max of 12,,,"Fall, Spring, Summer"
+BE 4115,Finite Element Modeling,Biomedical Engineering,3.0,(MA 2320 or MA 2321) and (MA 3520 or MA 3521) and (BE 3350 or MEEM 2150),,Spring
+BE 4200,Cellular and Molecular Biology II,Biomedical Engineering,3.0,BE 2400,,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+BE 4220,Stem Cell Engineering,Biomedical Engineering,3.0,BE 2400 and BE 3350 and BE 3800,,Spring
+BE 4250,Biomedical Optics,Biomedical Engineering,3.0,(MA 2320 or MA 2321 or MA 2330) and (MA 3520 or MA 3521 or MA 3530 or MA 3560) and MA 3160,,Spring - Offered alternate years beginning with the 2014-2015 academic year 
+BE 4300,Polymeric Biomaterials,Biomedical Engineering,3.0,BE 3800,,"Fall, Spring - Offered alternate years beginning with the 2009-2010 academic year "
+BE 4330,Biomimetic Materials,Biomedical Engineering,3.0,BE 3350 and BE 3800,,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+BE 4335,Smart Polymers,Biomedical Engineering,3.0,BE 3350 and BE 3800,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+BE 4350,Cell Biomechanics and Mechanical Transduction,Biomedical Engineering,3.0,BE 2400 and BE 3350 and BE 3800,,Fall
+BE 4510,Cardiovascular Engineering,Biomedical Engineering,3.0,BL 2020 and BE 2400,,Fall
+BE 4610,Biological Microscopy for Engineers,Biomedical Engineering,3.0,BE 3700,,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+BE 4700,Biosensors: Fabrication &amp; Applications,Biomedical Engineering,3.0,BE 3600 or (BE 3700 and BE 3701),,Fall - Offered alternate years beginning with the 2009-2010 academic year 
+BE 4755,Medical Devices,Biomedical Engineering,3.0,,,Fall
+BE 4770,Biomedical Microcontrollers,Biomedical Engineering,3.0,BE 3600 or (BE 3700 and BE 3701),,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+BE 4800,Biomaterials Interfaces,Biomedical Engineering,3.0,BE 3800,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+BE 4900,Biomedical Design Fundamentals,Biomedical Engineering,2.0,,,Spring
+BE 4901,Biomedical Design Project I,Biomedical Engineering,2.0,BE 3500(C) and BE 3600 and (BE 3750 or MEEM 4180) or (BE 3350 and BE 3700 and BE 3701 and BE 3800) and BE 4900,,Fall
+BE 4910,Biomedical Design Project II,Biomedical Engineering,2.0,BE 4900 and BE 4901,,Spring
+BE 4930,Biomedical Engineering Topics,Biomedical Engineering,variable to   6.0;  May be repeated,,,"Fall, Spring, Summer"
+BE 4940,Introduction to Tissue Engineering,Biomedical Engineering,3.0,BE 2400 and BL 2020,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+BL 0600,Clinical Practicum and Career Preparation Seminar,Biological Sciences,1.0; Graded Pass/Fail Only,,,Spring
+BL 1000,Introduction to Great Lakes Science,Biological Sciences,3.0,,,Fall
+BL 1010,General Biology I,Biological Sciences,4.0,,,Fall
+BL 1020,General Biology II,Biological Sciences,4.0,BL 1010,,"Spring, Summer"
+BL 1040,Principles of Biology,Biological Sciences,4.0,,,"Fall, Summer"
+BL 1580,Introduction to Biological Sciences,Biological Sciences,1.0,,,Fall
+BL 1590,Introduction to the Health Professions,Biological Sciences,1.0,,,Fall
+BL 1600,Introduction to Medical Laboratory Science,Biological Sciences,1.0,,,Fall
+BL 1710,Medical Terminology,Biological Sciences,1.0,,,Fall
+BL 1800,Biochemistry Orientation,Biological Sciences,1.0,,,Fall
+BL 2000,Biology of Movement and Meditation,Biological Sciences,3.0,,,"Fall, Spring, Summer"
+BL 2004,Cooking and Nutrition,Biological Sciences,3.0,,,Summer
+BL 2010,Anatomy &amp; Physiology l,Biological Sciences,3.0,CH 1000 or (CH 1150 and CH 1151),,"Fall, Summer"
+BL 2011,Anatomy &amp; Physiology I Lab,Biological Sciences,1.0,BL 2010(C),,"Fall, Summer"
+BL 2020,Anatomy &amp; Physiology II,Biological Sciences,3.0,BL 2010,,Spring
+BL 2021,Anatomy &amp; Physiology II Lab,Biological Sciences,1.0,BL 2011 and BL 2020(C),,Spring
+BL 2100,Principles of Biochemistry,Biological Sciences,3.0,BL 1020 or BL 1040 or BE 2400 and CH 1112 or (CH 1150 and CH 1151),,Fall
+BL 2160,Botany,Biological Sciences,4.0,,,Spring
+BL 2170,Zoology,Biological Sciences,4.0,BL 1010 or BL 1040,,Fall
+BL 2200,Genetics,Biological Sciences,3.0,(BL 1020 or BL 1040 or BE 2400) and (BL 2100 or CH 4710),,"Spring, Summer"
+BL 2210,Genetics Laboratory,Biological Sciences,1.0,BL 2200(C),,Spring
+BL 2410,Basic Medical Laboratory Techniques,Biological Sciences,3.0,BL 1020 or BL 1040,,Fall
+BL 2940,Human Nutrition,Biological Sciences,3.0,,,"Spring, Summer"
+BL 3000,Job Shadowing in Health Professions,Biological Sciences,1.0;  Repeatable to a Max of 3,BL 2010(C),,"Fall, Spring, Summer"
+BL 3006,Graduate Health Program Application Preparation,Biological Sciences,1.0,,,Spring
+BL 3010,General Entomology,Biological Sciences,4.0,BL 1010 or BL 1040,,Fall
+BL 3012,Essential Cell Biology,Biological Sciences,3.0,BL 1020 or BL 1040 and BL 2100,,Spring
+BL 3070,Biology &amp; Occupational Hygiene,Biological Sciences,3.0,,,Fall
+BL 3080,Biological Concepts for Engineers,Biological Sciences,3.0,,,Fall
+BL 3190,Evolution,Biological Sciences,3.0,BL 1020 or BL 1040,,Spring
+BL 3210,General Microbiology,Biological Sciences,4.0,(BL 1020 or BL 1040) and (BL 2100 or CH 4710),,"Fall, Summer"
+BL 3220,Medical Mycology and Virology,Biological Sciences,3.0,BL 3210,,Spring
+BL 3230,Medical Bacteriology,Biological Sciences,4.0,BL 3210,,Spring
+BL 3300,Introduction to Genomics,Biological Sciences,3.0,BL 2200 or FW 3320,,"Fall, Summer"
+BL 3310,Environmental Microbiology,Biological Sciences,3.0,BL 1040 or BL 3070 or BL 3080,,Spring
+BL 3400,Principles of Ecology,Biological Sciences,4.0,BL 1020 or BL 1040,,Fall
+BL 3640,General Immunology,Biological Sciences,3.0,BL 1020 or BL 1040 or BL 2020 or BE 2400,,"Fall, Summer"
+BL 3780,Medical Parasitology Laboratory,Biological Sciences,1.0,BL 1710 and BL 2410,,Spring
+BL 3782,Writing Practicum in Biology,Biological Sciences,2.0,,,"Fall, Spring"
+BL 3970,Current Health Issues,Biological Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer"
+BL 3990,Biological Sciences Teaching Experience,Biological Sciences,variable to   4.0;  Repeatable to a Max of 4,,,"Fall, Spring, Summer"
+BL 4000,Research in Biology,Biological Sciences,variable to   9.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+BL 4001,Honors Research in Biology,Biological Sciences,variable to   9.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+BL 4008,Summer Workshop on Genome Editing of Human Disease Genes,Biological Sciences,3.0,,,Summer
+BL 4010,Biochemistry I,Biological Sciences,3.0,(BL 1020 or BL 1040 or BL 2010) and BL 2100 and (CH 2410 or CH 2420),,"Fall, Summer"
+BL 4020,Biochemistry II,Biological Sciences,3.0,BL 4010,,"Spring, Summer"
+BL 4030,Molecular Biology,Biological Sciences,3.0,(BL 1020 or BL 1040) and (BL 2100 or CH 4710),,"Fall, Summer"
+BL 4033,Pollination Biology,Biological Sciences,3.0,BL 1010 or BL 1040 or BL 2160,,Spring - Offered alternate years beginning with the 2012-2013 academic year 
+BL 4034,Community Ecology and Evolutionary Dynamics,Biological Sciences,3.0,BL 3400 and BL 3190,,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+BL 4035,Bioimaging,Biological Sciences,2.0,,,Fall - Offered alternate years beginning with the 2010-2011 academic year 
+BL 4036,Ecology and Evolution of Interactions Between Plants and Insects,Biological Sciences,3.0,BL 3400 and BL 3190,,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+BL 4042,Scanning Electron Microscopy of Biological Specimens,Biological Sciences,2.0,,BL 4035,Fall - Offered alternate years beginning with the 2010-2011 academic year 
+BL 4052,Fluorescence and Video Microscopy of Biological Specimens,Biological Sciences,2.0,BL 4035,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+BL 4062,Transmission Electron Microscopy of Biological Specimens,Biological Sciences,2.0,BL 4035,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+BL 4090,Tropical Island Biology,Biological Sciences,2.0,,,Spring
+BL 4100,Special Topics in Biological Sciences,Biological Sciences,variable to  10.0;  Repeatable to a Max of 10,,,"Fall, Spring, Summer"
+BL 4120,Environmental Remediation and Toxicology,Biological Sciences,3.0,BL 1020 or BL 1040,,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+BL 4134,Field Methods in Great Lakes Oceanography,Biological Sciences,2.0,,,Summer
+BL 4140,Plant Physiology,Biological Sciences,3.0,BL 2160 and CH 2420,,Spring - Offered alternate years beginning with the 2005-2006 academic year 
+BL 4145,Plant-Microbe Interactions,Biological Sciences,3.0,BL 2200,,Fall - Offered alternate years beginning with the 2012-2013 academic year 
+BL 4220,Applied and Industrial Microbiology,Biological Sciences,3.0,BL 3210 or BL 3310,,Spring - Offered alternate years beginning with the 2001-2002 academic year 
+BL 4370,Cell Biology,Biological Sciences,3.0,BL 2200 and CH 2420,,Spring
+BL 4380,Cardiopulmonary Physiology,Biological Sciences,3.0,BL 2020,,Fall
+BL 4421,Lake Superior Exploration,Biological Sciences,3.0,,,Summer
+BL 4440,Fish Biology,Biological Sciences,4.0,BL 1020 or BL 1040,,"Fall, Spring - Offered alternate years beginning with the 2006-2007 academic year "
+BL 4442,Lake Ecology and Fish Biology,Biological Sciences,4.0,BL 1010 or BL 1040 or BL 3400,,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+BL 4447,Stream Ecology and Fish Biology,Biological Sciences,4.0,BL 1010 or BL 1040 or BL 3400,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+BL 4450,Limnology,Biological Sciences,4.0,CH 1122 or (CH 1160 and CH 1161),,Fall
+BL 4455,Research Methods in Aquatic Ecology,Biological Sciences,2.0,BL 4450 and (BL 4450 or FW 4220 or ENVE 4505),,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+BL 4461,Ecosystem Ecology,Biological Sciences,3.0,BL 3400 and CH 1122 or (CH 1160 and CH 1161),,Spring - Offered alternate years beginning with the 2011-2012 academic year 
+BL 4465,Biological Oceanography,Biological Sciences,3.0,BL 1010 or BL 1040 or BL 3070,,Spring
+BL 4510,Senior Capstone Experience,Biological Sciences,2.0,,,"Fall, Spring"
+BL 4530,Senior Research Capstone Experience,Biological Sciences,1.0,BL 4000(C) or BL 4001(C) or BL 4995(C),,"Fall, Spring"
+BL 4550,Clinical Chemistry,Biological Sciences,3.0,BL 2020 and BL 3640,,Spring
+BL 4610,Medical Laboratory Science Medical Practicum I,Biological Sciences,15.0,,,"Fall, Spring, Summer"
+BL 4611,Medical Laboratory Science Medical Practicum II,Biological Sciences,15.0,BL 4610,,"Fall, Spring, Summer"
+BL 4630,Cytotechnology Practicum I,Biological Sciences,14.0,,,Fall
+BL 4631,Cytotechnology Practicum II,Biological Sciences,14.0,BL 4630,,Spring
+BL 4640,Clinical Immunology &amp; Serology,Biological Sciences,2.0,BL 2410 and BL 3640,,Fall
+BL 4660,Current Topics in Medical Laboratory Science,Biological Sciences,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+BL 4720,Hematology and Hemostasis,Biological Sciences,3.0,BL 4730(C),,Fall
+BL 4730,Immunohematology Techniques,Biological Sciences,1.0,BL 4720(C),,Fall
+BL 4750,Medical Laboratory Instrumentation,Biological Sciences,2.0,,,Spring
+BL 4752,Cancer Biology,Biological Sciences,3.0,BL 3012 or BL 4370 or BE 2400,,Spring
+BL 4820,Biochemical Laboratory Techniques I,Biological Sciences,2.0,BL 4010(C) or CH 4710(C),,"Spring, Summer"
+BL 4840,Molecular Biology Techniques,Biological Sciences,3.0,(BL 2100 or CH 4710) and BL 2200 and BL 4030(C),,"Fall, Summer"
+BL 4980,Medical Laboratory Science Core Concept Integration and Application,Biological Sciences,2.0,BL 3230(C) and BL 4550(C) and BL 4640 and BL 4720 and BL 4730,,Spring
+BL 4995,Research in Biochemistry,Biological Sciences,variable to   6.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+BUS 1100,Introduction to Business,Business,3.0,,,"Fall, Spring, Summer"
+BUS 2100,Business Statistics,Business,3.0,MA 1135 or MA 1160 or MA 1161,,"Fall, Spring, Summer"
+BUS 2200,Business Law,Business,3.0,,,"Fall, Spring, Summer"
+BUS 2300,Quantitative Problem Solving,Business,3.0,BUS 2100 or MA 2710 or MA 2720 or MA 3710 or MA 3720,,"Fall, Spring, Summer"
+BUS 3900,Business Internship,Business,variable to   4.0;  Repeatable to a Max of 4,,,"Fall, Spring, Summer"
+BUS 4900,Research Projects,Business,variable to   4.0;  Repeatable to a Max of 6,,,On Demand
+BUS 4910,Global Business Experience International Residency,Business,3.0,,,Summer
+BUS 4950,Business Project,Business,variable to   4.0;  Repeatable to a Max of 6,,,On Demand
+BUS 4990,Special Topics in Business,Business,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+BUS 4991,Business Development Experience I,Business,3.0,BUS 1100 and BUS 2300 and ACC 2000 and ACC 2100 and BUS 2200 and MGT 2000 and MIS 2000 and FIN 3000 and OSM 3000 and MGT 3000 or MKT 3000,,Fall
+BUS 4992,Business Development Experience II,Business,3.0,BUS 4991,,Spring
+CE 1000,Civil Engineering,Civil Engineering,1.0,,,Fall
+CE 1001,Sustainability and Civil Engineering Practice,Civil Engineering,1.0,,,Spring
+CE 3101,Civil Engineering Materials,Civil Engineering,3.0,ENG 2120 or MEEM 2150,,"Fall, Spring"
+CE 3202,Structural Analysis,Civil Engineering,3.0,(ENG 2120 or MEEM 2150) and (MA 2320 or MA 2321 or MA 2330),,"Fall, Spring, Summer"
+CE 3331,Professional Practice,Civil Engineering,2.0,,,"Fall, Spring"
+CE 3332,Fundamentals of Construction Engineering,Civil Engineering,3.0,,,"Fall, Spring, Summer"
+CE 3401,Transportation Engineering,Civil Engineering,3.0,,,"Fall, Spring"
+CE 3620,Water Resources Engineering,Civil Engineering,4.0,ENG 3200 and (MA 3710(C) or ENVE 3502(C) or CE 3710(C)),,"Fall, Spring, Summer"
+CE 3710,Uncertainty Analysis in Engineering,Civil Engineering,3.0,MA 2160,,Fall
+CE 3810,Soil Mechanics for Engineers,Civil Engineering,4.0,GE 2000 and (MEEM 2150 or ENG 2120) and ENG 3200,,"Fall, Spring, Summer"
+CE 4010,Introduction to Consulting Engineering,Civil Engineering,3.0,,,Spring
+CE 4020,Computer Applications: Visualizing and Communicating Design Information,Civil Engineering,3.0,CE 3332 or CE 3401(C),,Fall
+CE 4101,Bituminous Materials,Civil Engineering,3.0,CE 3101,,"Fall, Spring"
+CE 4201,Matrix Structural Analysis,Civil Engineering,3.0,CE 3202,,Fall
+CE 4213,Structural Concrete Design,Civil Engineering,4.0,CE 3202,,Spring
+CE 4223,Steel Design I,Civil Engineering,4.0,CE 3202,,"Fall, Summer"
+CE 4233,Structural Timber Design,Civil Engineering,3.0,CE 3202,,Spring
+CE 4244,Loads for Civil Structures,Civil Engineering,3.0,CE 3202,,Spring
+CE 4333,Estimating and Planning of Construction Projects,Civil Engineering,3.0,CE 3332,,Fall
+CE 4344,Construction Scheduling,Civil Engineering,3.0,CE 3332 or CMG 3265,,Spring
+CE 4401,Pavement Design,Civil Engineering,3.0,CE 3401 and CE 3101,,Fall
+CE 4402,Traffic Engineering,Civil Engineering,3.0,,,Fall
+CE 4404,Railroad Engineering,Civil Engineering,3.0,,,Fall
+CE 4406,Airport Planning and Design,Civil Engineering,3.0,,,Spring
+CE 4407,Transportation Design,Civil Engineering,3.0,CE 3401 and SU 2000,,Spring
+CE 4410,Transportation Planning,Civil Engineering,3.0,,,Fall
+CE 4490,Rail Transportation Seminar,Civil Engineering,1.0,,,Spring
+CE 4510,Baccalaureate Thesis,Civil Engineering,3.0,,,"Fall, Spring"
+CE 4620,River and Floodplain Hydraulics,Civil Engineering,3.0,CE 3620,,Fall
+CE 4640,Stormwater Management and Low Impact Development,Civil Engineering,3.0,CE 3620,,"Spring, Summer"
+CE 4665,Stream Restoration,Civil Engineering,3.0,CE 3620,,Spring
+CE 4760,Optimization Methods in Civil and Environmental Engineering,Civil Engineering,3.0,MA 2160 and (MA 2320 or MA 2321 or MA 2330),,Spring
+CE 4820,Foundation Engineering,Civil Engineering,3.0,CE 3810,,Fall
+CE 4830,Geosynthetics Engineering,Civil Engineering,3.0,CE 3810,,Spring
+CE 4850,Rock Engineering for Civil Engineers,Civil Engineering,3.0,CE 3810,,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+CE 4900,Engineering Design Project I,Civil Engineering,3.0,,,"Fall, Summer"
+CE 4905,Engineering Design Project,Civil Engineering,3.0,,,"Fall, Spring, Summer"
+CE 4910,Engineering Design Project II,Civil Engineering,3.0,CE 4900,,"Spring, Summer"
+CE 4915,International Engineering Field Experience,Civil Engineering,3.0,,,"Fall, Spring, Summer"
+CE 4916,International Senior Design Field Project,Civil Engineering,3.0,CE 4915,,"Fall, Spring, Summer"
+CE 4920,Civil Engineering Independent Study,Civil Engineering,variable to   3.0;  Repeatable to a Max of 3,,,"Fall, Spring, Summer"
+CE 4990,Special Topics in Civil Eng.,Civil Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CH 0100,Chemistry Coaching,Chemistry,0.0;  May be repeated,,,"Fall, Spring, Summer"
+CH 0200,Organic Chemistry Coaching,Chemistry,0.0;  May be repeated,,,"Fall, Spring"
+CH 1000,Preparatory Chemistry,Chemistry,3.0,,,Fall
+CH 1112 - University Chemistry,University Chemistry - Studio Laboratory I,Chemistry,5.0,MA 1031(C) or MA 1032(C),,Fall
+CH 1122 - University Chemistry,University Chemistry - Studio Laboratory II,Chemistry,5.0,CH 1112 or (CH 1150 and CH 1151),,Spring
+CH 1130,Professional Development for Chemists I: Orientation,Chemistry,1.0; Graded Pass/Fail Only,,,Fall
+CH 1150,University Chemistry I,Chemistry,3.0,MA 1031(C) or MA 1032(C) or MA 1160(C) or MA 1161(C) or MA 1135(C) or ALEKS Math Placement >= 56 or CEEB Calculus AB >= 2 or CEEB Calculus BC >= 2 or CEEB Calculus AB Subscore >= 2,CH 1151,"Fall, Spring, Summer"
+CH 1151,University Chemistry Lab I,Chemistry,1.0,MA 1031(C) or MA 1032(C) or MA 1160(C) or MA 1161(C) or MA 1135(C) or ALEKS Math Placement >= 56 or CEEB Calculus AB >= 2 or CEEB Calculus BC >= 2 or CEEB Calculus AB Subscore >= 2,CH 1150,"Fall, Spring, Summer"
+CH 1153,University Chem Recitation I,Chemistry,1.0,MA 1031(C) or MA 1032(C) or MA 1160(C) or MA 1161(C) or MA 1135(C) or ALEKS Math Placement >= 56 or CEEB Calculus AB >= 2 or CEEB Calculus BC >= 2 or CEEB Calculus AB Subscore >= 2,CH 1150,"Fall, Spring, Summer"
+CH 1160,University Chemistry II,Chemistry,3.0,CH 1112 or (CH 1150 and CH 1151),CH 1161,"Fall, Spring, Summer"
+CH 1161,University Chemistry Laboratory II,Chemistry,1.0,CH 1112 or (CH 1150 and CH 1151),CH 1160,"Fall, Spring, Summer"
+CH 1163 - Problem Solving in University Chemistry II,Problem Solving in University Chemistry II - CH1160,Chemistry,1.0,CH 1150 and CH 1151,CH 1160,"Fall, Spring, Summer"
+CH 2130,Professional Development for Chemists 2: Career Planning,Chemistry,2.0,CH 1130,,Fall
+CH 2212,Quantitative Analysis,Chemistry,5.0,CH 1122 or (CH 1160 and CH 1161),,Spring
+CH 2410,Organic Chemistry I,Chemistry,3.0,CH 1122 or (CH 1160 and CH 1161),,"Fall, Summer"
+CH 2411,Organic Chemistry Lab I,Chemistry,1.0,CH 2410(C) and CH 1122 or (CH 1160 and CH 1161),,"Fall, Summer"
+CH 2420,Organic Chemistry II,Chemistry,3.0,CH 2410,,"Spring, Summer"
+CH 2421,Organic Chemistry Lab II,Chemistry,2.0,CH 2411 and CH 2420(C),,"Spring, Summer"
+CH 3020,Laboratory Teaching Internship,Chemistry,2.0,,,"Fall, Spring"
+CH 3130,Professional Development for Chemists 3: Communication,Chemistry,1.0,CH 2130,,Spring
+CH 3510 - Physical Chemistry I,"Physical Chemistry I - Thermodynamics, Equilibrium and Kinetics",Chemistry,3.0,CH 1122 or (CH 1160 and CH 1161) and MA 2160 and PH 2200(C),,"Fall, Spring, Summer"
+CH 3511,Physical Chemistry Lab I,Chemistry,2.0,CH 3510(C),,"Fall, Spring, Summer"
+CH 3520 - Physical Chemistry II,Physical Chemistry II - Molecular Structure,Chemistry,3.0,CH 1122 or (CH 1160 and CH 1161) and MA 3160 and PH 2200(C),,Spring
+CH 3521,Physical Chemistry Lab II,Chemistry,2.0,CH 3520(C),,Spring
+CH 3540,Biophysical Chemistry,Chemistry,3.0,(BL 1020 or BL 1040) and CH 1122 or (CH 1160 and CH 1161) and MA 2160 and PH 2200,,Spring
+CH 3541,Biophysical Chemistry Laboratory,Chemistry,2.0,,CH 3540,Spring
+CH 4110,Pharmaceutical Chemistry: Drug Action,Chemistry,3.0,BL 4010 or CH 4710,,Spring
+CH 4120,Pharmaceutical Chemistry: Drug Design,Chemistry,3.0,CH 2420,,Fall
+CH 4130,Professional Development for Chemists 4: Senior Seminar,Chemistry,2.0,CH 3130,,Spring
+CH 4140,Introduction to Pharmaceutical Analysis,Chemistry,3.0,CH 2410,,Spring
+CH 4190,Current Topics in Pharmaceutical Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4210,Instrumental Analysis,Chemistry,3.0,CH 2212 and CH 3510(C) and CH 3511(C),,Fall
+CH 4212,Instrumental Analysis,Chemistry,5.0,CH 2212 and CH 3510(C) and CH 3511(C),,Fall
+CH 4222,Bioanalytical Chemistry,Chemistry,5.0,CH 1122 or (CH 1160 and CH 1161) and CH 3510(C) and CH 3511(C),,Fall
+CH 4290,Current Topics in Analytical Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4292,Independent Study in Analytical Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 9,,,On Demand
+CH 4310,Inorganic Chemistry I,Chemistry,3.0,CH 3520,,Fall
+CH 4311,Inorganic Chemistry Laboratory,Chemistry,2.0,CH 4310(C),,Fall
+CH 4320,Inorganic Chemistry II,Chemistry,3.0,CH 4310,,Spring
+CH 4390,Current Topics in Inorganic Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4412,Spectroscopy of Organic Chemistry,Chemistry,3.0,CH 2420,,Spring
+CH 4430,Intermediate Organic Chemistry,Chemistry,3.0,CH 2420,,Fall
+CH 4490,Current Topics in Organic Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4510,Intermediate Physical Chemistry,Chemistry,3.0,CH 3520,,Fall
+CH 4515,Atmospheric Chemistry,Chemistry,3.0,CH 3510 or CH 3520(C) or ENVE 4501 or ENVE 4504,,Spring
+CH 4519,Transport and Transformation of Organic Pollutants,Chemistry,3.0,ENVE 4501(C) or CH 3510,,Fall - Offered alternate years beginning with the 2009-2010 academic year 
+CH 4560,Computational Chemistry,Chemistry,3.0,CH 3520,,Fall - Offered alternate years beginning with the 2010-2011 academic year 
+CH 4590,Current Topics in Physical Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4610,Introduction to Polymer Science,Chemistry,3.0,CH 1122 or (CH 1160 and CH 1161),,Fall
+CH 4620,Polymer Chemistry,Chemistry,3.0,CH 2420,,"Fall, Spring"
+CH 4631,Polymer Science Laboratory,Chemistry,2.0,CH 4610(C) or CM 4610(C) or BE 4300(C) or MY 4600(C),,Fall - Offered alternate years beginning with the 2008-2009 academic year 
+CH 4640,Synthesis of Nanoparticles,Chemistry,3.0,CH 2410 and CH 2411,,Fall
+CH 4690,Current Topics in Polymer Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4710,Biomolecular Chemistry I,Chemistry,3.0,CH 2420,,"Fall, Summer"
+CH 4720,Biomolecular Chemistry II,Chemistry,3.0,BL 4010 or CH 4710,,Spring
+CH 4721,Research Methods in Biomolecular Chemistry,Chemistry,3.0,(CH 4710 and CH 4222) or CH 4212 and CH 4720(C),,Spring
+CH 4730,"Confocal Laser Scanning Microscopy: Foundations, Applications, and Advances",Chemistry,1.0,,,"Fall, Summer"
+CH 4790,Current Topics in Biochemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4800,Current Topics in Undergraduate Chemistry,Chemistry,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CH 4810,Design and Operation of a High School Chemistry Lab,Chemistry,2.0,CH 2420 and CH 2411 and CH 3020,,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+CH 4990,Undergraduate Research in Chemistry,Chemistry,variable to   6.0;  Repeatable to a Max of 12,,,"Fall, Spring, Summer"
+CH 4995,Undergrad Research in Biochem,Chemistry,variable to   6.0;  Repeatable to a Max of 12,,,"Fall, Spring, Summer"
+CM 1000,Introduction to Chemical Engineering,Chemical Engineering,1.0,,,Fall
+CM 2110,Fund of Chem Engg 1,Chemical Engineering,3.0,CH 1112 or (CH 1150 and CH 1151),,"Fall, Summer"
+CM 2120,Fund of Chem Engg 2,Chemical Engineering,3.0,CM 2110,,"Spring, Summer"
+CM 2200,Intro Minerals and Materials,Chemical Engineering,3.0,,,Fall
+CM 3110,Transport/Unit Operations 1,Chemical Engineering,3.0,CM 2120 and (MA 3520 or MA 3521 or MA 3530 or MA 3560) and MA 3160 and PH 2100,,"Fall, Spring"
+CM 3120,Transport/Unit Operations 2,Chemical Engineering,3.0,CM 3110 and CM 2120 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring
+CM 3215,Transport Laboratory,Chemical Engineering,2.0,CM 2120(C) and CM 3110(C) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring"
+CM 3230,Thermodynamics for Chemical Engineers,Chemical Engineering,4.0,CH 3510 and MA 3160 and (MA 3520(C) or MA 3521(C) or MA 3530(C) or MA 3560(C)),,"Fall, Spring"
+CM 3310,Process Control,Chemical Engineering,3.0,(MA 3520 or MA 3521 or MA 3530 or MA 3560) and PH 2200 and CM 2110 and CM 2120,,Spring
+CM 3410,Technical Communication for Chemical Engineering,Chemical Engineering,3.0,UN 1015,,"Fall, Spring, Summer"
+CM 3450,Computer-Aided Problem Solving in Chemical Engineering,Chemical Engineering,3.0,CM 2110(C) and MA 2160,,Fall - Offered alternate years beginning with the 2008-2009 academic year 
+CM 3510,Chemical Reaction Engineering,Chemical Engineering,3.0,CM 2110 and CM 3110 and CM 3230(C) and (MA 3520 or MA 3521 or MA 3530 or MA 3560) and CH 2410,,Spring
+CM 3825,"Sampling, Statistics, and Instrumentation",Chemical Engineering,2.0,,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+CM 3830,Mineral Processing and Extraction Laboratory,Chemical Engineering,1.0,CM 2200(C) or CM 2110(C),,Spring
+CM 3974,Fuel Cell Fundamentals,Chemical Engineering,1.0,CH 1112 or (CH 1150 and CH 1151),,"Fall, Spring"
+CM 3979,Alternative Energy Technologies and Processes,Chemical Engineering,1.0,CH 1112 or (CH 1150 and CH 1151) and (MA 1160 or MA 1161),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+CM 4000,Chemical Engineering Research,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CM 4020,Undergraduate Research in Mineral Processing Engineering,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CM 4040,Undergraduate Research in Biological Engineering,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CM 4060,Undergraduate Research in Polymer Engineering,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CM 4080,Undergraduate Research in BioFuels Engineering,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+CM 4110,Unit Operations Laboratory,Chemical Engineering,3.0,CM 3120 and CM 3215 and CM 3230 and CM 3410(C) and CM 3510 and CM 4310(C),,Fall
+CM 4120,Chemical Plant Operations Lab,Chemical Engineering,3.0,CM 3215 and CM 3310 and CM 4110,,Spring
+CM 4125,Bioprocess Engineering Laboratory,Chemical Engineering,1.0,CM 4710(C) or BL 3210 or BL 3310,,Spring - Offered alternate years beginning with the 2005-2006 academic year 
+CM 4310,Chemical Process Safety/Env,Chemical Engineering,3.0,CM 3120 and CM 3230,,Fall
+CM 4505,Particle Technology,Chemical Engineering,3.0,,,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+CM 4610,Introduction to Polymer Science,Chemical Engineering,3.0,CH 1122 or (CH 1160 and CH 1161),,Fall
+CM 4620,Polymer Chemistry,Chemical Engineering,3.0,CH 2420,,"Fall, Spring"
+CM 4631,Polymer Science Laboratory,Chemical Engineering,2.0,CM 4610(C) or CH 4610(C) or BE 4300(C) or MY 4600(C),,Fall - Offered alternate years beginning with the 2008-2009 academic year 
+CM 4650,Polymer  Rheology,Chemical Engineering,3.0,(CM 3110 or MEEM 3210 or ENG 3200 or MY 3110 or CE 3600) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+CM 4655,Polymer Rheology Laboratory,Chemical Engineering,1.0,CM 4610(C) or CH 4610(C) or CM 4650(C) or BE 4300(C) or MY 4600(C),,Fall
+CM 4710,Biochemical Processes,Chemical Engineering,3.0,CM 3110(C),,Fall - Offered alternate years beginning with the 2005-2006 academic year 
+CM 4740,Hydrometallurgy/Pyrometallurgy,Chemical Engineering,4.0,CH 1122 or (CH 1160 and CH 1161),,Spring
+CM 4770,Analytical Microdevice Technologies,Chemical Engineering,3.0,PH 2200,,"Fall, Spring - Offered alternate years beginning with the 2012-2013 academic year "
+CM 4780,Biomanufacturing and Biosafety,Chemical Engineering,3.0,BL 2100 or CH 4710 or CM 4040 or CM 4080 or CM 4710 or (CM 3110(C) and BL 1040),,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+CM 4855,CM Process Analysis &amp; Design I,Chemical Engineering,3.0,CM 3120 and CM 3230 and CM 3410(C) and CM 3510 and CH 2410,,Fall
+CM 4860,CM Process Analysis &amp; Design 2,Chemical Engineering,2.0,CM 4855,,Spring
+CM 4861,CM Design Laboratory 2,Chemical Engineering,1.0,CM 4860(C),,Spring
+CM 4900,Interdisciplinary Design 1,Chemical Engineering,variable to   3.0,,,Fall
+CM 4910,Interdisciplinary Design 2,Chemical Engineering,variable to   3.0,,,Spring
+CM 4990,Special Topics in CM,Chemical Engineering,variable to   3.0;  Repeatable to a Max of 12,,,On Demand
+CMG 1000,Introduction to Construction Management,Construction Management,2.0,,,Fall
+CMG 1140,Basic Construction Materials,Construction Management,3.0,,,Spring
+CMG 1200,Introduction to Building Information Modeling,Construction Management,2.0,,,Spring
+CMG 2110,Building Utility Systems,Construction Management,4.0,PH 1240(C),,Fall
+CMG 2120,Statics and Strengths of Materials for Construction,Construction Management,4.0,PH 1110 or PH 1140,,Spring
+CMG 2140,Building Materials &amp; Methods,Construction Management,4.0,CMG 1140,,Spring
+CMG 2265,Construction Quantity Survey,Construction Management,3.0,CMG 1000 and CMG 1140,,Spring
+CMG 3200,Site Planning and Development,Construction Management,4.0,SU 2000,,Spring
+CMG 3250,Structural Analysis and Design,Construction Management,3.0,CMG 2120 or MET 2120,,Fall
+CMG 3265,Construction Cost Estimating,Construction Management,4.0,CMG 2265,,Fall
+CMG 4000,Design-Build Project Delivery,Construction Management,3.0,CMG 3200(C),,On Demand
+CMG 4100,Construction Equipment Management,Construction Management,3.0,CMG 3265 and EC 3400,,On Demand
+CMG 4120,Construction Planning and Scheduling,Construction Management,3.0,CMG 3265 or CE 3332,,Spring
+CMG 4200,Construction Contracts,Construction Management,3.0,BUS 2200,,Spring
+CMG 4210,Construction Project Management,Construction Management,4.0,CMG 4200,,Fall
+CMG 4300,Construction Finance and Accounting,Construction Management,3.0,ACC 2000 and EC 3400,,Fall
+CMG 4400,Construction Safety Management,Construction Management,3.0,,,Fall
+CMG 4800,Sustainable Construction,Construction Management,3.0,,,Spring
+CMG 4900,Construction Project Simulation,Construction Management,4.0,CMG 3200 and CMG 3250 and CMG 4120(C) and CMG 4210 and HU 3120,,Spring
+CMG 4996,Special Topics in Construction Management,Construction Management,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+CMG 4997,Independent Study in Construction Management,Construction Management,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+CMG 4998,Undergraduate Research in Construction Management,Construction Management,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+CS 1000,Explorations in Computing,Computer Science,1.0,,,Fall
+CS 1040,Assembly Language Programming,Computer Science,1.0,CS 1122 or CS 1131,,"Fall, Spring, Summer"
+CS 1090,Special Topics in Computer Science,Computer Science,variable to   3.0;  May be repeated,,,On Demand
+CS 1111,Introduction to Programming in C/C++,Computer Science,3.0,,,Fall
+CS 1121,Introduction to Programming I,Computer Science,3.0,MA 1031(C) or MA 1032(C),,"Fall, Spring, Summer"
+CS 1122,Introduction to Programming II,Computer Science,3.0,CS 1121,,"Fall, Spring, Summer"
+CS 1131,Accelerated Introduction to Programming,Computer Science,5.0,MA 1031 or MA 1032 or MA 1160(C) or MA 1161(C),,Fall
+CS 1142,Programming at the Hardware Software Interface,Computer Science,3.0,CS 1122 or CS 1131,,"Fall, Spring, Summer"
+CS 2090,Special Topics in Computer Science,Computer Science,variable to   3.0;  May be repeated,,,On Demand
+CS 2311,Discrete Structures,Computer Science,3.0,(CS 1121 or CS 1131) and (MA 1135 or MA 1160 or MA 1161),,"Fall, Spring, Summer"
+CS 2321,Data Structures,Computer Science,3.0,CS 1122 or CS 1131,,"Fall, Spring, Summer"
+CS 3000,Ethical and Social Aspects of Computing,Computer Science,2.0,CS 3141,,"Fall, Spring"
+CS 3090,Special Topics in Computer Science,Computer Science,variable to   3.0;  May be repeated,,,On Demand
+CS 3141,Team Software Project,Computer Science,3.0,CS 2311 and CS 2321,,"Fall, Spring"
+CS 3311,Formal Models of Computation,Computer Science,3.0,CS 2311,,"Fall, Spring, Summer"
+CS 3331,Concurrent Computing,Computer Science,3.0,CS 1142 or (CS 1141 and CS 1040) and CS 2311 and CS 2321,,"Fall, Spring"
+CS 3411,Systems Programming,Computer Science,3.0,CS 3421,,"Fall, Spring, Summer"
+CS 3421,Computer Organization,Computer Science,3.0,(CS 1141 and CS 1040) or CS 1142,,"Fall, Spring, Summer"
+CS 3425,Introduction to Database Systems,Computer Science,3.0,CS 2311 and CS 2321,,"Fall, Spring"
+CS 3712,Software Quality Assurance,Computer Science,3.0,CS 3141,,Spring
+CS 4090,Special Topics in Computer Science,Computer Science,variable to   4.0;  May be repeated,,,On Demand
+CS 4099,Directed Study in Computer Science,Computer Science,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+CS 4121,Programming Languages,Computer Science,3.0,CS 2321 and CS 3421 and CS 3311,,"Fall, Spring"
+CS 4130,Compiler Design and Optimization,Computer Science,3.0,CS 4121,,"Fall, Spring"
+CS 4321,Introduction to Algorithms,Computer Science,3.0,CS 2311 and CS 2321,,"Fall, Spring"
+CS 4411,Operating Systems,Computer Science,3.0,CS 3331 and CS 3421,,Spring
+CS 4425,Database Management System Design,Computer Science,3.0,CS 3425,,On Demand
+CS 4431,Computer Architecture,Computer Science,3.0,CS 3421,,"Fall, Spring"
+CS 4461,Computer Networks,Computer Science,3.0,CS 3411,,"Fall, Spring"
+CS 4471,Computer Security,Computer Science,3.0,CS 3411 or CS 4411,,Fall
+CS 4496,GPU and Multicore Programming,Computer Science,3.0,CS 3411 and CS 3421,,Fall
+CS 4611,Computer Graphics,Computer Science,3.0,(CS 1141 or CS 1142) and CS 2321 and MA 2330,,Fall
+CS 4710,Model-Driven Software Development,Computer Science,3.0,CS 3311 and CS 3141(C),,Spring
+CS 4711,Software Processes and Management,Computer Science,3.0,CS 3141,,Fall
+CS 4750,Teaching Methods in Computer Science,Computer Science,3.0,ED 4700,,On Demand
+CS 4760,Human-Computer Interactions,Computer Science,3.0,CS 3141,,Spring
+CS 4791,Senior Software Engineering Project I,Computer Science,3.0,CS 4710 or CS 4711 or CS 4712,,"Fall, Spring"
+CS 4792,Senior Software Engineering Project II,Computer Science,3.0,CS 4791,,"Fall, Spring"
+CS 4811,Artificial Intelligence,Computer Science,3.0,CS 2321 and CS 3311,,Spring
+CS 4821,Data Mining,Computer Science,3.0,(CS 3425 or MIS 3100) and (MA 2330 or MA 2320 or MA 2321) and (MA 2710 or MA 2720 or MA 3710),,Spring
+EC 2001,Principles of Economics,Economics,3.0,MA 1020 or MA 1031 or MA 1032 or MA 1135(C) or MA 1160(C) or MA 1161(C),,"Fall, Spring, Summer"
+EC 3002,Microeconomic Theory,Economics,3.0,EC 2001 and (MA 1135 or MA 1160 or MA 1161) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+EC 3003,Macroeconomic Theory,Economics,3.0,EC 2001 and (MA 1135 or MA 1160 or MA 1161) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+EC 3100,International Economics,Economics,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring, Summer"
+EC 3300,Industrial Organization,Economics,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring, Summer"
+EC 3400,Economic Decision Analysis,Economics,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring, Summer"
+EC 4000,Senior Seminar in Economics,Economics,3.0,,,Spring
+EC 4050,Game Theory/Strategic Behavior,Economics,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer"
+EC 4100,Mathematical Economics,Economics,3.0,EC 3002 and EC 3003 and (MA 1160 or MA 1161 or MA 1135),,Fall
+EC 4200,Econometrics,Economics,3.0,(EC 2001 or EC 3002 or EC 3003) and (BUS 2100 or MA 2710 or MA 2720 or MA 3710) and (MA 1135 or MA 1160 or MA 1161),,Fall
+EC 4400,Banking and Financial Institutions,Economics,3.0,(EC 3003 or FIN 3000) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring"
+EC 4500,Public Sector Economics,Economics,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+EC 4620,Energy Economics,Economics,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+EC 4630,Mineral Industry Economics,Economics,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring - Offered alternate years beginning with the 2009-2010 academic year "
+EC 4640,Natural Resource Economics,Economics,3.0,(EC 2001 or EC 3002 or FW 4080) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+EC 4650,Environmental Economics,Economics,3.0,(EC 2001 or EC 3002) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+EC 4710,Labor/Human Resource Economics,Economics,3.0,EC 2001 and (MA 2710 or MA 2720 or MA 3710) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+EC 4900,Research,Economics,variable to   4.0;  Repeatable to a Max of 6,EC 2001,,On Demand
+EC 4990,Special Topics in Economics,Economics,variable to   4.0;  Repeatable to a Max of 6,EC 2001,,On Demand
+ED 0510,Graduate Teaching Assistant Training,Education,1.0,,,"Fall, Spring, Summer"
+ED 2010,Field Study in Education: Elementary School,Education,1.0,,,"Fall, Spring"
+ED 2020,Field Study in Education: Secondary School,Education,1.0,,,"Fall, Spring"
+ED 3100,Instructional Technology,Education,2.0,,,Spring
+ED 3110,Psychological Foundations of Learning,Education,3.0,,,"Fall, Spring"
+ED 3210,Foundations of Education,Education,2.0,ED 3110(C) and ED 3410(C),"ED 3110, ED 3410",Fall
+ED 3410,Clinical Experience,Education,1.0,,"ED 3110, ED 3210","Fall, Spring"
+ED 3510,Communicating Science I,Education,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring"
+ED 3511,Communicating Science II,Education,1.0,,,"Fall, Spring, Summer"
+ED 4020,Methods of Teaching Social Studies,Education,2.0,ED 4700(C),,On Demand
+ED 4140,Methods of Teaching English,Education,4.0,ED 4700(C),,Fall
+ED 4150,Literacy in the Content Areas,Education,4.0,ED 3110 and ED 3210 and ED 3410,,"Fall, Spring"
+ED 4510,Special Topics in Education,Education,variable to   6.0;  Repeatable to a Max of 9,,,"Fall, Spring"
+ED 4700,Fundamentals of Instruction,Education,3.0,ED 3110 and ED 3210 and ED 3410,,"Fall, Spring"
+ED 4720,Methods of Teaching Science,Education,2.0,ED 4700(C),,Fall
+ED 4750,Teaching Methods in Computer Science,Education,3.0,ED 4700,,On Demand
+ED 4850,Environmental Education Methods,Education,4.0,,,On Demand
+ED 4910,Directed Teaching,Education,12.0,ED 3100 and ED 4700 and (ED 4720 or HU 4140 or SS 4020(C) or MA 4905),,"Fall, Spring"
+EE 1110,Essential Mathematics for Electrical Engineering,Electrical &amp; Computer Engrg,1.0; Graded Pass/Fail Only,MA 1160 or MA 1161,,"Fall, Spring, Summer"
+EE 1111,Introduction to Electrical and Computer Engineering,Electrical &amp; Computer Engrg,1.0,,,"Fall, Spring"
+EE 2111,Electric Circuits I,Electrical &amp; Computer Engrg,3.0,EE 1110 and MA 2160,,"Fall, Spring, Summer"
+EE 2112,Electric Circuits II and Lab,Electrical &amp; Computer Engrg,4.0,EE 2111 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring, Summer"
+EE 2174,Digital Logic and Lab,Electrical &amp; Computer Engrg,4.0,EET 2241(C) or EE 2241(C) or CS 1121(C) or CS 1131(C) or CS 1111(C),,"Fall, Spring, Summer"
+EE 3010,Circuits and Instrumentation,Electrical &amp; Computer Engrg,3.0,,,"Fall, Spring, Summer"
+EE 3090,Geometrical and Wave Optics,Electrical &amp; Computer Engrg,3.0,EE 3140(C) and (MA 3520 or MA 3521 or MA 3530 or PH 2200(C)),,Fall
+EE 3120,Electric Energy Systems,Electrical &amp; Computer Engrg,3.0,EE 2110 or EE 3010 or (EE 2111 and EE 2112(C)),,"Fall, Spring, Summer"
+EE 3131,Electronics,Electrical &amp; Computer Engrg,4.0,EE 2112 or EE 3010,,"Fall, Spring, Summer"
+EE 3140,Electromagnetics,Electrical &amp; Computer Engrg,3.0,PH 2200 and MA 3160 and (EE 2110 or EE 2112),,"Fall, Spring"
+EE 3160,Signals and Systems,Electrical &amp; Computer Engrg,3.0,(EE 2110 or EE 2112) and (MA 2320 or MA 2321 or MA 2330) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring, Summer"
+EE 3171,Microcontroller Applications,Electrical &amp; Computer Engrg,4.0,(EE 2241 or CS 1121 or CS 1111) and (EE 2174 or EE 2173),,"Fall, Spring, Summer"
+EE 3173,Hardware/Software System Integration,Electrical &amp; Computer Engrg,4.0,(EE 2304 or EE 2174) and (EE 3130 or EE 3131) and (CS 1141 or CS 2141) and CS 3421 and (MA 3710 or EE 3180),,"Fall, Spring"
+EE 3180,Introduction to Probability and Random Signal Analysis,Electrical &amp; Computer Engrg,3.0,EE 3160,,"Fall, Spring, Summer"
+EE 3190,Optical Sensing and Imaging,Electrical &amp; Computer Engrg,3.0,EE 3090,,Spring
+EE 3250,Introduction to Communications Theory,Electrical &amp; Computer Engrg,3.0,EE 3160 and EE 3180(C),,"Fall, Spring, Summer"
+EE 3261,Control Systems,Electrical &amp; Computer Engrg,3.0,EE 3160,,"Fall, Spring"
+EE 3290,"Photonic Material, Devices, and Applications",Electrical &amp; Computer Engrg,4.0,EE 3140 or EE 3090 or PH 2400,,Fall
+EE 3373,Introduction to Programmable Controllers,Electrical &amp; Computer Engrg,3.0,EE 2110 or EE 2112 or EE 3010,,Fall
+EE 3901,Design Fundamentals,Electrical &amp; Computer Engrg,2.0,EE 3131(C) and UN 1015,,"Fall, Spring"
+EE 4000,Undergraduate Research,Electrical &amp; Computer Engrg,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+EE 4173,Computer System Engineering and Performance,Electrical &amp; Computer Engrg,3.0,CS 3421 and EE 3173,,"Fall, Spring"
+EE 4219,Introduction to Electric Machinery and Drives,Electrical &amp; Computer Engrg,3.0,EE 2110 or EE 2112 or EE 3010,,Spring
+EE 4220,Introduction to Electric Machinery and Drives Laboratory,Electrical &amp; Computer Engrg,1.0,EE 4219(C),,Spring
+EE 4221,Power System Analysis 1,Electrical &amp; Computer Engrg,3.0,EE 3120 and (EE 2112 or EE 2110),,Fall
+EE 4222,Power System Analysis 2,Electrical &amp; Computer Engrg,3.0,EE 4221,,Spring
+EE 4226,Power Engineering Laboratory,Electrical &amp; Computer Engrg,1.0,EE 4221 and EE 4222(C),,"Spring, Summer"
+EE 4227,Power Electronics,Electrical &amp; Computer Engrg,3.0,EE 3120 and (EE 3130(C) or EE 3131),,"Fall, Summer"
+EE 4228,Power Electronics Lab,Electrical &amp; Computer Engrg,1.0,EE 4227(C),,Fall
+EE 4231,Physical Electronics,Electrical &amp; Computer Engrg,3.0,EE 3130 or EE 3131,,"Fall, Spring"
+EE 4232,Electronic Applications,Electrical &amp; Computer Engrg,3.0,EE 3130 or EE 3131,,Spring
+EE 4240,Introduction to MEMS,Electrical &amp; Computer Engrg,4.0,,,Fall
+EE 4252,Digital Signal Processing and its Applications,Electrical &amp; Computer Engrg,4.0,EE 3160,,Fall
+EE 4253,Real Time Signal Processing,Electrical &amp; Computer Engrg,3.0,EE 4252,,Spring
+EE 4256,Fourier Optics,Electrical &amp; Computer Engrg,3.0,EE 3090 or EE 3140 and EE 3160,,Fall
+EE 4262,Digital and Non-linear Control,Electrical &amp; Computer Engrg,3.0,EE 3261,,Spring
+EE 4271,VLSI Design,Electrical &amp; Computer Engrg,4.0,EE 3131 and EE 2174,,"Fall, Summer"
+EE 4272,Computer Networks,Electrical &amp; Computer Engrg,3.0,CS 3411,,"Fall, Spring"
+EE 4290,Optical Communication,Electrical &amp; Computer Engrg,3.0,EE 3291,,Spring
+EE 4295,Introduction to Propulsion Systems for Hybrid Electric Vehicles,Electrical &amp; Computer Engrg,3.0,MEEM 2200 or ENG 3200,,"Fall, Summer"
+EE 4296,Experimental Studies in Hybrid Electric Vehicles,Electrical &amp; Computer Engrg,3.0,,,Fall
+EE 4365,In-Vehicle Communication Networks,Electrical &amp; Computer Engrg,3.0,EET 1411 or EET 1120 or EE 2111 or EE 3010 or PH 2230,,"Spring, Summer"
+EE 4373,Advanced Programmable Controllers,Electrical &amp; Computer Engrg,4.0,EE 3373,,Spring
+EE 4411,Engineering Electromagnetics,Electrical &amp; Computer Engrg,3.0,EE 3140,,Fall
+EE 4490,Laser Systems and Applications,Electrical &amp; Computer Engrg,4.0,EE 3140,,Spring
+EE 4495,Software/Hardware Design of Multimedia Systems,Electrical &amp; Computer Engrg,3.0,CS 3411 and EE 4173,,Spring
+EE 4723,Network Security,Electrical &amp; Computer Engrg,3.0,EE 4272 or CS 4461,,Fall
+EE 4735,Embedded Systems Engineering,Electrical &amp; Computer Engrg,3.0,(CS 1141 or EE 2241) and (EE 3170 or EE 3171 or EE 3173),,"Spring, Summer"
+EE 4777,Distributed Additive Manufacturing Using Open-Source 3-D Printing,Electrical &amp; Computer Engrg,3.0,,,Fall
+EE 4800,Special Topics in Electrical Engineering,Electrical &amp; Computer Engrg,variable to   4.0;  Repeatable to a Max of 6,,,On Demand
+EE 4805,Electrical Engineering Project,Electrical &amp; Computer Engrg,variable to   3.0;  Repeatable to a Max of 6; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+EE 4870,Special Topics in Computer Engineering,Electrical &amp; Computer Engrg,variable to   4.0;  Repeatable to a Max of 6,,,On Demand
+EE 4901,EE Design Project 1,Electrical &amp; Computer Engrg,2.0,(EE 3131 or (EE 3130 and EE 3305)) and (EE 3901 or EE 4900) and (EE 3170(C) or EE 3171(C) or EE 3173(C)),,Fall
+EE 4910,EE Design Project 2,Electrical &amp; Computer Engrg,2.0,EE 4901,,Spring
+EET 1120,Circuits I,Electrical Engrg Technology,4.0,MA 1031(C) or MA 1032(C) or MA 1160(C) or MA 1161(C) or MA 1135(C),,Spring
+EET 1411,Basic Electronics,Electrical Engrg Technology,4.0,MA 1031 or MA 1032 or MA 1160(C) or MA 1161(C) or MA 1135(C),,"Fall, Spring, Summer"
+EET 2120,Circuits II,Electrical Engrg Technology,4.0,EET 1120 and (MA 1160(C) or MA 1161(C) or MA 1135(C)),,Fall
+EET 2141,Digital Electronics and Microprocessor Fundamentals,Electrical Engrg Technology,4.0,EET 1120 or EET 1411,,Fall
+EET 2142,Digital Design and Modeling Using VHDL,Electrical Engrg Technology,3.0,EET 2141,,Spring
+EET 2220,Electronic Devices &amp; Circuits,Electrical Engrg Technology,4.0,EET 2120,,Spring
+EET 2233,Electrical Machinery,Electrical Engrg Technology,4.0,EET 1411 or EET 2120(C),,"Fall, Summer"
+EET 2241,C++ and Matlab Programming,Electrical Engrg Technology,3.0,MA 2160(C),,Spring
+EET 2411,Digital Electronics,Electrical Engrg Technology,3.0,EET 1411 and (MA 1031(C) or MA 1032(C) or MA 1160(C) or MA 1161(C) or MA 1135(C)),,Spring
+EET 2413,Data Communications,Electrical Engrg Technology,3.0,EET 1411 or EET 1120,,"Fall, Summer"
+EET 3131,Instrumentation,Electrical Engrg Technology,3.0,EET 1411 or EET 2220 or PH 2230 or EE 2110 or EE 3010,,Spring
+EET 3141,Computer Architecture and Design,Electrical Engrg Technology,4.0,EET 2241 and EET 2142(C),,Fall
+EET 3143,Programmable Logic Devices,Electrical Engrg Technology,3.0,EET 3141,,"Fall, Spring"
+EET 3225,Special Electronic Devices,Electrical Engrg Technology,4.0,EET 2220,,Fall
+EET 3281,Electrical Project Development and Troubleshooting,Electrical Engrg Technology,3.0,EET 2220,,Spring
+EET 3367,Communication Systems,Electrical Engrg Technology,4.0,EET 3225,,Spring
+EET 3373,Introduction to Programmable Controllers,Electrical Engrg Technology,3.0,EET 1411 or (EET 2120 and EET 2141) or EET 2411 or PH 2230 or EE 2110 or EE 3010 or EE 2112,,Fall
+EET 3390,Power Systems,Electrical Engrg Technology,3.0,EET 2233,,Fall
+EET 4141,Microcontroller Interfacing,Electrical Engrg Technology,4.0,EET 2141 or CS 1121,,Fall
+EET 4142,Digital Signal Processing Applications,Electrical Engrg Technology,3.0,EET 3367 and EET 4141,,Spring
+EET 4144,Real-Time Robotics Systems,Electrical Engrg Technology,4.0,EET 1411 or EET 2220 or PH 2230 or EE 2110 or EE 3010,,On Demand
+EET 4147,Industrial Robotic Vision Systems and Advanced Teach Pendant Programming,Electrical Engrg Technology,4.0,EET 4144,,"Spring, Summer"
+EET 4253,LabVIEW Programming for Data Acquisition,Electrical Engrg Technology,3.0,EET 1411 or EET 2220 or EE 2110 or EE 3010 or PH 2230,,Spring
+EET 4311,Advanced Circuits and Controls,Electrical Engrg Technology,4.0,EET 3131 or EET 4253,,Fall
+EET 4363,Industrial Communication Protocols,Electrical Engrg Technology,3.0,EET 2413(C) or EE 3010(C) or EE 3250(C),,On Demand
+EET 4365,In-Vehicle Communication Networks,Electrical Engrg Technology,3.0,EET 1411 or EET 1120 or EE 2111 or EE 3010 or PH 2230,,"Spring, Summer"
+EET 4367,Wireless Communications,Electrical Engrg Technology,3.0,EET 3367 and MA 2160,,Spring
+EET 4373,Advanced Programmable Controllers,Electrical Engrg Technology,4.0,EET 3373,,Spring
+EET 4380,Alternative Energy Applications,Electrical Engrg Technology,3.0,EET 2233,,On Demand
+EET 4460,Senior Project I,Electrical Engrg Technology,3.0,,,"Fall, Spring, Summer"
+EET 4480,Senior Project II,Electrical Engrg Technology,3.0;  Repeatable to a Max of 6,EET 4460,,"Fall, Spring, Summer"
+EET 4996,Special Topics in Electrical Engineering Technology,Electrical Engrg Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+EET 4997,Independent Study in Electrical Engineering Technology,Electrical Engrg Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+EET 4998,Undergraduate Research in Electrical Engineering Technology,Electrical Engrg Technology,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+EET 4999,Professional Practice in Electrical Engineering Technology,Electrical Engrg Technology,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+EH 1000,Introduction to Exercise Science,Kinesiology/Integ Physiology,1.0,,,Fall
+EH 1010,Introduction to Sports and Fitness Management,Kinesiology/Integ Physiology,1.0,,,Fall
+EH 1500,Foundations of Kinesiology,Kinesiology/Integ Physiology,3.0,,,Spring
+EH 2029,Outdoor Emergency Care Training (Ski Patrol),Kinesiology/Integ Physiology,2.0,PE 2028,,Fall
+EH 2050,Sports and Fitness Leadership,Kinesiology/Integ Physiology,2.0,,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+EH 2100,Principles of Sports Officiating,Kinesiology/Integ Physiology,2.0,,,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+EH 2470,Lifeguard First Aid,Kinesiology/Integ Physiology,1.0,,PE 1470,Spring
+EH 2580,Water Safety Instructor,Kinesiology/Integ Physiology,1.0,,PE 1580,Spring
+EH 2800,Health Promotion,Kinesiology/Integ Physiology,2.0,EH 1500,,Fall
+EH 3000,Master Student Athlete,Kinesiology/Integ Physiology,1.0,,,Fall
+EH 3010,Sports Psychology,Kinesiology/Integ Physiology,3.0,PSY 2000,,"Fall, Spring, Summer"
+EH 3020,Foundations of Coaching,Kinesiology/Integ Physiology,3.0,,,"Fall, Summer"
+EH 3030,Methods of Coaching,Kinesiology/Integ Physiology,2.0,,,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+EH 3050,Introduction to Athletic Training,Kinesiology/Integ Physiology,3.0,,,"Fall, Spring"
+EH 3060,Sports Medicine Practicum,Kinesiology/Integ Physiology,variable to   2.0;  Repeatable to a Max of 2,,,"Fall, Spring"
+EH 3070,Sports Administration,Kinesiology/Integ Physiology,2.0,,,Spring - Offered alternate years beginning with the 2011-2012 academic year 
+EH 3080,Facilities &amp; Events Management,Kinesiology/Integ Physiology,2.0,,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+EH 3100,Exercise Assessment and Prescription,Kinesiology/Integ Physiology,3.0,BL 2020 and BL 2021,,Spring
+EH 3690,Medical First Responder,Kinesiology/Integ Physiology,1.0,,PE 1690,On Demand
+EH 3700,Lifetime Fitness,Kinesiology/Integ Physiology,3.0,,,Summer
+EH 3820,Personal Training,Kinesiology/Integ Physiology,2.0,BL 2020 and BL 2021 and EH 3100,,Spring
+EH 4100,Coaching Practicum,Kinesiology/Integ Physiology,2.0,EH 3010 and EH 3020,,"Fall, Spring, Summer"
+EH 4200,Sports Nutrition Seminar,Kinesiology/Integ Physiology,2.0,BL 2940,,"Fall, Spring"
+EH 4210,Exercise Physiology,Kinesiology/Integ Physiology,3.0,BL 2020 and BL 2021,EH 4211,Fall
+EH 4211,Exercise Physiology Laboratory,Kinesiology/Integ Physiology,1.0,,EH 4210,Fall
+EH 4220,EKG Interpretation,Kinesiology/Integ Physiology,2.0,BL 2020 and BL 2021,,Spring
+EH 4400,Motor Learning and Control,Kinesiology/Integ Physiology,3.0,EH 1500 and BL 2020,,Fall
+EH 4420,Motor Development,Kinesiology/Integ Physiology,3.0,EH 1500 and BL 2020,,Spring
+EH 4500,Biomechanics of Human Movement,Kinesiology/Integ Physiology,3.0,BL 2020 and EH 1500 and PH 1110 and PH 1111,EH 4511,Fall
+EH 4510,Strength and Conditioning,Kinesiology/Integ Physiology,3.0,BL 2020 and BL 2021,,On Demand
+EH 4511,Biomechanics of Human Movement Laboratory,Kinesiology/Integ Physiology,1.0,BL 2020 and EH 1500 and PH 1110 and PH 1111,EH 4500,Fall
+EH 4600,Sports and Fitness Promotions,Kinesiology/Integ Physiology,2.0,MKT 3000,,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+EH 4620,Legal Issues in Sports and Fitness Management,Kinesiology/Integ Physiology,2.0,,,Fall - Offered alternate years beginning with the 2012-2013 academic year 
+EH 4700,Physical Therapy Seminar,Kinesiology/Integ Physiology,1.0,BL 2020 and BL 2021,,Spring - Offered alternate years beginning with the 2014-2015 academic year 
+EH 4710,Stress Physiology,Kinesiology/Integ Physiology,2.0,BL 2020 and BL 2021,,On Demand
+EH 4711,Sports Medicine and Ethics,Kinesiology/Integ Physiology,3.0,,,On Demand
+EH 4720,Sleep and Circadian Physiology,Kinesiology/Integ Physiology,3.0,BL 2020 and BL 2021,,On Demand
+EH 4730,Neuroendocrine Physiology,Kinesiology/Integ Physiology,3.0,BL 2020 and BL 2021,,On Demand
+EH 4740,Exercise Pharmacology,Kinesiology/Integ Physiology,2.0,BL 2020 and BL 2021,,Spring
+EH 4750,Molecular Exercise Physiology,Kinesiology/Integ Physiology,2.0,BL 2020 and BL 2021 and BL 2200,,Fall
+EH 4760,Computational Biomechanics,Kinesiology/Integ Physiology,3.0,EH 4500,,On Demand
+EH 4770,Specificity of Exercise Assessment &amp; Prescription,Kinesiology/Integ Physiology,3.0,EH 3100,,On Demand
+EH 4800,Internship in Sports and Fitness Management,Kinesiology/Integ Physiology,variable to  12.0;  Repeatable to a Max of 12,EH 4850,,"Fall, Spring, Summer"
+EH 4850,Professionalism in Kinesiology,Kinesiology/Integ Physiology,1.0,,,Fall
+EH 4900,Internship in Exercise Science,Kinesiology/Integ Physiology,variable to   9.0;  Repeatable to a Max of 9,EH 4850,,"Fall, Spring, Summer"
+EH 4950,Special Topics in Physical Activity,Kinesiology/Integ Physiology,variable to   9.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+EH 4990,Special Topics in Exercise Science,Kinesiology/Integ Physiology,variable to   9.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+EH 4995,Research in Kinesiology,Kinesiology/Integ Physiology,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+ENG 1001,Engineering Problem Solving,Engineering Fundamentals,2.0,(MA 1031(C) or MA 1032(C)) and (Spatial Visualization Score >= 19 or ENG 1002(C)),,Fall
+ENG 1002,Introduction to 3-D Spatial Visualization,Engineering Fundamentals,1.0,,,"Fall, Spring"
+ENG 1003,Introduction to Computer Aided Drafting,Engineering Fundamentals,1.0,ENG 1002 or ENG 1100 or ENG 1101,,Spring
+ENG 1100,Engineering Analysis,Engineering Fundamentals,2.0,ENG 1001 and (MA 1160(C) or MA 1161(C)) and (Spatial Visualization Score >= 19 or ENG 1002(C)),,Spring
+ENG 1101,Engineering Analysis and Problem Solving,Engineering Fundamentals,3.0,(MA 1160(C) or MA 1161(C) or MA 2160(C) or MA 3160(C)) and (Spatial Visualization Score >= 19 or ENG 1002(C)),,"Fall, Spring, Summer"
+ENG 1102,Engineering Modeling and Design,Engineering Fundamentals,3.0,(MA 1160 or MA 1161 or MA 2160(C) or MA 3160(C)) and (ENG 1101 or (ENG 1001 and ENG 1100)) and (Spatial Visualization Score >= 19 or ENG 1002),,"Fall, Spring, Summer"
+ENG 1990,Special Topics in Engineering,Engineering Fundamentals,variable to   5.0;  Repeatable to a Max of 6,,,On Demand
+ENG 2120,Statics-Strength of Materials,Engineering Fundamentals,4.0,MA 2160 and PH 2100 and ENG 1102,,Spring
+ENG 2990,Special Topics in Engineering,Engineering Fundamentals,variable to   5.0;  Repeatable to a Max of 6,,,On Demand
+ENG 3200,Thermodynamics/Fluid Mechanics,Engineering Fundamentals,4.0,MA 2160 and CH 1112 or (CH 1150 and CH 1151) and PH 2100 and ENG 1102,,"Fall, Spring"
+ENG 3990,Special Topics in Engineering,Engineering Fundamentals,variable to   5.0;  Repeatable to a Max of 6,,,On Demand
+ENG 4300,Engineering Project Management,Engineering Fundamentals,3.0,BUS 2100 or CE 3710 or MA 2720 or MA 3710 or EE 3180 or BE 2100,,Summer
+ENG 4510,Sustainable Futures I,Engineering Fundamentals,3.0,,,Fall
+ENG 4900,Multidisciplinary Senior Design Project I,Engineering Fundamentals,variable to   4.0,,,On Demand
+ENG 4905,Senior Engineering Design Project,Engineering Fundamentals,variable to   4.0,,,On Demand
+ENG 4910,Multidisciplinary Senior Design Project II,Engineering Fundamentals,variable to   4.0,ENG 4900,,On Demand
+ENG 4990,Special Topics in Engineering,Engineering Fundamentals,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+ENT 1960,Enterprise Orientation-Spring,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 2950,Enterprise Project Work I,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 2960,Enterprise Project Work II,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 2961,Teaming in the Enterprise,Enterprise,2.0,,,Fall
+ENT 2962,Communication Contexts,Enterprise,1.0,UN 1025,,Spring
+ENT 3950,Enterprise Project Work III,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 3953,"Ignite: Ideate, Innovate, Create!",Enterprise,2.0,,,"Fall, Spring"
+ENT 3954,Enterprise Market Principles,Enterprise,1.0,,,"Fall, Spring"
+ENT 3956,Industrial Health and Safety,Enterprise,1.0,,,Fall
+ENT 3958,Ethics in Engineering Design and Implementation,Enterprise,1.0,ENG 1101 or (ENG 1001 and ENG 1100),,"Fall, Spring"
+ENT 3959,Fundamentals of Six Sigma I,Enterprise,1.0,,,Fall
+ENT 3960,Enterprise Project Work IV,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 3961,Enterprise Strategic Leadership,Enterprise,1.0,ENT 2961 and (EC 2001 or PSY 2000 or SS 2100 or SS 2200 or SS 2400 or SS 2500 or SS 2501 or SS 2502 or SS 2503 or SS 2504 or SS 2505 or SS 2600 or SS 2700),,Spring
+ENT 3962,Communication Strategies,Enterprise,1.0,ENT 2962,,Spring
+ENT 3963,"Deliver: Explore, Develop, Execute!",Enterprise,2.0,,,Spring
+ENT 3964,Project Management,Enterprise,1.0,,,"Fall, Spring, Summer"
+ENT 3966,Design for Manufacturing,Enterprise,1.0,ENG 1102,,Spring
+ENT 3967,Six Sigma II,Enterprise,1.0,,,Spring
+ENT 3970,Enterprise Special Topics,Enterprise,1.0;  May be repeated,,,"Fall, Spring, Summer"
+ENT 3971,Seven Habits of Highly Effective People,Enterprise,1.0,,,Spring
+ENT 3974,Fuel Cell Fundamentals,Enterprise,1.0,CH 1112 or (CH 1150 and CH 1151),,Fall
+ENT 3976,Personal Brand Management,Enterprise,1.0,,,Spring
+ENT 3979,Alternative Energy Technologies and Processes,Enterprise,1.0,CH 1112 or (CH 1150 and CH 1151) and (MA 1160 or MA 1161),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+ENT 3980,Pre-Capstone Enterprise Project Work,Enterprise,1.0;  Repeatable to a Max of 2,ENT 3950 and ENT 3960,,"Fall, Spring, Summer"
+ENT 3982,Continuous Improvement Using Lean Principles,Enterprise,1.0,,,Fall
+ENT 3983,The Culture of Continuous Improvement,Enterprise,1.0,,,Spring
+ENT 3984,Lean Six Sigma Principles,Enterprise,3.0,,,Fall
+ENT 3985,Lean Six Sigma Certification Project Execution,Enterprise,3.0,ENT 3984,,Spring
+ENT 3987,Naval Systems and Platforms,Enterprise,2.0,,,"Fall, Spring"
+ENT 4900,Senior Enterprise Project Work V Non-Capstone,Enterprise,2.0,,,"Fall, Spring, Summer"
+ENT 4910,Senior Enterprise Project Work VI Non-Capstone,Enterprise,2.0,,,"Fall, Spring, Summer"
+ENT 4950,Enterprise Project Work V Capstone,Enterprise,2.0,(BE 3350 and BE 3700 and BE 3800 and BE 4900) or (CE 3620 or CE 3810 and CE 3331) or CM 4855(C) or (CS 4710 or CS 4711 or CS 4712) or (EE 3131 or (EE 3130 and EE 3305)) and (EE 4900 or EE 3901) and (EE 3171(C) or EE 3173(C) or EE 3170(C)) or (MEEM 3000(C) and MEEM 3900 and MEEM 3502(C)) or (MA 3710 and MEEM 3750(C) and MEEM 3201(C) and MEEM 3911) or (MY 3110 and MY 3200 and MY 3210 and MY 3300 and MY 3410) or CMG 4210(C) or EET 4253(C) or MET 4460(C) or SAT 4541(C) or SU 4100(C),,"Fall, Spring, Summer"
+ENT 4951,Business Plans and Budgeting in the Enterprise,Enterprise,1.0,,,Spring
+ENT 4954,Global Competition,Enterprise,1.0,ENT 2961 and (EC 2001 or PSY 2000 or SS 2100 or SS 2200 or SS 2400 or SS 2500 or SS 2501 or SS 2502 or SS 2503 or SS 2504 or SS 2505 or SS 2600 or SS 2700),,Fall
+ENT 4960,Enterprise Project Work VI Capstone,Enterprise,2.0,ENT 4950,,"Fall, Spring, Summer"
+ENT 4961,Enterprise Project Work VII,Enterprise,1.0;  Repeatable to a Max of 2,ENT 3950 and ENT 3960 and ENT 4950 and ENT 4960,,"Fall, Spring, Summer"
+ENT 4970,Enterprise Special Topics,Enterprise,1.0;  May be repeated,,,"Fall, Spring"
+ENVE 1501,Experiences in Environmental Engineering,Environmental Engineering,1.0,,,Fall
+ENVE 3501,Environmental Engineering Fundamentals,Environmental Engineering,3.0,MA 2160 and CH 1112 or (CH 1150 and CH 1151),,Fall
+ENVE 3502,Environmental Monitoring and Measurement Analysis,Environmental Engineering,3.0,MA 2160 and CH 1112 or (CH 1150 and CH 1151),,Spring
+ENVE 3503,Environmental Engineering,Environmental Engineering,3.0,MA 2160 and CH 1112 or (CH 1150 and CH 1151),,"Fall, Spring, Summer"
+ENVE 4501,Environmental Engineering Chemical Processes,Environmental Engineering,4.0,(ENVE 3501 or ENVE 3503) and ENVE 3502 and ENG 3200,,Fall
+ENVE 4502,Wastewater Treatment Principles and Design,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Fall
+ENVE 4503,Drinking Water Treatment Principles and Design,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Spring
+ENVE 4504,Air Quality Engineering and Science,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Fall
+ENVE 4505,Surface Water Quality Engineering,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Fall
+ENVE 4506,Application of Sustainability Principles to Engineering Practice,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Spring
+ENVE 4507,Water Distribution and Wastewater Collection Design,Environmental Engineering,3.0,(ENVE 3501 or ENVE 3503) and CE 3620,,Spring
+ENVE 4509,Environmental Process &amp; Simulation,Environmental Engineering,2.0,(ENVE 3501 or ENVE 3503) and ENG 3200 and (ENVE 4502 and ENVE 4503) or ENVE 4508,,Spring
+ENVE 4510,Baccalaureate Thesis,Environmental Engineering,3.0,,,"Fall, Spring"
+ENVE 4511,Solid and Hazardous Waste Engineering,Environmental Engineering,3.0,ENVE 3501 or ENVE 3503,,Spring
+ENVE 4515,Atmospheric Chemistry,Environmental Engineering,3.0,ENVE 4504 or ENVE 4501 or CH 3510,,Spring
+ENVE 4518,Aquatic Biogeochemistry,Environmental Engineering,3.0,ENVE 4501(C) and ENVE 4505(C),,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+ENVE 4528,Global Biogeochemistry,Environmental Engineering,3.0,ENVE 4501(C),,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+ENVE 4930,Environmental Engineering Independent Study,Environmental Engineering,variable to   3.0;  Repeatable to a Max of 3,,,"Fall, Spring, Summer"
+ENVE 4990,Special Topics in Environmental Engineering,Environmental Engineering,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+ESL 0210,High Beginner Reading,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0211,High Beginner Vocabulary,English as a Second Language,1.0; Graded Pass/Fail Only,,,On Demand
+ESL 0220,High Beginning Writing,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0230,High Beginner Listening and Speaking,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0231,High Beginner Pronunciation,English as a Second Language,1.0; Graded Pass/Fail Only,,,On Demand
+ESL 0240,High Beginner Grammar,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0290,Beginning Special Topics,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0310,Intermediate Reading I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0311,Intermediate Vocabulary I,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0320,Intermediate Writing I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0330,Intermediate Listening and Speaking I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0331,Intermediate Pronunciation I,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0340,Intermediate Communicative Grammar,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0350,Intermediate Reading II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0351,Intermediate Vocabulary II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0360,Intermediate Writing II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0370,Intermediate Listening and Speaking II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0371,Intermediate Pronunciation II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0380,Intermediate Communicative Grammar II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0390,Intermediate Special Topics,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0399,Intermediate Independent Study,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0410,Advanced Reading I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0411,Advanced Vocabulary I,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0412,Advanced English for Business,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0413,Advanced English for Engineering,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0414,Advanced English for Math,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0415,Advanced English for Science,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0420,Advanced Writing I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0430,Advanced Listening and Speaking I,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0431,Advanced Pronunciation I,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0440,Advanced Communicative Grammar I,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0450,Advanced Reading II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0451,Advanced Vocabulary II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0460,Advanced Writing II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0470,Advanced Listening and Speaking II,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0471,Advanced Pronunciation II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0480,Advanced Communicative Grammar II,English as a Second Language,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0490,Advanced Special Topics,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0491,Transitional Writing,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0492,Transitional Listening and Speaking,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0493,Transitional Reading and Vocabulary,English as a Second Language,3.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+ESL 0495,TOEFL Preparation,English as a Second Language,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0499,Advanced Independent Study,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0520,Academic Support Listening/Speaking,English as a Second Language,3.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+ESL 0560,Research Writing I,English as a Second Language,3.0; Graded Pass/Fail Only,,,Fall
+ESL 0580,Research Writing II,English as a Second Language,3.0; Graded Pass/Fail Only,,,Spring
+ESL 0590,Academic Support Spec Topics,English as a Second Language,variable to   4.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+ESL 0599,Academic Support Indep Study,English as a Second Language,variable to   6.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+FA 1662,Introduction to Audio Production,Visual and Performing Arts,1.0,,,Fall
+FA 1664,Introduction to Music Mixing,Visual and Performing Arts,1.0,,,Spring
+FA 1701,Backstage Technology,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 1702,Lighting and Sound Technology,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 1703,Costume Technology,Visual and Performing Arts,3.0,,,Fall
+FA 2050,Drawing I,Visual and Performing Arts,3.0,,,"Fall, Summer"
+FA 2123,World Music,Visual and Performing Arts,3.0,,,"Fall, Summer - Offered alternate years beginning with the 2017-2018 academic year "
+FA 2150,Creative Drawing,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 2160,Creative Practices,Visual and Performing Arts,3.0,,,"Fall, Spring - Offered alternate years beginning with the 2016-2017 academic year "
+FA 2190,Art and Nature,Visual and Performing Arts,3.0,,,"Fall, Spring - Offered alternate years beginning with the 2016-2017 academic year "
+FA 2200,Watermedia I,Visual and Performing Arts,3.0,,,On Demand
+FA 2222,Film Music,Visual and Performing Arts,3.0,,,"Fall, Summer"
+FA 2300,Two-Dimensional Design,Visual and Performing Arts,3.0,,,Fall
+FA 2305,Ceramics I,Visual and Performing Arts,3.0,,,"Fall, Spring, Summer"
+FA 2315,Beginning Wheel Throwing,Visual and Performing Arts,3.0,,,Fall
+FA 2320,Color and Meaning,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 2330,Art Appreciation,Visual and Performing Arts,3.0,,,"Fall, Spring, Summer"
+FA 2361,Scenic Art &amp; Scenic Illustration,Visual and Performing Arts,3.0,,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+FA 2400,Huskies Pep Band,Visual and Performing Arts,1.0;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring"
+FA 2402,Campus Concert Band,Visual and Performing Arts,1.0;  May be repeated; Graded Pass/Fail Only,,,Spring
+FA 2430,Research and Development Jazz Band,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring"
+FA 2445,Three-Dimensional Design,Visual and Performing Arts,3.0,,,Spring
+FA 2500,Music Theory I,Visual and Performing Arts,3.0,,,"Fall, Summer"
+FA 2501,"Basic Musicianship: Skill Acquisition in Music Reading, Sight-Singing, and Ear-Training",Visual and Performing Arts,3.0,,,Fall
+FA 2520,Music Appreciation,Visual and Performing Arts,3.0,,,"Fall, Spring, Summer"
+FA 2570,"Music Lessons for Brass, Woodwind, String, Percussion, Harp, Piano, Voice, Guitar",Visual and Performing Arts,0.5;  May be repeated; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+FA 2580,Group Voice,Visual and Performing Arts,3.0,,,"Spring, Summer"
+FA 2600,Beginning Acting,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 2640,Stage Makeup,Visual and Performing Arts,3.0,,,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+FA 2650,Audition Techniques,Visual and Performing Arts,3.0,FA 2600,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+FA 2660,Acting Practicum,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring, Summer"
+FA 2661,Backstage Practicum,Visual and Performing Arts,variable to   3.0;  May be repeated,,,"Fall, Spring"
+FA 2662,Sound Practicum,Visual and Performing Arts,variable to   3.0;  May be repeated,FA 1702 and (FA 1662 or FA 1664),,"Fall, Spring"
+FA 2663,Career Development,Visual and Performing Arts,1.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+FA 2701,Drafting for the Entertainment Industry,Visual and Performing Arts,3.0,,,"Spring, Summer"
+FA 2710,Movement for Performers,Visual and Performing Arts,3.0,,,Fall - Offered alternate years beginning with the 2009-2010 academic year 
+FA 2720,Sound in Art and Science,Visual and Performing Arts,3.0,,,"Fall, Summer - Offered alternate years beginning with the 2014-2015 academic year "
+FA 2820,Theatre Appreciation,Visual and Performing Arts,3.0,,,"Fall, Spring, Summer"
+FA 2830,Voice and Articulation,Visual and Performing Arts,3.0,,,Fall - Offered alternate years beginning with the 2010-2011 academic year 
+FA 3000,Visual &amp; Performing Arts Tour,Visual and Performing Arts,variable to   3.0;  May be repeated; Graded Pass/Fail Only,,,On Demand
+FA 3112,Music Composition I,Visual and Performing Arts,3.0,FA 2500 and FA 3530,,Fall
+FA 3122,Music Composition II,Visual and Performing Arts,3.0,FA 2500 and FA 3530 and FA 3112,,Spring
+FA 3133,Contemporary Music: The Search for New Sounds,Visual and Performing Arts,3.0,FA 2500 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+FA 3150,Drawing II,Visual and Performing Arts,3.0,FA 2050 or FA 2150 or FA 2200 or FA 2300 or FA 2305 or FA 2330,,Spring
+FA 3200,Creative Watermedia,Visual and Performing Arts,3.0,,,On Demand
+FA 3305,Creative Ceramics,Visual and Performing Arts,3.0,,,"Spring, Summer"
+FA 3330 - Art History,Art History - Prehistory to Renaissance,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer"
+FA 3333,Sculpture,Visual and Performing Arts,3.0,,,"Fall, Spring"
+FA 3335,Sculpture II,Visual and Performing Arts,3.0,FA 3333,,Spring
+FA 3340 - Art History,Art History - Renaissance to Today,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer"
+FA 3360,Ceramic Sculpture,Visual and Performing Arts,3.0,FA 2305 or FA 3305,,On Demand
+FA 3400,Keweenaw Symphony Orchestra,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring"
+FA 3401,Wind Symphony,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring"
+FA 3430,Jazz Lab Band,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring"
+FA 3501,Conducting and Interpretation,Visual and Performing Arts,3.0,FA 2500,,"Fall, Spring"
+FA 3510,Concert Choir,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring, Summer"
+FA 3530,Music Theory II,Visual and Performing Arts,3.0,FA 2500,,"Spring, Summer"
+FA 3550,History of Jazz,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer - Offered alternate years beginning with the 2009-2010 academic year "
+FA 3560,Music History,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer"
+FA 3565,Masterworks in Western Music Literature,Visual and Performing Arts,3.0;  Repeatable to a Max of 6,FA 2500(C) or FA 2501(C),,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+FA 3580,Chamber Choir,Visual and Performing Arts,1.0;  May be repeated,,,"Fall, Spring"
+FA 3600,Advanced Acting,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+FA 3620,Acting for Television and Film,Visual and Performing Arts,3.0,,,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+FA 3625,History of Rock,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer - Offered alternate years beginning with the 2016-2017 academic year "
+FA 3630,"The Beatles and the Beach Boys: An Analysis of Their Music, Their Evolution, Their Rivalry",Visual and Performing Arts,3.0,,,Summer
+FA 3650,Stage Management,Visual and Performing Arts,3.0,,,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+FA 3660,Advanced Acting Practicum for Film/Video/Stage,Visual and Performing Arts,1.0;  May be repeated,FA 2660,,"Fall, Spring"
+FA 3661,Design &amp;  Management Practicum,Visual and Performing Arts,variable to   3.0;  May be repeated,FA 2661,,"Fall, Spring"
+FA 3662,Advanced Sound Practicum,Visual and Performing Arts,variable to   3.0;  May be repeated,FA 1662 and FA 1664 and FA 1702 and FA 2662 and FA 3730,,"Fall, Spring, Summer"
+FA 3663,Professional Presentation,Visual and Performing Arts,1.0;  Repeatable to a Max of 4,FA 3700(C) or FA 3730(C) or FA 3750(C) or FA 3760(C),,"Fall, Spring"
+FA 3680,Period Acting Styles,Visual and Performing Arts,3.0,FA 2600 or FA 2820,,Fall - Offered alternate years beginning with the 2008-2009 academic year 
+FA 3700,Scenic Design,Visual and Performing Arts,3.0,FA 1701 or FA 2820,,Spring - Offered alternate years beginning with the 2000-2001 academic year 
+FA 3701,Advanced Backstage Technology,Visual and Performing Arts,3.0,FA 1701 or FA 2701,,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+FA 3703,Advanced Costume Construction,Visual and Performing Arts,3.0,FA 1703,,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+FA 3710,Vocal Approaches for Theatre and Electronic Media,Visual and Performing Arts,3.0,,,Spring - Offered alternate years beginning with the 2008-2009 academic year 
+FA 3730,Sound Design,Visual and Performing Arts,3.0,FA 1662 and FA 1664 and FA 1702,,Fall
+FA 3731,Live Sound Design Intensive,Visual and Performing Arts,1.0,FA 1662 and FA 1664 and FA 1702 and FA 2662 and FA 3730,,Fall
+FA 3732,Audio Creative Lab,Visual and Performing Arts,1.0;  Repeatable to a Max of 4,FA 1662 and FA 1664 and FA 1702 and FA 3730,,Spring
+FA 3736,Sound Systems Design and Engineering,Visual and Performing Arts,3.0,FA 1662 and FA 1664 and FA 1702,,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+FA 3740,Recording,Visual and Performing Arts,3.0,FA 1662 and FA 1664 and FA 1702,FA 3741,Spring
+FA 3741,Recording Lab,Visual and Performing Arts,1.0,FA 1662 and FA 1664 and FA 1702,FA 3740,Spring
+FA 3750,Lighting Design,Visual and Performing Arts,3.0,FA 1702 or FA 2820,,Spring - Offered alternate years beginning with the 2005-2006 academic year 
+FA 3760,Costume Design,Visual and Performing Arts,3.0,,,Fall - Offered alternate years beginning with the 2003-2004 academic year 
+FA 3780,Directing for Theatre,Visual and Performing Arts,3.0,FA 2800,,On Demand
+FA 3810,Theatre History I,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+FA 3821,Theatre History II,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+FA 3830,The Broadway Musical,Visual and Performing Arts,3.0,,,On Demand
+FA 3860,Costume History,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2012-2013 academic year 
+FA 3880,Readings in Dramatic Literature,Visual and Performing Arts,1.0;  Repeatable to a Max of 4,,,"Fall, Spring, Summer"
+FA 3975,Portfolio Development,Visual and Performing Arts,1.0,,,Fall
+FA 4150,Advanced Drawing Studio,Visual and Performing Arts,variable to   6.0;  Repeatable to a Max of 6,FA 2050 or FA 2150,,"Fall, Spring"
+FA 4190,"Society, Art, and Environment",Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+FA 4200,Advanced Watermedia Studio,Visual and Performing Arts,variable to   6.0;  Repeatable to a Max of 6,FA 2200 or FA 3200,,On Demand
+FA 4300,Advanced Sculpture Studio,Visual and Performing Arts,variable to   6.0;  Repeatable to a Max of 6,FA 3333 or FA 3335,,On Demand
+FA 4400,Chamber Music Seminar,Visual and Performing Arts,1.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+FA 4420,Music Performance: Jazz,Visual and Performing Arts,variable to   3.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+FA 4620,Musical Theatre Performance,Visual and Performing Arts,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+FA 4701,Stage Mechanics and Rigging,Visual and Performing Arts,3.0,FA 1701,,Fall - Offered alternate years beginning with the 2010-2011 academic year 
+FA 4740,Transducer Theory,Visual and Performing Arts,3.0,FA 1702 and FA 2662 and FA 3730 and PH 1090,FA 4741,Spring
+FA 4741,Transducer Theory Lab,Visual and Performing Arts,1.0,,FA 4740,Spring
+FA 4800,Jazz Improvisation,Visual and Performing Arts,3.0,FA 3530,,Fall - Offered alternate years beginning with the 2001-2002 academic year 
+FA 4820,Jazz Arranging,Visual and Performing Arts,3.0,FA 2500 and FA 3530,,Spring - Offered alternate years beginning with the 2003-2004 academic year 
+FA 4900,Independent Study in Visual and Performing Arts,Visual and Performing Arts,variable to   3.0;  May be repeated,,,"Fall, Spring, Summer"
+FA 4950,Special Topics in Visual &amp; Performing Arts,Visual and Performing Arts,variable to   3.0;  May be repeated,,,On Demand
+FA 4960,Special Topics Workshop,Visual and Performing Arts,variable to   6.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+FA 4970,Visual and Performing Arts Final Project,Visual and Performing Arts,variable to   3.0,,,"Fall, Spring, Summer"
+FA 4975,Portfolio Presentation,Visual and Performing Arts,variable to   3.0;  Repeatable to a Max of 3,,,"Fall, Spring, Summer"
+FIN 3000,Principles of Finance,Finance,3.0,(MA 2710 or MA 2720 or MA 3710 or BUS 2100) and ACC 2100(C),,"Fall, Spring, Summer"
+FIN 4000,Investment Analysis,Finance,3.0,EC 3400 or FIN 3000,,Spring
+FIN 4100,Advanced Financial Management,Finance,3.0,EC 3400 or FIN 3000,,Fall
+FIN 4200,Derivatives and Financial Engineering,Finance,3.0,EC 3400 or FIN 3000,,Fall
+FIN 4300,Personal Financial Planning,Finance,3.0,BA 3400 or EC 3400 or FIN 3000,,"Fall, Spring"
+FIN 4400,Security Analysis,Finance,3.0,FIN 3000 or EC 3400,,"Fall, Spring"
+FIN 4500,Financial Risk Management,Finance,3.0,FIN 3000 or EC 3400,,"Fall, Spring"
+FIN 4700,Global Finance,Finance,3.0,BA 3400 or EC 3400 or FIN 3000,,Fall
+FIN 4801,Applied Portfolio Management I,Finance,variable to   3.0,,,Summer
+FIN 4802,Applied Portfolio Management II,Finance,variable to   3.0,,,Fall
+FIN 4803,Applied Portfolio Management III,Finance,variable to   3.0,,,Spring
+FIN 4990,Special Topics in Finance,Finance,variable to   3.0;  Repeatable to a Max of 6,EC 3400 or FIN 3000,,On Demand
+FW 1035,Wood Anatomy and Properties,Forest Resources &amp; Env Science,4.0,,,Spring
+FW 1050,The Natural Resource Professional,Forest Resources &amp; Env Science,2.0,,,Spring
+FW 2010,Vegetation of North America,Forest Resources &amp; Env Science,4.0,,,Fall
+FW 2030,Natural Resources Conservation,Forest Resources &amp; Env Science,2.0,,,Fall
+FW 2051,Field Techniques,Forest Resources &amp; Env Science,2.0,,,Fall
+FW 3010,Practice of Silviculture,Forest Resources &amp; Env Science,4.0,FW 2010 and FW 2051,,"Fall, Summer"
+FW 3012,Survey of Silviculture,Forest Resources &amp; Env Science,2.0,FW 2010 and FW 2051,,"Fall, Summer"
+FW 3020,Forest Ecology,Forest Resources &amp; Env Science,3.0,FW 2010(C) and FW 2051(C),,Fall
+FW 3075,Introduction to Biotechnology,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 3098,Wood Processing and Manufacture,Forest Resources &amp; Env Science,2.0,FW 1035,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+FW 3110,Natural Resource Policy,Forest Resources &amp; Env Science,3.0,,,"Spring, Summer"
+FW 3115,"Natural Resources, Ethics, and the Environment",Forest Resources &amp; Env Science,2.0,,,Fall
+FW 3150,Timber Harvesting,Forest Resources &amp; Env Science,2.0,FW 2051,,"Fall, Summer"
+FW 3170,Land Measurements and GPS,Forest Resources &amp; Env Science,1.0,FW 3540,FW 3190,"Fall, Summer"
+FW 3180,"Geomorphology, Landscapes and Ecosystems",Forest Resources &amp; Env Science,2.0,,,"Fall, Summer"
+FW 3190,Multi-resource Assessment,Forest Resources &amp; Env Science,3.0,FW 2051 and FW 3020 and FW 3200 and (MA 2710 or MA 2720 or MA 3710),,"Fall, Summer"
+FW 3200,Biometrics and Data Analysis,Forest Resources &amp; Env Science,4.0,FW 2051 and (MA 2710 or MA 2720 or MA 3710),,Spring
+FW 3313,"Sustainability Science, Policy, and Assessment",Forest Resources &amp; Env Science,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+FW 3320,Fundamentals of Forest Genetics and Genomics,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 3330,Soil Science,Forest Resources &amp; Env Science,4.0,CH 1112(C) or (CH 1150(C) and CH 1151(C)),,Fall
+FW 3376,Forest &amp; Environmental Resource Management (The FERM) I,Forest Resources &amp; Env Science,2.0;  May be repeated,FW 2010 and FW 2051,,"Fall, Spring, Summer"
+FW 3377,Forest &amp; Environmental Resource Management (The FERM) II,Forest Resources &amp; Env Science,3.0;  May be repeated,FW 2010 and FW 2051,,"Fall, Spring, Summer"
+FW 3410,Conservation Biology,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 3510,Outdoor Recreation and Tourism,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 3540,An Introduction to Geographic Information Systems for Natural Resource Management,Forest Resources &amp; Env Science,4.0,MA 2710(C) or MA 2720(C) or MA 3710(C) or ENVE 3502(C),,Spring
+FW 3600,Wildlife Habitat,Forest Resources &amp; Env Science,3.0,,,"Fall, Summer"
+FW 3610,Ornithology,Forest Resources &amp; Env Science,4.0,BL 1040 or BL 1020,,Spring
+FW 3620,Field Ornithology,Forest Resources &amp; Env Science,1.0,,,Summer
+FW 3640,Aquatic Ecosystems,Forest Resources &amp; Env Science,2.0,,,Fall
+FW 3760,Human Dimensions of Natural Resources,Forest Resources &amp; Env Science,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+FW 3765,Maple Syrup Management and Culture,Forest Resources &amp; Env Science,1.0,,,Spring
+FW 3800,Insect Ecology,Forest Resources &amp; Env Science,2.0,,,"Fall, Summer"
+FW 3840,Forest Health,Forest Resources &amp; Env Science,3.0,FW 3020,,"Fall, Summer"
+FW 4000,Professional Experience Program,Forest Resources &amp; Env Science,1.0;  Repeatable to a Max of 4,,,"Fall, Spring, Summer"
+FW 4080,Forest Finance &amp; Economics,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4099,Programming Skills for Bioinformatics,Forest Resources &amp; Env Science,3.0,,,Fall - Offered alternate years beginning with the 2017-2018 academic year 
+FW 4110,Tree Seedling Production and Greenhouse Management,Forest Resources &amp; Env Science,variable to   4.0,,,Spring
+FW 4120,Tree Physiology,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4128,Conservation Genetics,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4140,Stand &amp; Forest Modeling,Forest Resources &amp; Env Science,2.0,FW 3010 or FW 3012 and FW 3540(C),,Spring
+FW 4150,Forest and Natural Resource Management,Forest Resources &amp; Env Science,3.0,FW 3010 and FW 4080,,Fall
+FW 4170,Consulting Forestry,Forest Resources &amp; Env Science,2.0,,,Spring
+FW 4220,Wetlands,Forest Resources &amp; Env Science,4.0,,,Fall
+FW 4240,Mammalogy,Forest Resources &amp; Env Science,4.0,BL 1020 or BL 1040,,Fall
+FW 4250,The Wolves and Moose of Isle Royale,Forest Resources &amp; Env Science,2.0,,,Fall
+FW 4260,Population Ecology,Forest Resources &amp; Env Science,3.0,,,Fall
+FW 4300,Introduction to Wildland Fire,Forest Resources &amp; Env Science,3.0,FW 3020 and (FW 3010 or FW 3012),,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+FW 4370,Forest and Landscape Hydrology,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4380,Landscape Ecology and Planning,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4400,Urban Forestry,Forest Resources &amp; Env Science,3.0,,,Spring
+FW 4401,Urban Forestry Lab,Forest Resources &amp; Env Science,1.0,FW 4400(C),,Spring
+FW 4500,Independent Study,Forest Resources &amp; Env Science,variable to   7.0;  Repeatable to a Max of 7,,,"Fall, Spring, Summer"
+FW 4540,Remote Sensing of the Environment,Forest Resources &amp; Env Science,3.0,,,Fall
+FW 4545,Map Design with GIS,Forest Resources &amp; Env Science,2.0,FW 3540 or FW 5550,,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+FW 4610,Wildlife Ecology,Forest Resources &amp; Env Science,3.0,BL 3400(C) or FW 3020(C),,Fall
+FW 4620,Herpetology,Forest Resources &amp; Env Science,3.0,BL 1040 or BL 1020,,Spring
+FW 4710,Environmental Biogeochemistry,Forest Resources &amp; Env Science,3.0,CH 1150,,Spring
+FW 4800,Communication for Natural Resource Professionals,Forest Resources &amp; Env Science,2.0,FW 3190,,Fall
+FW 4810,Integrated Resource Assessment,Forest Resources &amp; Env Science,4.0,FW 3190,,Fall
+FW 4811,Integrated Resource Assessment Data Collection,Forest Resources &amp; Env Science,1.0,FW 3190,,Fall
+FW 4830,Integrated Natural Resource Assessment,Forest Resources &amp; Env Science,3.0,FW 4811(C),,Spring
+FW 4840,Senior Research Thesis,Forest Resources &amp; Env Science,4.0,FW 3190,,"Fall, Spring"
+GE 1100,Geological Engineering and Sciences Orientation,Geolog. &amp; Mining Engrg &amp; Sci.,1.0; Graded Pass/Fail Only,,,Fall
+GE 2000,Understanding the Earth,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,"Fall, Spring, Summer"
+GE 2020,Introduction to Mining Engineering and Mining Methods,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,"Fall, Spring - Offered alternate years beginning with the 2005-2006 academic year "
+GE 2100,Environmental Geology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Spring
+GE 2300,Mineral Science,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,CH 1000 or CH 1112 or (CH 1150 and CH 1151),,Fall
+GE 2310,Introduction to Petrology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2300,,Spring
+GE 2320,Mining Methods and Systems,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020,,Spring
+GE 2500,Introduction to Oceanography,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Spring
+GE 2640,Atmospheric Observations and Meteorology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Fall - Offered alternate years beginning with the 2002-2003 academic year 
+GE 2900,Geology of the National Parks: Field Experience,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Summer
+GE 3040,Fundamentals of Applied and Environmental Geophysics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,PH 2200,,Spring
+GE 3050,Structural Geology,Geolog. &amp; Mining Engrg &amp; Sci.,4.0,GE 2000,,Spring
+GE 3100,Depositional Systems,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 and GE 2310,,Fall
+GE 3200,Geochemistry,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,CH 1150 and CH 1151,,Spring
+GE 3250,Computational Geosciences,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,MA 1160 or MA 1161,,Spring
+GE 3320,Earth History,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 or GE 2100,,Fall
+GE 3400,Drilling and Blasting,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020 and PH 2100,,"Fall, Spring - Offered alternate years beginning with the 2006-2007 academic year "
+GE 3410,Mine Safety &amp; Health Cert,Geolog. &amp; Mining Engrg &amp; Sci.,1.0,,,Summer
+GE 3670,Oceanographic Science,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Fall
+GE 3820,Mechanics of Rock Materials,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 3050,,Spring
+GE 3850,Geohydrology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,"Fall, Spring"
+GE 3860,Engineering Geology and Geoinformatics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 or GE 2100 and (GE 3050 or ENG 2120 or MEEM 2150),,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+GE 3870,Resource &amp; Reserve Estimation,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020 and MA 3710,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+GE 3880,Mine Planning and Design,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2320 and GE 3400 and GE 3870,,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+GE 3900,Field Geophysics,Geolog. &amp; Mining Engrg &amp; Sci.,5.0,GE 3040,,Summer
+GE 3910,Field Geology with Engineering Applications,Geolog. &amp; Mining Engrg &amp; Sci.,5.0,GE 2000 and GE 2310 and GE 3050,,Summer
+GE 3915,Introduction to Field Geology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 and GE 2310 and GE 3050,,Summer
+GE 3920,Geological Field Excursion,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+GE 4000,Earth Science Teaching Experience,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   3.0;  Repeatable to a Max of 3,,,On Demand
+GE 4100,Geomorphology and Glacial Geology,Geolog. &amp; Mining Engrg &amp; Sci.,4.0,GE 2000,,Fall - Offered alternate years beginning with the 2003-2004 academic year 
+GE 4150,Natural Hazards,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 or GE 2100,,Fall
+GE 4180,Volcanology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 and (MA 1160 or MA 1161),,Fall
+GE 4190,Magma Reservoir Dynamics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2300 and GE 2310,,Spring
+GE 4250,Fundamentals of Remote Sensing,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,PH 2200 and MA 2160,,Spring
+GE 4290,"Mine Ventilation, Health, and Safety Engineering",Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020 and GE 2320 and ENG 3200,,Summer - Offered alternate years beginning with the 2016-2017 academic year 
+GE 4360,Materials Handling,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,PH 2100,,On Demand
+GE 4500,Plate Tectonics and Global Geophysics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,MA 3160 and PH 2200 and GE 2000,,Fall
+GE 4504,Air Quality Engineering and Science,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,ENVE 3501 or ENVE 3503,,Fall
+GE 4530,Planetary Geology &amp; Geophysics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2000 and PH 2200 and MA 2160,,Fall
+GE 4560,Earthquake Seismology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 3050 and PH 2100 and MA 3160,,Fall
+GE 4600,Reflection Seismology,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 3040,,Spring
+GE 4610,Formation Evaluation and Petroleum Engineering,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,"Fall, Spring"
+GE 4620,Energy Economics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,EC 2001 or EC 3002 or EC 3003,,Spring
+GE 4630,Mineral Industry Economics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,EC 2001 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring - Offered alternate years beginning with the 2009-2010 academic year "
+GE 4640,Fundamentals of Atmospheric Science,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,(PH 2200 or PH 2260) and (PH 1360 or PH 2300) and MA 3160 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+GE 4670,Aquatic Remote Sensing,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,PH 1200 and (CH 1150 or GE 2000 or BL 1010 or BL 1040),,Fall
+GE 4680,Operation Research for Mining Engineers,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020 or GE 2320,,"Fall, Spring - Offered alternate years beginning with the 2016-2017 academic year "
+GE 4690,Discrete Event Simulation and Animation for Engineers,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2020 and GE 2320 and GE 3870,,Spring
+GE 4700,Geologic Mapping of Remote Terrain,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,Spring
+GE 4760,Geology and Exploration for Mineral Deposits,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 2310 and GE 3050 and GE 3910,,Fall
+GE 4800,Groundwater Engineering,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 3850,,On Demand
+GE 4860,Computer Methods for Slope Stability and Geomechanics,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,(GE 2000 or GE 2100) and (MEEM 2150 or ENG 2120) and ENG 3200,,Spring
+GE 4900,Capstone I,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,,,"Fall, Spring"
+GE 4910,Capstone II,Geolog. &amp; Mining Engrg &amp; Sci.,3.0,GE 4900,,"Fall, Spring"
+GE 4916,Field Geology in East and South Africa,Geolog. &amp; Mining Engrg &amp; Sci.,6.0,GE 3050,,"Spring, Summer"
+GE 4930,Special Topics in Geological Engineering,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   5.0;  Repeatable to a Max of 10,,,On Demand
+GE 4931,Special Topics in Geology,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   5.0;  Repeatable to a Max of 10,,,On Demand
+GE 4932,Special Topics in Mineralogy,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   5.0;  Repeatable to a Max of 10,GE 2300,,On Demand
+GE 4933,Special Topics in Geophysics,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   5.0;  Repeatable to a Max of 10,,,On Demand
+GE 4934,Special Topics in Mining Engineering,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   5.0;  Repeatable to a Max of 10,,,On Demand
+GE 4961,Independent Geology Research Project,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   9.0;  Repeatable to a Max of 9,,,On Demand
+GE 4962,Independent Geophysics Research Project,Geolog. &amp; Mining Engrg &amp; Sci.,variable to   9.0;  Repeatable to a Max of 9,,,On Demand
+GE 4970,Special Topics in Global Environment Change,Geolog. &amp; Mining Engrg &amp; Sci.,3.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+HU 0110,Undergraduate Student Coaching,Humanities,0.0;  May be repeated,,,"Fall, Spring, Summer"
+HU 0122,Global Issues Study Team,Humanities,0.0;  May be repeated,,UN 1025,"Fall, Spring, Summer"
+HU 0123,Composition Coaching,Humanities,0.0;  May be repeated,,UN 1015,"Fall, Spring, Summer"
+HU 0124,Graduate Student Coaching,Humanities,0.0;  May be repeated,,,"Fall, Spring, Summer"
+HU 0125,Int'l GTA Assistance Program,Humanities,0.0;  May be repeated,,,"Fall, Spring"
+HU 2130,Introduction to Rhetoric,Humanities,3.0,,,"Fall, Spring, Summer"
+HU 2201,Level I-A Chinese Language and Culture,Humanities,3.0,,,On Demand
+HU 2202,Level I-B Chinese Language and Culture,Humanities,3.0,HU 2201 or Language Placement Chinese >= 100,,On Demand
+HU 2241,Level I-A Less Commonly Taught Languages,Humanities,3.0,,,On Demand
+HU 2242,Level I-B Less Commonly Taught Languages,Humanities,3.0,HU 2241,,On Demand
+HU 2271,Level I-A French Language and Culture,Humanities,3.0,,,"Fall, Spring"
+HU 2272,Level I-B French Language and Culture,Humanities,3.0,HU 2271 or Language Placement French >= 131,,"Fall, Spring"
+HU 2273,Transitional Level I French Language and Culture,Humanities,3.0,Language Placement French >= 201,,On Demand
+HU 2281,Level I-A German Language and Culture,Humanities,3.0,,,"Fall, Spring"
+HU 2282,Level I-B German Language and Culture,Humanities,3.0,HU 2281,,"Fall, Spring"
+HU 2291,Level I-A Spanish Language and Culture,Humanities,3.0,,,"Fall, Spring"
+HU 2292,Level I-B Spanish Language and Culture,Humanities,3.0,HU 2291 or Language Placement Spanish >= 131,,"Fall, Spring"
+HU 2293,Transitional Level I Spanish Language and Culture,Humanities,3.0,HU 2291 or Language Placement Spanish >= 201,,"Fall, Spring, Summer"
+HU 2324,Introduction to Film,Humanities,3.0,,,"Fall, Spring"
+HU 2400,Introduction to Diversity Studies in the United States,Humanities,3.0,,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+HU 2500,Ways of Reading,Humanities,3.0,,,Fall
+HU 2501,American Experience in Literature,Humanities,3.0,,,"Fall, Spring - Offered alternate years beginning with the 2017-2018 academic year "
+HU 2503,Introduction to Literature,Humanities,3.0,,,"Fall, Spring"
+HU 2505,"Science, Technology, and Humanities",Humanities,3.0,,,On Demand - Offered alternate years beginning with the 2000-2001 academic year 
+HU 2510,Intro to Creative Writing,Humanities,3.0,,,Fall
+HU 2538,British Experience in Literature,Humanities,3.0,,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+HU 2548,Young Adult Literature,Humanities,3.0,,,On Demand
+HU 2600,Introduction to the Field of Scientific and Technical Communication,Humanities,3.0,,,Fall
+HU 2632,Fundamentals of Digital Photography,Humanities,3.0,,,Summer
+HU 2633,Fundamentals of Digital Imaging,Humanities,3.0,,,"Fall, Spring"
+HU 2642,Introduction to Digital Media,Humanities,3.0,,,"Fall, Spring"
+HU 2645,Graphic and Information Design,Humanities,3.0,,,Fall
+HU 2700,Introduction to Philosophy,Humanities,3.0,,,"Fall, Spring"
+HU 2701,Logic and Critical Thinking,Humanities,3.0,,,On Demand
+HU 2702,Ethical Theory and Moral Problems,Humanities,3.0,,,"Fall, Summer"
+HU 2810,Research and Writing in Communication,Humanities,3.0,UN 1015(C),,Spring
+HU 2820,Communication and Culture,Humanities,3.0,,,Fall
+HU 2830,Public Speaking &amp; Multimedia,Humanities,3.0,,,"Fall, Spring"
+HU 2910,Language and Mind,Humanities,3.0,,,Fall
+HU 2920,Language and Society,Humanities,3.0,,,Spring
+HU 3015,Advanced Composition,Humanities,3.0,UN 1015,,"Fall, Spring"
+HU 3120,Technical and Professional Communication,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring, Summer"
+HU 3130,Rhetoric of Science and Technology,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3150,Topics in Literacy Studies,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3151,The Rhetoric of Everyday Texts,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3201,Level II-A Chinese Language and Culture,Humanities,3.0,HU 2202 or Language Placement Chinese >= 201,,On Demand
+HU 3202,Level II-B Chinese Language and Culture,Humanities,3.0,HU 3201 or Language Placement Chinese >= 301,,On Demand
+HU 3204,Level III Topics in Chinese Literature and Culture,Humanities,3.0;  Repeatable to a Max of 6,HU 3202 or Language Placement Chinese >= 401,,On Demand
+HU 3241,Level II A Less Commonly Taught Language and Culture,Humanities,3.0,HU 2242,,On Demand
+HU 3242,Level II B Less Commonly Taught Language and Culture,Humanities,3.0,HU 3241,,On Demand
+HU 3253,World Literatures &amp; Cultures,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3261,Topics in Communicating Across Cultures,Humanities,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3262,Topics in Francophone Cultures,Humanities,3.0,,,Fall
+HU 3263,Topics in German-Speaking Cultures,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring"
+HU 3264,Topics in Spanish-Speaking Cultures,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3265,Topics in East Asian Cultures,Humanities,3.0,,,On Demand
+HU 3271,Level II-A French Language and Culture,Humanities,3.0,HU 2272 or HU 2273 or Language Placement French >= 331,,"Fall, Spring"
+HU 3272,Level II-B French Language and Culture,Humanities,3.0,HU 3271 or Language Placement French >= 421,,"Fall, Spring"
+HU 3273,Level II French Composition and Conversation,Humanities,3.0,HU 2272 or HU 2273 or Lang Placement French I-A Tran >= 301,,Spring
+HU 3274,Level III Topics in French Literature and Culture,Humanities,3.0;  Repeatable to a Max of 6,HU 3272 or HU 3273 or Language Placement French >= 501,,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+HU 3275,Level III French for Special Purposes,Humanities,3.0;  Repeatable to a Max of 6,HU 3272 or HU 3273 or Language Placement French >= 501,,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+HU 3280,Level I-C German Language and Culture,Humanities,3.0,HU 2282 or Language Placement German >= 221,,"Fall, Spring"
+HU 3281,Level II-A German Language and Culture,Humanities,3.0,HU 3280 or Language Placement German >= 301,,"Fall, Spring"
+HU 3282,Level II-B German Language and Culture,Humanities,3.0,HU 3281 or Language Placement German >= 371,,"Fall, Spring"
+HU 3283,Level II German for Special Purposes,Humanities,3.0,HU 3282 or Language Placement German >= 451,,"Fall, Spring"
+HU 3284,Level III in German Literature and Culture,Humanities,3.0;  Repeatable to a Max of 6,HU 3282 or Language Placement German >= 521 or CEEB German Language >= 3,,Fall
+HU 3285,Level III German: Film and Media,Humanities,3.0;  Repeatable to a Max of 6,HU 3282 or Language Placement German >= 521 or CEEB German Language >= 3,,Spring
+HU 3291,Level II Spanish Language and Culture,Humanities,3.0,HU 2292 or HU 2293 or Language Placement Spanish >= 321,,"Fall, Spring"
+HU 3292,Level II-B Spanish Language and Culture,Humanities,3.0,HU 2232 or HU 3291 or Language Placement Spanish >= 401,,"Fall, Spring"
+HU 3293,Level IIC Spanish Composition and Conversation,Humanities,3.0,HU 2293 or HU 3291 or HU 3292 or Language Placement Spanish >= 480,,"Fall, Spring, Summer"
+HU 3294,Hispanic Literatures and Cultures,Humanities,3.0;  Repeatable to a Max of 9,HU 3293 or Language Placement Spanish >= 631,,"Fall, Spring"
+HU 3295,Level III Advanced Spanish for Literacies,Humanities,3.0;  Repeatable to a Max of 9,HU 3293 or Language Placement Spanish >= 631,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+HU 3296,Introduction to Hispanic Literatures and Cultures,Humanities,3.0;  Repeatable to a Max of 6,HU 3293 or Language Placement Spanish >= 631,,On Demand - Offered alternate years beginning with the 2015-2016 academic year 
+HU 3325,Film History and Theory,Humanities,3.0,HU 2324 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+HU 3326,Topics in World Cinema,Humanities,3.0;  Repeatable to a Max of 6,HU 2324 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3400,Topics in Diversity Studies,Humanities,3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3401,Gender and Culture,Humanities,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3502,Mythologies,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2001-2002 academic year 
+HU 3504,Studies in the Novel,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3505,"Literary Forms, Genres, and Modes",Humanities,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3506,Major Authors,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3507,Cultural Traditions in Literature,Humanities,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3513,Shakespeare,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3514,Workshop in Creative Nonfiction,Humanities,3.0,HU 2510 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3515,Workshop in Poetry,Humanities,3.0,HU 2510 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3516,Workshop in Fiction,Humanities,3.0,HU 2510 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3517,Literary Theory and Criticism,Humanities,3.0,UN 1015,,Spring - Offered alternate years beginning with the 2004-2005 academic year 
+HU 3545,Literature Across Borders,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer - Offered alternate years beginning with the 2004-2005 academic year "
+HU 3554,Science Fiction and Fantasy Literature,Humanities,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 3557,Literature and Science,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand - Offered alternate years beginning with the 2015-2016 academic year 
+HU 3600,Professional Development in the Humanities,Humanities,3.0,,,On Demand
+HU 3605,Grammar and Usage in Society,Humanities,3.0,,,Spring
+HU 3606,Editing,Humanities,3.0,,,Fall
+HU 3621,Introduction to Journalism,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3630,Publications and Information Management,Humanities,3.0,HU 2642 and HU 2633 or HU 2645,,Spring
+HU 3650,Introduction to Web Design,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3693,Science Writing,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+HU 3694,Grant Writing,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+HU 3695,Digital Writing and Rhetoric,Humanities,3.0,HU 2642 or HU 2130 or HU 3120,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+HU 3700,Philosophy of Science,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3701,Philosophy of Technology,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3702,Philosophy of Religion,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3710,Engineering Ethics,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3711,Biomedical Ethics,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3800,Media and Society,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3810,Technology and Culture,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3820,Interpersonal Communication,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3830,"Creativity, Culture, and Change",Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+HU 3832,Advanced Digital Presentation,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3840,Organizational Communication,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3850,Cultural Studies,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+HU 3860,Popular Culture,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3871,New Media Theory,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 3872,"Color, Visuality, and Culture",Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2017-2018 academic year 
+HU 3882,Media Industries,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+HU 3890,Documentary,Humanities,3.0,,,Fall
+HU 3910,Global Language Issues,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+HU 3940,Language and Identity,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+HU 3961,Theroetical Foundation of TESOL,Humanities,3.0,HU 2910,HU 3605,On Demand
+HU 3962,TESOL Methods and Materials,Humanities,3.0,HU 3961,,On Demand
+HU 3963,Assessment and Testing in TESOL,Humanities,3.0,,HU 3961,On Demand
+HU 3964,Cross-Cultural Aspects of TESOL,Humanities,3.0,,,On Demand
+HU 4050,Special Topics,Humanities,variable to   6.0;  May be repeated,,,"Fall, Spring, Summer"
+HU 4060,Humanities Workshop,Humanities,variable to   6.0;  May be repeated,,,"Fall, Spring, Summer"
+HU 4101,Multiliteracies Center Practicum,Humanities,1.0;  May be repeated,UN 1015,,"Fall, Spring"
+HU 4130,Special Topics in Rhetoric and Composition,Humanities,3.0,,,Spring - Offered alternate years beginning with the 2000-2001 academic year 
+HU 4140,Methods of Teaching English,Humanities,4.0,ED 3110 and ED 3210 and ED 3410 and ED 4700(C),,Fall
+HU 4150,Literacy in the Content Areas,Humanities,4.0,ED 3110 and ED 3210 and ED 3410,,"Fall, Spring"
+HU 4271,Modern Language Seminar I-French,Humanities,3.0,HU 3274 or HU 3275,,On Demand
+HU 4272,Modern Language Seminar II-French,Humanities,3.0,HU 3274 or HU 3275,,"Fall, Spring - Offered alternate years beginning with the 2001-2002 academic year "
+HU 4273,Modern Language Seminar III-French,Humanities,3.0,(HU 3274 or HU 3275) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 4281,Modern Language Seminar I-German,Humanities,3.0,HU 3284 or HU 3285,,"Fall, Spring"
+HU 4282,Modern Language Seminar II-German,Humanities,3.0,(HU 3284 or HU 3285) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring - Offered alternate years beginning with the 2001-2002 academic year "
+HU 4283,Modern Language Seminar III-German,Humanities,3.0,HU 3284 or HU 3285,,"Fall, Spring"
+HU 4291,Level IV Modern Language Seminar I-Spanish,Humanities,3.0,HU 3294 or HU 3295,,On Demand
+HU 4292,Level IV Modern Language Seminar II-Spanish,Humanities,3.0,HU 3294 or HU 3295,,On Demand
+HU 4293,Level IV Modern Language Seminar III-Spanish,Humanities,3.0,HU 3294 or HU 3295,,On Demand
+HU 4500,Senior Seminar in English,Humanities,3.0;  Repeatable to a Max of 6,,,"Fall, Spring"
+HU 4501,BA Thesis,Humanities,3.0,,,On Demand
+HU 4600,Humanities Internship,Humanities,variable to   6.0;  May be repeated,,,On Demand
+HU 4625,Risk Communication,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 4626,International Technical Communication,Humanities,3.0,HU 2600,,Spring
+HU 4628,Usability and Instructions Writing,Humanities,3.0,HU 3120 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 4634,Advanced Practicum in Scientific and Technical Communication,Humanities,3.0,HU 3120 and HU 2600,,Fall
+HU 4642,Advanced Topics in Media,Humanities,3.0;  Repeatable to a Max of 6,,,On Demand
+HU 4690,Special Topics in Technical and Professional Communication,Humanities,3.0;  Repeatable to a Max of 9,,,On Demand
+HU 4700,Topics in Philosophy,Humanities,3.0;  Repeatable to a Max of 9,UN 1015,,On Demand
+HU 4701,Political Philosophy,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+HU 4725,Existentialism and Phenomenology,Humanities,3.0,,,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+HU 4800,Media and Globalization,Humanities,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+HU 4890,Topics in Communication,Humanities,3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+HU 4961,Practicum in TESOL,Humanities,variable to   6.0;  Repeatable to a Max of 6,HU 3962,,"Fall, Spring, Summer"
+MA 0010,Development of Mathematics Skills,Mathematical Sciences,0.0;  May be repeated,,,"Fall, Spring"
+MA 0030,Lab Approach for College Algebra,Mathematical Sciences,0.0;  May be repeated,,MA 1030,"Fall, Spring"
+MA 0031,Lab Approach for College Algebra II,Mathematical Sciences,0.0;  May be repeated,,MA 1031,"Fall, Spring, Summer"
+MA 1020,Quantitative Literacy,Mathematical Sciences,4.0,ALEKS Math Placement >= 00,,Fall
+MA 1030,College Algebra I,Mathematical Sciences,3.0,ALEKS Math Placement >= 00,MA 0030,"Fall, Spring"
+MA 1031,College Algebra II with Trigonometry,Mathematical Sciences,3.0,MA 1030,MA 0031,"Fall, Spring, Summer"
+MA 1032,Precalculus,Mathematical Sciences,4.0,ALEKS Math Placement >= 56,,"Fall, Spring, Summer"
+MA 1135,Calculus for Life Sciences,Mathematical Sciences,4.0,MA 1032 or MA 1031 or ALEKS Math Placement >= 70 or CEEB Calculus AB >= 2 or CEEB Calculus BC >= 2 or CEEB Calculus AB Subscore >= 2,,"Fall, Spring, Summer"
+MA 1160,Calculus with Technology I,Mathematical Sciences,4.0,MA 1032 or MA 1031 or ALEKS Math Placement >= 80 or CEEB Calculus AB >= 3 or CEEB Calculus BC >= 3 or CEEB Calculus AB Subscore >= 3,,"Fall, Spring"
+MA 1161,Calculus Plus w/ Technology I,Mathematical Sciences,5.0,MA 1032 or MA 1031 or ALEKS Math Placement >= 70 or CEEB Calculus AB >= 2 or CEEB Calculus BC >= 2 or CEEB Calculus AB Subscore >= 2,,"Fall, Spring, Summer"
+MA 1600,Introduction to Scientific Simulation,Mathematical Sciences,3.0,MA 1160 or MA 1161,,Spring
+MA 1910,Exploring Symmetry Groups,Mathematical Sciences,3.0,,,Fall - Offered alternate years beginning with the 2000-2001 academic year 
+MA 1920,Exploring Knots and Surfaces,Mathematical Sciences,3.0,,,Fall - Offered alternate years beginning with the 2001-2002 academic year 
+MA 1930,Exploring Number Theory,Mathematical Sciences,3.0,,,Fall - Offered alternate years beginning with the 2006-2007 academic year 
+MA 1940,Exploring Non-Euclidean Geometry,Mathematical Sciences,3.0,,,Fall - Offered alternate years beginning with the 2003-2004 academic year 
+MA 1990,Elementary Mathematics Topics,Mathematical Sciences,variable to   6.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MA 2020,Prep for Putnam Exam,Mathematical Sciences,1.0;  Repeatable to a Max of 4; Graded Pass/Fail Only,,,Fall
+MA 2160,Calculus with Technology II,Mathematical Sciences,4.0,MA 1160 or MA 1161 or MA 1135 or CEEB Calculus AB >= 3 or CEEB Calculus BC >= 3 or CEEB Calculus AB Subscore >= 3,,"Fall, Spring, Summer"
+MA 2320,Elementary Linear Algebra,Mathematical Sciences,2.0,MA 1160 or MA 1161 or MA 1135,,"Fall, Spring, Summer"
+MA 2321,Elementary Linear Algebra,Mathematical Sciences,2.0,MA 2160,MA 3521,"Fall, Spring"
+MA 2330,Introduction to Linear Algebra,Mathematical Sciences,3.0,MA 1160 or MA 1161 or MA 1135,,"Fall, Spring"
+MA 2600,Scientific Computing,Mathematical Sciences,3.0,MA 2160 and (MA 2320 or MA 2321 or MA 2330),,Fall
+MA 2710,Introduction to Statistical Analysis,Mathematical Sciences,3.0,MA 1160 or MA 1161 or MA 1135,,Spring
+MA 2720,Statistical Methods,Mathematical Sciences,4.0,MA 1020 or MA 1030 or ALEKS Math Placement >= 50,,"Fall, Spring, Summer"
+MA 2910,Mathematical Experimentation,Mathematical Sciences,3.0,MA 1160 or MA 1161,,Spring
+MA 2990,Elementary Topics in Mathematics,Mathematical Sciences,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MA 3160,Multivariable Calculus with Technology,Mathematical Sciences,4.0,MA 2160 or CEEB Calculus BC >= 3,,"Fall, Spring, Summer"
+MA 3202,Introduction to Coding Theory,Mathematical Sciences,3.0,MA 2320 or MA 2321 or MA 2330,,Fall
+MA 3203,Introduction to Cryptography,Mathematical Sciences,3.0,MA 2320 or MA 2321 or MA 2330,,"Spring, Summer"
+MA 3210,Introduction to Combinatorics,Mathematical Sciences,3.0,MA 2320 or MA 2321 or MA 2330,,"Fall, Summer"
+MA 3310,Introduction to Abstract Algebra,Mathematical Sciences,3.0,MA 2320 or MA 2321 or MA 2330,,"Fall, Summer"
+MA 3450,Introduction to Real Analysis,Mathematical Sciences,3.0,MA 2160,,Spring
+MA 3520,Elementary Differential Equations,Mathematical Sciences,2.0,MA 2160 and (MA 2320 or MA 2321 or MA 2330),,"Fall, Spring, Summer"
+MA 3521,Elementary Differential Equations,Mathematical Sciences,2.0,MA 2160,MA 2321,"Fall, Spring"
+MA 3530,Introduction to Differential Equations,Mathematical Sciences,3.0,MA 2160 and (MA 2320 or MA 2321 or MA 2330),,Fall
+MA 3560,Mathematical Modeling with Differential Equations,Mathematical Sciences,3.0,MA 2160 and (MA 2320 or MA 2321 or MA 2330),,Spring
+MA 3710,Engineering Statistics,Mathematical Sciences,3.0,MA 2160,,"Fall, Spring, Summer"
+MA 3715,Biostatistics,Mathematical Sciences,3.0,MA 1135 or MA 1160 or MA 1161,,Spring
+MA 3720,Probability,Mathematical Sciences,3.0,MA 1160 or MA 1161,,"Fall, Summer"
+MA 3740,Statistical Programming and Analysis,Mathematical Sciences,3.0,MA 2710 or MA 2720 or MA 3710 or MA 3715,,Fall
+MA 3750,Introduction to SAS Programming,Mathematical Sciences,1.0; Graded Pass/Fail Only,MA 2710 or MA 2720 or MA 3710 or MA 3715,,Spring
+MA 3810,Introduction to Actuarial Mathematics,Mathematical Sciences,3.0,MA 3160(C),,"Fall, Summer"
+MA 3811,Actuarial Exam Workshop,Mathematical Sciences,1.0;  Repeatable to a Max of 4; Graded Pass/Fail Only,MA 3160,,"Fall, Spring"
+MA 3924,College Geometry with Technology,Mathematical Sciences,3.0,MA 2160 or MA 2330,,Fall
+MA 3990,Math Sciences Teach Experience,Mathematical Sciences,variable to   4.0;  Repeatable to a Max of 4; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+MA 3999,Intermediate Topics in Mathematics,Mathematical Sciences,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MA 4208,Optimization and Graph Algorithms,Mathematical Sciences,3.0,MA 3210,,Spring
+MA 4209,Combinatorics and Graph Theory,Mathematical Sciences,3.0,MA 3210,,Fall
+MA 4310,Abstract Algebra,Mathematical Sciences,3.0,MA 3310,,Spring
+MA 4330,Linear Algebra,Mathematical Sciences,3.0,(MA 2320 or MA 2321 or MA 2330) and MA 3160,,Fall
+MA 4410,Complex Variables,Mathematical Sciences,3.0,MA 3160,,Spring
+MA 4450,Real Analysis,Mathematical Sciences,3.0,(MA 2320 or MA 2321 or MA 2330) and MA 3160 and MA 3450,,Fall
+MA 4515,Introduction to Partial Differential Equations,Mathematical Sciences,3.0,(MA 3520 or MA 3521 or MA 3530 or MA 3560) and MA 3160,,"Fall, Spring, Summer"
+MA 4525,Applied Vector and Tensor Mathematics,Mathematical Sciences,3.0,MA 3160 and (MA 2320 or MA 2321 or MA 2330),,Fall
+MA 4535,Nonlinear Dynamics and Chaos,Mathematical Sciences,3.0,(MA 3520 or MA 3521 or MA 3530 or MA 3560) and MA 3160,,Fall
+MA 4610,Numerical Linear Algebra,Mathematical Sciences,3.0,MA 2320 or MA 2321 or MA 2330,,Spring
+MA 4620,Numerical Methods for PDEs,Mathematical Sciences,3.0,(MA 3520 or MA 3521 or MA 3530 or MA 3560) and MA 3160,,Fall
+MA 4710,Regression Analysis,Mathematical Sciences,3.0,MA 2710 or MA 2720 or MA 3710 or MA 3715,,Fall
+MA 4720,Design and Analysis of Experiments,Mathematical Sciences,3.0,MA 2710 or MA 2720 or MA 3710 or MA 3715,,Spring
+MA 4730,Nonparametric Statistics,Mathematical Sciences,3.0,MA 2710 or MA 2720 or MA 3710,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+MA 4760,Mathematical Statistics I,Mathematical Sciences,3.0,MA 3720,,Fall
+MA 4770,Mathematical Statistics II,Mathematical Sciences,3.0,MA 4760,,Spring
+MA 4780,Time Series Analysis and Forecasting,Mathematical Sciences,3.0,MA 2710 or MA 2720 or MA 3710 or MA 3715,,Spring
+MA 4790,Predictive Modeling,Mathematical Sciences,3.0,MA 3740 or MA 4710 or MA 4720 or MA 4780,,Fall
+MA 4810,Life Contingencies,Mathematical Sciences,3.0,MA 3720 and MA 3810,,Spring - Offered alternate years beginning with the 2004-2005 academic year 
+MA 4820,Loss Distributions and Credibility Theory,Mathematical Sciences,3.0,MA 3720,,Spring - Offered alternate years beginning with the 2005-2006 academic year 
+MA 4900,Mathematical Sciences Project,Mathematical Sciences,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MA 4905,Methods of Teaching Mathematics,Mathematical Sciences,2.0,ED 4700(C),,Spring
+MA 4908,Theory of Numbers with Technology,Mathematical Sciences,3.0,MA 3210 or MA 3310 or MA 3924,,Spring
+MA 4945,History of Mathematics,Mathematical Sciences,3.0,UN 1015 and UN 1025 or Modern Language - 3000 level or higher,,Fall
+MA 4990,Topics in Mathematics,Mathematical Sciences,variable to   4.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MEEM 2110,Engrg. Mech.</h3><b>MEEM 2110 - Statics,Mechanical Eng. - Engrg. Mech.,3.0,MA 2160,,"Fall, Spring, Summer"
+MEEM 2150,Mechanics of Materials,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2110,,"Fall, Spring, Summer"
+MEEM 2201,Introductory Thermodynamics,Mechanical Eng. - Engrg. Mech.,3.0,MA 2160 and CH 1150 and CH 1151,,"Fall, Spring, Summer"
+MEEM 2700,Dynamics,Mechanical Eng. - Engrg. Mech.,3.0,PH 2100 and (MEEM 2110 or ENG 2120) and MA 3160(C),,"Fall, Spring, Summer"
+MEEM 2901,Mechanical Engineering Practice I,Mechanical Eng. - Engrg. Mech.,2.0,MEEM 2110(C) and ENG 1102 and UN 1015,,"Fall, Spring, Summer"
+MEEM 2911,Mechanical Engineering Practice II,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2901 and MEEM 2201(C) and (MA 2320(C) or MA 2321(C) or MA 2330(C)),,"Fall, Spring, Summer"
+MEEM 3201,introductory Fluid Mechanics &amp; Heat Transfer,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 2201 and MEEM 2911 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring, Summer"
+MEEM 3400,Mechanical System Design and Analysis,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150 and MEEM 2700,,"Fall, Spring, Summer"
+MEEM 3600,Introduction to Manufacturing,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150 and MY 2100,,"Fall, Spring, Summer"
+MEEM 3750,Dynamic Systems,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 2700 and MEEM 2911 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring, Summer"
+MEEM 3901 - Mechanical Engineering Practice III,Mechanical Engineering Practice III - Model Based Design,Mechanical Eng. - Engrg. Mech.,2.0,MEEM 2911(C) and MEEM 2150 and MEEM 2700,,"Fall, Spring, Summer"
+MEEM 3911,Mechanical Engineering Practice IV,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3901 and EE 3010 and MEEM 3400(C) and MEEM 3600(C),,"Fall, Spring, Summer"
+MEEM 3999,Mechanical Engineering Undergraduate Research Project,Mechanical Eng. - Engrg. Mech.,3.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MEEM 4150,Intermediate Mechanics of Materials,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150,,Spring
+MEEM 4160,Fund of Exp Stress Analysis,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150,,Fall
+MEEM 4170,Failure of Materials in Mechanics,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3501 or MEEM 3400,,Spring
+MEEM 4180,Engineering Biomechanics,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150 and MEEM 2700,,Fall
+MEEM 4200,Principles of Energy Conversion,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 4201(C) or MEEM 3230(C) or CM 3230 or ENG 3200 or MY 3100,,Fall
+MEEM 4201,Intermediate Thermodynamics,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3201(C),,"Fall, Spring"
+MEEM 4202,Intermediate Fluid Mechanics and Heat Transfer,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 3201,,Fall
+MEEM 4210,Computational Fluids Engineering,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3230(C) or MEEM 3201(C),,Fall
+MEEM 4220,Internal Combustion Engines I,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3210 or MEEM 4201(C),,Spring
+MEEM 4230,Compressible Flow/Gas Dynamics,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3210 or MEEM 3201,,Spring
+MEEM 4240,Combustion &amp; Air Pollution,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2200 or MEEM 2201,,"Fall, Spring"
+MEEM 4250,Heating/Ventilation/Air Cond,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3230(C) or MEEM 3201,,Spring - Offered alternate years beginning with the 2004-2005 academic year 
+MEEM 4260,Fuel Cell Technology,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3230 or CM 3110 or MEEM 3201,,Fall
+MEEM 4295,Introduction to Propulsion Systems for Hybrid Electric Vehicles,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2200 or ENG 3200 or MEEM 2201,,"Fall, Summer"
+MEEM 4296,Experimental Studies in Hybrid Electric Vehicles,Mechanical Eng. - Engrg. Mech.,3.0,,,"Fall, Summer"
+MEEM 4404,Mechanism Synthesis/Dynamic Modeling,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3502(C) or MEEM 3400,,"Fall, Spring"
+MEEM 4405,Intro to the Finite Element Method,Mechanical Eng. - Engrg. Mech.,3.0,(MEEM 3502 or MEEM 3400) and (MA 2320 or MA 2321 or MA 2330) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,"Fall, Spring, Summer"
+MEEM 4430,Advanced Computer Aided Design and Manufacturing Methods,Mechanical Eng. - Engrg. Mech.,4.0,ENG 1102 and (MEEM 3600 or MEEM 2500),,"Fall, Spring, Summer"
+MEEM 4450,Vehicle Dynamics,Mechanical Eng. - Engrg. Mech.,3.0,(MEEM 3502 and MEEM 3000) or (EE 3305 and MEEM 2700),,Spring
+MEEM 4610,Advanced Machining Processes,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2500 or MEEM 3600,,Spring
+MEEM 4615,Metal Forming Processes,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 2500 and MEEM 2150,,"Fall, Spring"
+MEEM 4625,Precision Manuf and Metrology,Mechanical Eng. - Engrg. Mech.,3.0,(MEEM 3700(C) and MEEM 3502(C)) or MEEM 3600(C),,"Fall, Spring"
+MEEM 4630,Human Factors,Mechanical Eng. - Engrg. Mech.,3.0,,,Fall
+MEEM 4635,Design with Plastics,Mechanical Eng. - Engrg. Mech.,3.0,MY 2100 and MEEM 2150 and (MEEM 3210 and MEEM 3230(C) or CM 3110),,"Fall, Spring"
+MEEM 4640,Micromanufacturing Processes,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3502(C) or MEEM 3400(C),,"Fall, Spring"
+MEEM 4650,Quality Engineering,Mechanical Eng. - Engrg. Mech.,3.0,MA 3710 or MA 3720 or MA 2710 or MA 2720,,"Fall, Spring"
+MEEM 4655,Production Planning,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3501(C) or MEEM 3400(C),,"Fall, Spring"
+MEEM 4660,Data Based Modeling &amp; Control,Mechanical Eng. - Engrg. Mech.,3.0,,,Fall
+MEEM 4675,Design of Material Handling Systems,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2150,,Spring
+MEEM 4685,Env Resp Design &amp; Manuf,Mechanical Eng. - Engrg. Mech.,3.0,,,Spring - Offered alternate years beginning with the 2001-2002 academic year 
+MEEM 4700,Dynamic Systems and Controls,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 3700,,"Fall, Spring"
+MEEM 4701,Analytical and Experimental Modal Analysis,Mechanical Eng. - Engrg. Mech.,4.0,(MEEM 3000 and MEEM 3700) or MEEM 3750,,Fall
+MEEM 4702,Shock and Vibration,Mechanical Eng. - Engrg. Mech.,3.0,(MEEM 3911 and MEEM 3750) or MEEM 4700 or MEEM 4775,,Spring
+MEEM 4704,Acoustics and Noise Control,Mechanical Eng. - Engrg. Mech.,3.0,MA 3160 and MEEM 2700,,Spring
+MEEM 4705,Introduction to Robotics and Mechatronics,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 4700(C),,"Fall, Spring"
+MEEM 4707,Autonomous Systems,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 3750 or MEEM 4700,,Spring
+MEEM 4720,Space Mechanics,Mechanical Eng. - Engrg. Mech.,3.0,MEEM 2700,,"Fall, Spring"
+MEEM 4775,Analysis &amp; Design of Feedback Control Systems,Mechanical Eng. - Engrg. Mech.,4.0,MEEM 3750,,Fall
+MEEM 4810,Introduction to Aerospace Engineering,Mechanical Eng. - Engrg. Mech.,3.0,(MEEM 2150 or ENG 2120) and (MEEM 3210 or ENG 3200),,Fall
+MEEM 4901,Senior Capstone Design I,Mechanical Eng. - Engrg. Mech.,2.0,(MEEM 3000(C) and MEEM 3502 and MEEM 3900) or (MEEM 3201(C) and MEEM 3750(C) and MEEM 3911 and MA 3710),,"Fall, Spring"
+MEEM 4911,Senior Capstone Design II,Mechanical Eng. - Engrg. Mech.,2.0,(MEEM 4901 and MEEM 3000(C) and MEEM 3502(C) and MEEM 3900) or (MEEM 3201 and MEEM 3750 and MEEM 4901),,"Fall, Spring"
+MEEM 4990,Special Topics in Mech Engg,Mechanical Eng. - Engrg. Mech.,variable to   6.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MEEM 4999,Mechanical Engineering Senior Research Thesis,Mechanical Eng. - Engrg. Mech.,3.0;  Repeatable to a Max of 6,,,"Fall, Spring, Summer"
+MET 1020,Technology Computer Applications,Mechanical Engrg Technology,3.0,,,"Fall, Summer"
+MET 1540,Materials Science,Mechanical Engrg Technology,3.0,CH 1000 or (CH 1150 and CH 1151),,Spring
+MET 2120,Statics and Strength of Materials,Mechanical Engrg Technology,4.0,(MA 1160(C) or MA 1161(C)) and (PH 1140 or PH 1110),,"Fall, Summer"
+MET 2130,Dynamics,Mechanical Engrg Technology,3.0,MET 2120,,Spring
+MET 2153,Machine Tool Fundamentals and Applications,Mechanical Engrg Technology,2.0,,,"Fall, Spring, Summer"
+MET 2400,Practical Applications in Parametric Modeling,Mechanical Engrg Technology,3.0,MET 1020 or TE 1020,,"Spring, Summer"
+MET 3242,Machine Design I,Mechanical Engrg Technology,3.0,MA 2160 and MET 2130,,"Fall, Summer"
+MET 3400,Applied Fluid Mechanics,Mechanical Engrg Technology,3.0,MET 2130,,Fall
+MET 3451,Machine Design II,Mechanical Engrg Technology,3.0,MET 3242,,Spring
+MET 3500,Manufacturing Processes,Mechanical Engrg Technology,4.0,(MET 1020 or ENG 1102) and (MET 1540 or MY 2100),,Fall
+MET 3700,Applied Thermodynamics,Mechanical Engrg Technology,3.0,MET 3250 or MET 3400,,Spring
+MET 4210,Applied Quality Techniques,Mechanical Engrg Technology,3.0,MA 2720(C) or MA 3710(C),,Fall
+MET 4300,Applied Heat Transfer,Mechanical Engrg Technology,3.0,MET 3600 or (MET 3700 and MET 4360(C)),,Fall
+MET 4350,"Principles and Application of Heating, Ventilating, and Air Conditioning Systems",Mechanical Engrg Technology,3.0,MET 4300,,Spring
+MET 4355,Industrial Systems Simulation,Mechanical Engrg Technology,3.0,,,Spring
+MET 4360,Thermal-Fluids Laboratory,Mechanical Engrg Technology,1.0,MET 3400 and MET 3700 and MET 4300(C),,Fall
+MET 4377,Applied Fluid Power,Mechanical Engrg Technology,3.0,MET 3250 or (MET 3400 and MET 4360(C)),,Spring
+MET 4390,Internal Combustion Engines,Mechanical Engrg Technology,3.0,MET 3600 or MET 4300 or (MET 3700 and MET 4360(C)),,Fall
+MET 4460,Product Design and Development,Mechanical Engrg Technology,3.0,,,"Fall, Spring"
+MET 4510,Lean Manufacturing and Production Planning,Mechanical Engrg Technology,3.0,,,Spring
+MET 4550,Computer Aided Manufacturing,Mechanical Engrg Technology,3.0,MET 2153 and (MEEM 2500 or MET 3500) and MET 2400,,Spring
+MET 4585,Facilities Layout and Safety Design,Mechanical Engrg Technology,3.0,,,Fall
+MET 4660,CAE and FEA Methods,Mechanical Engrg Technology,3.0,MET 2400 and MET 3242(C),,Fall
+MET 4670,Senior Project,Mechanical Engrg Technology,3.0,MET 4460,,"Fall, Spring, Summer"
+MET 4780,Advanced Manufacturing,Mechanical Engrg Technology,3.0,MEEM 2500 or MET 3500,,Spring
+MET 4996,Special Topics in Mechanical Engineering Technology,Mechanical Engrg Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+MET 4997,Independent Study in Mechanical Engineering Technology,Mechanical Engrg Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+MET 4998,Undergraduate Research in Mechanical Engineering Technology,Mechanical Engrg Technology,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+MET 4999,Professional Practice Seminar,Mechanical Engrg Technology,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+MGT 2000,Team Dynamics and Decision Making,Management,3.0,,,"Fall, Spring, Summer"
+MGT 3000,Organizational Behavior,Management,3.0,,,"Fall, Spring, Summer"
+MGT 3100,Leadership Development,Management,3.0,,,"Fall, Spring - Offered alternate years beginning with the 2008-2009 academic year "
+MGT 3650,Intellectual Property Management,Management,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+MGT 3800,Entrepreneurship,Management,3.0,,,"Fall, Spring, Summer"
+MGT 4000,Strategic Management,Management,3.0,MIS 2000 and FIN 3000 and OSM 3000 and MGT 3000 and MKT 3000 and BUS 2300,,"Fall, Spring"
+MGT 4100,International Management,Management,3.0,MGT 3000 and EC 3100(C),,Fall
+MGT 4200,Entrepreneurial Management,Management,3.0,MGT 3000 and MGT 3800,,Spring
+MGT 4500,Managing Change in Organizations,Management,3.0,MGT 3000,,"Fall, Spring - Offered alternate years beginning with the 2012-2013 academic year "
+MGT 4600,Management of Technology and Innovation,Management,3.0,,,"Fall, Spring, Summer"
+MGT 4700,Human Resource Management,Management,3.0,MGT 3000,,"Fall, Spring"
+MGT 4990,Special Topics in Management,Management,variable to   3.0;  Repeatable to a Max of 6,MGT 3000,,On Demand
+MIS 2000,IS/IT Management,Management Information Systems,3.0,BUS 1100 or CS 1121 or CS 1131 or ENG 1101 or (ENG 1001 and ENG 1100) or SAT 1200,,"Fall, Spring, Summer"
+MIS 2100,Introduction to Business Programming,Management Information Systems,3.0,,,Spring
+MIS 2200,Web Programming,Management Information Systems,3.0,MIS 2100 or CS 1121 or CS 1131,,Fall
+MIS 3000,Business Process Analysis,Management Information Systems,3.0,MIS 2000,,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+MIS 3100,Business Database Management,Management Information Systems,3.0,MIS 2000(C),,"Fall, Spring"
+MIS 3200,Systems Analysis and Design,Management Information Systems,3.0,MIS 2000(C),,"Fall, Spring"
+MIS 3300,Telecommunications,Management Information Systems,3.0,MIS 2000(C),,Spring - Offered alternate years beginning with the 2012-2013 academic year 
+MIS 3400,Business Intelligence,Management Information Systems,3.0,MIS 2000,,Spring - Offered alternate years beginning with the 2011-2012 academic year 
+MIS 3500,User-Centered Design,Management Information Systems,3.0,MIS 2000,,Fall - Offered alternate years beginning with the 2012-2013 academic year 
+MIS 4000,Advanced Information Systems,Management Information Systems,3.0,MIS 3100 and MIS 3200,,"Fall, Spring - Offered alternate years beginning with the 2010-2011 academic year "
+MIS 4100,Information Systems Projects,Management Information Systems,3.0,MIS 3100 and (MIS 3000 or MIS 3200),,"Fall, Spring"
+MIS 4990,Special Topics in Management Information Systems,Management Information Systems,variable to   3.0;  Repeatable to a Max of 6,MIS 2000,,On Demand
+MKT 3000,Principles of Marketing,Marketing,3.0,,,"Fall, Spring, Summer"
+MKT 3200,Consumer Behavior,Marketing,3.0,MKT 3000,,Fall
+MKT 3400,Integrated Marketing Communications,Marketing,3.0,BA 3800 or MKT 3000,,Spring
+MKT 3600,Marketing Research,Marketing,3.0,(MA 2710 or MA 2720 or MA 3710 or BUS 2100) and MKT 3000,,"Fall, Spring"
+MKT 4100,Sales and Sales Management,Marketing,3.0,MKT 3000,,"Fall, Spring, Summer"
+MKT 4200,Business to Business Marketing,Marketing,3.0,MKT 3000,,"Fall, Spring"
+MKT 4300,Global Marketing,Marketing,3.0,MKT 3000,,"Fall, Spring"
+MKT 4500,Introduction to Digital Marketing,Marketing,3.0,MKT 3000,,Fall
+MKT 4700,Marketing Strategy,Marketing,3.0,MKT 3200 and MKT 3600 and MKT 4300(C),,"Fall, Spring"
+MKT 4990,Special Topics in Marketing,Marketing,variable to   3.0;  Repeatable to a Max of 6,MKT 3000,,On Demand
+MY 2100,Introduction to Materials Science and Engineering,Materials Science &amp; Engrg,3.0,CH 1112 or CH 1122 or (CH 1150 and CH 1151) or (CH 1160 and CH 1161),,"Fall, Spring, Summer"
+MY 2110,Introduction to Materials Science and Engineering II,Materials Science &amp; Engrg,3.0,MY 2100 and (ENG 1100 or ENG 1101),,"Fall, Spring"
+MY 3100,Materials Processing I,Materials Science &amp; Engrg,4.0,MY 2100 and MA 2160,,Fall
+MY 3110,Materials Processing II,Materials Science &amp; Engrg,4.0,MY 2110 and MY 3100 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring
+MY 3200,Materials Characterization I,Materials Science &amp; Engrg,4.0,MY 2100 and MY 2110,,Spring
+MY 3210,Materials Characterization II,Materials Science &amp; Engrg,4.0,MY 2100,,Fall
+MY 3300,Design of Microstructure,Materials Science &amp; Engrg,3.0,MY 2110 and MY 3100 and MY 3200(C),,Spring
+MY 3500,Introduction to Semiconductor Materials &amp; Devices,Materials Science &amp; Engrg,3.0,PH 2400,,Fall
+MY 4130,Principles of Metal Casting,Materials Science &amp; Engrg,3.0,MY 2100,,Fall
+MY 4140,Science of Ceramic Materials,Materials Science &amp; Engrg,3.0,MY 2100,,Spring
+MY 4155,Composite Materials,Materials Science &amp; Engrg,3.0,MY 2100,,Spring
+MY 4164,Fundamentals of Corrosion,Materials Science &amp; Engrg,1.0,CH 1150 and CH 1151,,Fall
+MY 4165,Corrosion and Environmental Effects,Materials Science &amp; Engrg,3.0,MY 2100,,Fall
+MY 4180,Advanced Physical Metallurgy,Materials Science &amp; Engrg,3.0,MY 2100 and MY 3300,,On Demand
+MY 4190,Environmental Engineering for Materials Processing Industries,Materials Science &amp; Engrg,3.0,,,Fall
+MY 4200,Introduction to Scanning Electron Microscopy,Materials Science &amp; Engrg,2.0,,,"Fall, Spring"
+MY 4201,Introduction to Scanning Electron Microscopy Laboratory,Materials Science &amp; Engrg,1.0,MY 4200(C),,"Fall, Spring"
+MY 4220,Materials Forensics,Materials Science &amp; Engrg,3.0,,"MY 2100, MY 3200",Fall
+MY 4240,Introduction to MEMS,Materials Science &amp; Engrg,4.0,,,Fall
+MY 4292,Light and Photonic Materials,Materials Science &amp; Engrg,3.0,PH 2200 or EE 2190 or EE 3140,,Spring
+MY 4300,Mechanical Behavior of Materials,Materials Science &amp; Engrg,3.0,MY 2110 and MY 2100 and (MEEM 2150 or ENG 2120),,"Fall, Summer"
+MY 4310,Practical Scanning Probe Microscopy for Undergraduates,Materials Science &amp; Engrg,1.0,,,On Demand - Offered alternate years beginning with the 2011-2012 academic year 
+MY 4600,Introduction to Polymer Engineering,Materials Science &amp; Engrg,3.0,MY 2100,,Fall
+MY 4610,"Computational Materials Science: Theory, Modeling, Simulation, and Practice",Materials Science &amp; Engrg,3.0,,,Spring
+MY 4630,Contact Mechanics and Nanoindentation,Materials Science &amp; Engrg,3.0,MY 2100 and PH 2200 and MA 3521 and MEEM 2150,,Spring
+MY 4740,Hydrometallurgy/Pyrometallurgy,Materials Science &amp; Engrg,4.0,CH 1122 or (CH 1160 and CH 1161),,Spring
+MY 4777,Distributed Additive Manufacturing Using Open-Source 3-D Printing,Materials Science &amp; Engrg,3.0,,,Fall
+MY 4800,Material and Process Selection in Design,Materials Science &amp; Engrg,3.0,MY 2100,,Spring
+MY 4920,Materials Science &amp; Engineering Senior Design Project I,Materials Science &amp; Engrg,2.0,MY 3110 and MY 3200 and MY 3210 and MY 3300 and MY 4940(C),,"Fall, Spring"
+MY 4930,Materials Science &amp; Engineering Senior Design Project II,Materials Science &amp; Engrg,2.0,MY 4920,,"Fall, Spring"
+MY 4940,Material Design,Materials Science &amp; Engrg,2.0,MY 3100 and MY 3110(C) and MY 3200(C) and MY 3210(C) and MY 3300(C) and ENG 1102,,Spring
+MY 4970 - Special Topics,Special Topics - Materials,Materials Science &amp; Engrg,variable to   4.0;  May be repeated,,,"Fall, Spring, Summer"
+MY 4990,Undergraduate Research,Materials Science &amp; Engrg,variable to   6.0;  May be repeated,,,"Fall, Spring, Summer"
+OSM 3000,Operations and Supply Chain Management,Operations &amp; Supply Chain Mgmt,3.0,(MA 1135 or MA 1160 or MA 1161) and (MA 2710 or MA 2720 or MA 3710 or MA 3720 or EET 2010 or BUS 2100),,"Fall, Spring, Summer"
+OSM 3150,Introduction to Supply Chain Management,Operations &amp; Supply Chain Mgmt,3.0,OSM 3000,,"Fall, Spring"
+OSM 3200,Project Management,Operations &amp; Supply Chain Mgmt,3.0,MA 2710 or MA 2720 or MA 3710 or EET 2010 or BUS 2100,,"Fall, Spring, Summer"
+OSM 3600,Procurement and Supply Management,Operations &amp; Supply Chain Mgmt,3.0,(MA 2720 or MA 3710) and (MA 1135 or MA 1160 or MA 1161),,"Fall, Spring"
+OSM 4100,Global Operations Strategy,Operations &amp; Supply Chain Mgmt,3.0,OSM 3000,,On Demand - Offered alternate years beginning with the 2002-2003 academic year 
+OSM 4150,Advanced Supply Chain Management,Operations &amp; Supply Chain Mgmt,3.0,BUS 2300 and OSM 3150,,Spring
+OSM 4200,Advanced Project Management,Operations &amp; Supply Chain Mgmt,3.0,OSM 3200 or ENG 4300,,Spring
+OSM 4650,Six Sigma Fundamentals,Operations &amp; Supply Chain Mgmt,3.0,MA 2710 or MA 2720 or MA 3710 or MA 3720 or BUS 2100,,"Fall, Spring"
+OSM 4700,Logistics and Transportation Management,Operations &amp; Supply Chain Mgmt,3.0,(MA 2710 or MA 2720 or MA 3710) and (MA 1135 or MA 1160 or MA 1161),,"Fall, Spring"
+PE 0101,Flag Football,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0103,Bait and Fly Casting,Physical Education,0.5; Graded Pass/Fail Only,,,On Demand
+PE 0104,Ultimate Frisbee,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0105,Beginning Bowling,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0106,Beginning Golf,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0107,Floor Hockey,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0108,Broomball,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0109,Aikido,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0113,Disc Golf,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0114,Frisbockey,Physical Education,0.5; Graded Pass/Fail Only,,,On Demand
+PE 0115,Beginning Swimming,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+PE 0116,Beginning Basketball,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0117,Beginning Hockey,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0118,Beginning Weight Training,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+PE 0119,Beginning Fitness Training,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0120,Beginning Alpine Skiing (Downhill),Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0121,Beginning Snowboarding,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0122,Softball,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0123,Telemark Skiing,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0125,Sand Volleyball,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0126,Beginning Volleyball,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0130,Water Aerobics,Physical Education,0.5; Graded Pass/Fail Only,,,Fall
+PE 0132,Beginning Soccer,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0135,Beginning Cross Country Skiing,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0137,Table Tennis,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0138,Beginning Racquetball/Squash,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0139,Beginning Badminton,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0140,Beginning Tennis,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0145,Beginning Rifle,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0146,Beginning Billiards,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0148,Beginning Skating,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0150,Outdoor Lifetime Activities,Physical Education,0.5; Graded Pass/Fail Only,,,Summer
+PE 0151,Indoor Lifetime Activities,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0152,Social Dance I,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0153,Aerobics I,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0155,Beginning Road Biking,Physical Education,0.5; Graded Pass/Fail Only,,,Fall
+PE 0156,Beginning Mountain Biking,Physical Education,0.5; Graded Pass/Fail Only,,,Fall
+PE 0166,Moving for Fitness,Physical Education,0.5; Graded Pass/Fail Only,,,Summer
+PE 0167,Beginning Yoga,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0168,Beginning Pilates,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0169,Spinning,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0170,TaeKwonDo and Hapkido I,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0175,Hiking,Physical Education,0.5; Graded Pass/Fail Only,,,Summer
+PE 0176,Outdoor Adventure,Physical Education,variable to   3.0;  Repeatable to a Max of 3; Graded Pass/Fail Only,,,On Demand
+PE 0200,Fitness Foundations,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0205,Intermediate Bowling,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0206,Intermediate Golf,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Summer"
+PE 0209,Intermediate Aikido,Physical Education,0.5; Graded Pass/Fail Only,,,On Demand
+PE 0210,Special Topics in Physical Education,Physical Education,0.5;  Repeatable to a Max of 1; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+PE 0215,Intermediate Swimming,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0216,Intermediate Basketball,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0217,Intermediate Hockey,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0218,Intermediate Weight Training,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0219,Intermediate Fitness Training,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0220,Intermediate Alpine Skiing (Downhill),Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0221,Intermediate Snowboarding,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0226,Intermediate Volleyball,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0230,Water Polo,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0232,Intermediate Soccer,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+PE 0235,Intermediate Cross Country Skiing,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0237,Intermediate Table Tennis,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0238,Intermediate Racquetball/Squash,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0239,Intermediate Badminton,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0240,Intermediate Tennis,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0246,Intermediate Billiards,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0248,Intermediate Skating,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0252,Social Dance II,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0253,Aerobics II,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0256,Intermediate Mountain Biking,Physical Education,0.5; Graded Pass/Fail Only,,,Fall
+PE 0266,Running for Fitness,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0267,Intermediate Yoga,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0268,Intermediate Pilates,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0270,Cardio TaeKwonDo,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0315,Fitness Swimming,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0320,Advanced Skiing,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0321,Advanced Snowboarding,Physical Education,0.5; Graded Pass/Fail Only,,,Spring
+PE 0330,Club Sports,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0340,Advanced Tennis,Physical Education,0.5; Graded Pass/Fail Only,PE 0240,,Spring
+PE 0352,Social Dance III,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0353,Aerobics III,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0355,Advanced Road Biking,Physical Education,0.5; Graded Pass/Fail Only,,,Fall
+PE 0367,Mindful Yoga,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0420,Ski Instructor Training,Physical Education,0.5; Graded Pass/Fail Only,,,On Demand
+PE 0421,Snowboard Instructor Training,Physical Education,0.5; Graded Pass/Fail Only,,,On Demand
+PE 0425,Intramurals,Physical Education,0.5;  Repeatable to a Max of 1; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0430,Club Sports Leadership,Physical Education,0.5; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0435,Rape Aggression Defense-Basic Physical Defense,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 0450,Physical Education Fusion-Full,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring, Summer"
+PE 1470,Lifeguard Swimming,Physical Education,1.0; Graded Pass/Fail Only,,EH 2470,Spring
+PE 1580,Water Safety Skills,Physical Education,1.0; Graded Pass/Fail Only,,EH 2580,Spring
+PE 1690,Medical 1st Responder Training,Physical Education,1.0; Graded Pass/Fail Only,,EH 3690,On Demand
+PE 2010,Varsity Football,Physical Education,1.0; Graded Pass/Fail Only,,,Fall
+PE 2020,Varsity Basketball,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 2028,Ski Patrol (Hill),Physical Education,1.0; Graded Pass/Fail Only,,,Spring
+PE 2030,Varsity Hockey,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 2040,Varsity Nordic Skiing,Physical Education,1.0; Graded Pass/Fail Only,,,Spring
+PE 2050,Varsity Soccer,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 2080,Varsity Track,Physical Education,1.0; Graded Pass/Fail Only,,,Spring
+PE 2090,Varsity Tennis,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PE 2130,Varsity Volleyball,Physical Education,1.0; Graded Pass/Fail Only,,,Fall
+PE 2140,Varsity Cross Country,Physical Education,1.0; Graded Pass/Fail Only,,,Fall
+PE 2150,Cross Training,Physical Education,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+PH 1090,The Physics Behind Music,Physics,3.0,MA 1031(C) or MA 1032(C),,"Fall, Spring, Summer"
+PH 1091,The Physics Behind Music Lab,Physics,1.0,PH 1090(C),,"Fall, Summer"
+PH 1100,Physics by Inquiry I,Physics,1.0,MA 1160(C) or MA 1161(C),,"Fall, Spring, Summer"
+PH 1110,College Physics I,Physics,3.0,MA 1031 or MA 1032 or MA 1135(C) or MA 1160(C) or MA 1161(C),PH 1111,"Fall, Summer"
+PH 1111,College Physics I Laboratory,Physics,1.0,,PH 1110,"Fall, Summer"
+PH 1140,Applied College Physics I,Physics,3.0,MA 1031 or MA 1032 or MA 1160(C) or MA 1161(C) and (PH 1100 or PH 1111 or PH 1141(C) or PH 1161),PH 1141,Spring
+PH 1141,Applied College Physics I Laboratory,Physics,1.0,,PH 1140,Spring
+PH 1160 - Honors Physics I,Honors Physics I - Mechanics,Physics,4.0,MA 1160(C) or MA 1161(C),PH 1161,Fall
+PH 1161,Introduction to Experimental Physics I,Physics,1.0,,PH 1160,Fall
+PH 1200,Physics by Inquiry II,Physics,1.0,PH 1100 or PH 1111 or PH 1141 or PH 1161,,"Fall, Spring, Summer"
+PH 1210,College Physics II,Physics,3.0,PH 1200(C) and (PH 1110 or PH 1100),,"Fall, Spring, Summer"
+PH 1240,Applied College Physics II,Physics,3.0,PH 1140 or PH 1110,PH 1200,Fall
+PH 1360 - Honors Physics II,Honors Physics II - Rotation and Vibration,Physics,2.0,(PH 1160 or PH 2100) and MA 2160(C),PH 1361,Spring
+PH 1361,Introductory Experimental Physics II,Physics,1.0,,PH 1360,Spring
+PH 1500,Extraordinary Concepts in Physics,Physics,2.0,,,On Demand
+PH 1600,Introductory Astronomy,Physics,2.0,,,"Fall, Spring, Summer"
+PH 1610,Introductory Astronomy Lab,Physics,1.0,,PH 1600,"Fall, Summer"
+PH 2020,Introduction to Scientific Programming and Error Analysis,Physics,2.0,PH 1160 or PH 2100,,Fall
+PH 2100,University Physics I-Mechanics,Physics,3.0,PH 1100(C) and (MA 1160 or MA 1161 or MA 1135 or MA 2160(C)),,"Fall, Spring, Summer"
+PH 2200,University Physics II-Electricity and Magnetism,Physics,3.0,(PH 1200(C) or PH 2261(C)) and (PH 2100 or PH 1160) and MA 2160,,"Fall, Spring, Summer"
+PH 2230,Electronics for Scientists,Physics,4.0,PH 2200 or PH 2260,,Spring
+PH 2260 - Honors Physics III,Honors Physics III - Electricity and Magnetism,Physics,4.0,(PH 1160 or PH 2100) and (PH 1200(C) or PH 2261(C)) and MA 2160,,Fall
+PH 2261,Introduction to Experimental Physics III,Physics,1.0,PH 1100 or PH 1161,PH 2260,Fall
+PH 2300,University Physics III-Fluids and Thermodynamics,Physics,2.0,PH 1160 or PH 2100,,Spring
+PH 2400,University Physics IV-Waves and Modern Physics,Physics,3.0,PH 2200 or PH 2260,,"Fall, Spring, Summer"
+PH 3110,Theoretical Mechanics I,Physics,3.0,(PH 2200 or PH 2260) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall
+PH 3111,Theoretical Mechanics II,Physics,3.0,PH 3110,,Spring
+PH 3210,Optics,Physics,3.0,PH 2400 and (MA 3520 or MA 3521 or MA 3530(C) or MA 3560),,Fall
+PH 3300,Thermodynamics and Statistical Mechanics,Physics,3.0,PH 2300 or PH 1360,,Spring
+PH 3320,Methods of Theoretical Physics,Physics,3.0,MA 3160 and (MA 3520 or MA 3521 or MA 3530 or MA 3560) and (PH 2200 or PH 2260),,Fall
+PH 3410,Quantum Physics I,Physics,3.0,PH 2400 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring
+PH 3411,Quantum Physics II,Physics,3.0,PH 3410,,Fall
+PH 3480,Advanced Physics Laboratory,Physics,2.0,PH 2230 and PH 3210,,Spring
+PH 4010,Senior Physics Colloquium I,Physics,1.0,,PH 4080,Fall
+PH 4011,Senior Physics Colloquium II,Physics,1.0,PH 4010,PH 4081,Spring
+PH 4050,Qualitative Methods in Physics,Physics,1.0; Graded Pass/Fail Only,,,Fall
+PH 4080,Senior Research I,Physics,3.0,PH 3480,PH 4010,Fall
+PH 4081,Senior Research II,Physics,3.0,PH 4080,PH 4011,Spring
+PH 4090,Senior Thesis,Physics,1.0,,,Spring
+PH 4210,Electricity and Magnetism I,Physics,3.0,(PH 2200 or PH 2260) and PH 3110 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall
+PH 4211,Electricity and Magnetism II,Physics,3.0,PH 4210,,Spring
+PH 4292,Light and Photonic Materials,Physics,3.0,PH 2200(C),,Spring
+PH 4390,Computational Methods in Physics,Physics,3.0,PH 2020 and PH 3410,,Fall
+PH 4395,Computer Simulation in Physics,Physics,3.0,PH 3300 and PH 4390 and (PH 2400 or PH 3410),,Spring
+PH 4510,Introduction to Solid State Physics,Physics,2.0,(PH 2300 or PH 1360) and PH 2400 and (CH 1150 and CH 1151) and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall
+PH 4610,Stellar Astrophysics,Physics,3.0,PH 1600 and PH 2400 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring - Offered alternate years beginning with the 2008-2009 academic year 
+PH 4620,Galactic Astrophysics,Physics,3.0,PH 1600 and PH 2400 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+PH 4630,Particle Astrophysics,Physics,3.0,PH 2400 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Spring - Offered alternate years beginning with the 2007-2008 academic year 
+PH 4640,Fundamentals of Atmospheric Science,Physics,3.0,(PH 2200 or PH 2260) and (PH 1360 or PH 2300) and MA 3160 and (MA 3520 or MA 3521 or MA 3530 or MA 3560),,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+PH 4710,Methods of Teaching Physics,Physics,2.0,PH 1210 or PH 2200 or PH 2260,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+PH 4999,Special Topics in Physics,Physics,variable to   9.0;  May be repeated,,,"Fall, Spring, Summer"
+PSY 2000,Introduction to Psychology,Psychology,3.0,,,"Fall, Spring, Summer"
+PSY 2100,Counseling Psychology,Psychology,3.0,PSY 2000,,On Demand
+PSY 2200,Behavior Modification,Psychology,3.0,PSY 2000,,On Demand
+PSY 2300,Developmental Psychology,Psychology,3.0,PSY 2000,,"Spring, Summer"
+PSY 2400,Health Psychology,Psychology,3.0,PSY 2000,,On Demand
+PSY 2501,Intro to the Psychology Major,Psychology,1.0,PSY 2000(C),,Spring
+PSY 2600,Psychology of Death and Dying,Psychology,3.0,PSY 2000,,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+PSY 2720,Statistics for the Behavioral Sciences,Psychology,4.0,MA 1031 or MA 1032 or MA 1160(C) or MA 1161(C) or MA 1135(C),,Spring
+PSY 2800,Critical Thinking for Social and Behavioral Sciences,Psychology,3.0,PSY 2000(C),,Spring
+PSY 3000,Research Methods &amp; Stats,Psychology,3.0,PSY 2000 and (MA 2720 or PSY 2720),,"Fall, Summer"
+PSY 3001,Experimental Methods and Statistics II,Psychology,3.0,PSY 2000 and PSY 3000,,"Spring, Summer"
+PSY 3010,Theories of Personality,Psychology,3.0,PSY 2000 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer"
+PSY 3020,Moral Psychology,Psychology,3.0,PSY 2000 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2014-2015 academic year 
+PSY 3030,Abnormal Psychology,Psychology,3.0,PSY 2000 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Summer"
+PSY 3040,History and Systems of Psychology,Psychology,3.0,PSY 2000,,Spring
+PSY 3060,Physiological Psychology,Psychology,3.0,PSY 2000 and (BL 1020 or BL 1040 or BL 2010),,Spring
+PSY 3070,Cross-Cultural Psychology,Psychology,3.0,PSY 2000 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer - Offered alternate years beginning with the 2012-2013 academic year "
+PSY 3090,Directed Research: Undergraduate Research Assistant in Psychology,Psychology,variable to   3.0;  May be repeated,PSY 2000,,"Fall, Spring, Summer"
+PSY 3095,Teaching Assistant,Psychology,variable to   3.0;  May be repeated,PSY 2000,,"Fall, Spring, Summer"
+PSY 3100,Application of Treatment Model,Psychology,3.0,PSY 2000,,On Demand
+PSY 3200,Motivation and Emotion,Psychology,3.0,PSY 2000,,On Demand
+PSY 3250,Persuasion and Attitude Change,Psychology,3.0,PSY 2000,,On Demand
+PSY 3300,Psychology of Deviance,Psychology,3.0,PSY 2000,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+PSY 3700,Industrial Organizational Psychology,Psychology,3.0,PSY 2000,,Fall - Offered alternate years beginning with the 2012-2013 academic year 
+PSY 3720,Social Psychology,Psychology,3.0,PSY 2000 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Spring, Summer"
+PSY 3750,Judgment and Decision Making,Psychology,3.0,PSY 2720 or MA 2720,,Fall
+PSY 3850,Human Factors Psychology,Psychology,3.0,PSY 2000,,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+PSY 3860,Human Performance,Psychology,3.0,PSY 2000,,Spring
+PSY 3870,Human-Centered Design,Psychology,3.0,,,On Demand
+PSY 4010,Cognitive Psychology,Psychology,3.0,PSY 2000,,"Fall, Summer"
+PSY 4060,Cognitive Neuroscience,Psychology,3.0,PSY 3060,,Spring
+PSY 4080,Topics in Psychology,Psychology,variable to   4.0;  May be repeated,PSY 2000,,On Demand
+PSY 4090,Independent Study in Psychology,Psychology,variable to   6.0;  Repeatable to a Max of 9,PSY 2000,,On Demand
+PSY 4095,Field Experience in Psychology,Psychology,variable to   3.0;  Repeatable to a Max of 6; Graded Pass/Fail Only,PSY 2000,,"Fall, Summer"
+PSY 4110,Learning and Memory,Psychology,3.0,PSY 2000,,Fall
+PSY 4160,Sensation and Perception,Psychology,3.0,BL 1040 or BL 1020 and PSY 3000,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+PSY 4220,Psychology and Law,Psychology,3.0,PSY 2000,,On Demand
+PSY 4400,Tests and Measurements,Psychology,3.0,PSY 2720 or MA 2720,,On Demand
+PSY 4500,Senior Seminar: Psychology Capstone,Psychology,1.0; Graded Pass/Fail Only,PSY 3000(C),,Fall
+SA 1000,Exploring Majors at Michigan Tech,Sciences and Arts,1.0,,,"Fall, Spring"
+SAT 1200,Introduction to Programming,Systems Admin. Technology,3.0,,,Fall
+SAT 1610,Computer and Operating Systems Architecture,Systems Admin. Technology,3.0,SAT 1200 or CS 1111,,Spring
+SAT 1700,Cyber Ethics,Systems Admin. Technology,3.0,,,Fall
+SAT 2343,Network Administration I,Systems Admin. Technology,4.0,SAT 1610,,"Fall, Summer"
+SAT 2511,Microsoft System Administration,Systems Admin. Technology,4.0,SAT 2343,,"Spring, Summer"
+SAT 2711,Linux  System Administration,Systems Admin. Technology,4.0,SAT 1200 or CS 1111,,"Fall, Summer"
+SAT 3002,Application Programming Introduction,Systems Admin. Technology,3.0,,,Fall
+SAT 3200,Storage Area Networking,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711,,"Fall, Spring"
+SAT 3210,Database Management,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711,,"Fall, Summer"
+SAT 3310,Scripting for Administration and Automation,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711,,Spring
+SAT 3343,Network Administration II,Systems Admin. Technology,4.0,SAT 2343 or CS 3411,,Spring
+SAT 3611,Infrastructure Service Administration,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711,,"Fall, Summer"
+SAT 3812,Cyber Security I,Systems Admin. Technology,3.0,SAT 2711,,"Fall, Summer"
+SAT 3820,Wireless System Administration,Systems Admin. Technology,4.0,SAT 2711,,"Spring, Summer"
+SAT 3900,New Technologies Seminar,Systems Admin. Technology,1.0;  Repeatable to a Max of 6; Graded Pass/Fail Only,,SAT 3901,Fall
+SAT 3901 - Becoming Human,Becoming Human - Communication and Technical Improv Seminar,Systems Admin. Technology,1.0; Graded Pass/Fail Only,,SAT 3900,Fall
+SAT 4240,Voice over IP Engineering,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711 and SAT 3343,,On Demand - Offered alternate years beginning with the 2011-2012 academic year 
+SAT 4310,Advanced Scripting Programming,Systems Admin. Technology,3.0,(SAT 1200 or CS 1111) and SAT 2511 and SAT 2711,,On Demand
+SAT 4343,Network Engineering,Systems Admin. Technology,3.0,SAT 3343,,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+SAT 4411,Data Center Engineering,Systems Admin. Technology,3.0,(SAT 3200 and SAT 3611) or (SAT 3511 and SAT 3711),,Spring
+SAT 4422,Clinical Applications,Systems Admin. Technology,3.0,,,Fall
+SAT 4424,Population Health Management,Systems Admin. Technology,3.0,SAT 4422,,Spring
+SAT 4480,Senior Project I,Systems Admin. Technology,3.0,,,"Fall, Spring, Summer"
+SAT 4541,Directory Services Architecture,Systems Admin. Technology,3.0,SAT 2711 or SAT 3511,,"Fall, Summer"
+SAT 4600,Web Application Development,Systems Admin. Technology,3.0,SAT 3002,,Spring
+SAT 4812,Cyber Security II,Systems Admin. Technology,3.0,SAT 3812,,"Fall, Spring"
+SAT 4816,Digital Forensics,Systems Admin. Technology,3.0,SAT 2511 and SAT 2711,,Fall
+SAT 4880,Senior Project II,Systems Admin. Technology,3.0,SAT 4480,,"Fall, Spring, Summer"
+SAT 4996,Special Topics in Computer Network Systems Administration,Systems Admin. Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+SAT 4997,Independent Study in Computer Network Systems Administration,Systems Admin. Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+SAT 4998,Undergraduate Research in Computer Network Systems Administration,Systems Admin. Technology,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+SS 1001,Orientation to the Social Sciences,Social Sciences,1.0,,,Fall
+SS 1002,Introduction to Law and the Legal Practice,Social Sciences,2.0,,,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+SS 2100,Introduction to Cultural Anthropology,Social Sciences,3.0,,,Fall
+SS 2200,Introduction to Archaeology,Social Sciences,3.0,,,"Fall, Spring"
+SS 2210,"Evolution of Cities: Their origins, growth, and future",Social Sciences,3.0,,,Spring
+SS 2300,Environment and Society,Social Sciences,3.0,,,Fall
+SS 2400,Introduction to Human Geography,Social Sciences,3.0,,,Fall
+SS 2500,United States History to 1877,Social Sciences,3.0,,,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+SS 2501,United States History Since 1877,Social Sciences,3.0,,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 2502,European History to 1650,Social Sciences,3.0,,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 2503,European History Since 1650,Social Sciences,3.0,,,Spring - Offered alternate years beginning with the 2013-2014 academic year 
+SS 2504,World History to 1500,Social Sciences,3.0,,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 2505,World History Since 1500,Social Sciences,3.0,,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+SS 2600,American Government &amp; Politics,Social Sciences,3.0,,,Spring
+SS 2601,Politics and Contemporary Issues of the European Union,Social Sciences,3.0,,,On Demand
+SS 2610,Introduction to Law and Society,Social Sciences,3.0,,,"Fall, Summer"
+SS 2635,Comparative Politics,Social Sciences,3.0,,,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 2700,Introduction to Sociology,Social Sciences,3.0,,,"Fall, Spring"
+SS 3200,Historical Archaeology,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring"
+SS 3210,Field Archaeology,Social Sciences,variable to   8.0;  Repeatable to a Max of 8,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Summer
+SS 3215,Archaeology Laboratory Practicum,Social Sciences,variable to   6.0;  Repeatable to a Max of 12,,,Summer
+SS 3220,Archaeological Sciences,Social Sciences,4.0,SS 2200 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2006-2007 academic year 
+SS 3230,Archaeology of Industry,Social Sciences,3.0,SS 2200 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3240,"Reading the Landscape: Anthropology, Geography, History",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3250,Human Origins &amp; Evolution,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2007-2008 academic year 
+SS 3260,Latin American Cultural History,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+SS 3270,Archaeology of the African Diaspora,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2009-2010 academic year 
+SS 3300,Environmental Problems,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3313,"Sustainability Science, Policy, and Assessment",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2012-2013 academic year 
+SS 3315,Population and Environment,Social Sciences,3.0,(MA 1030 and MA 1031) or MA 1032 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2012-2013 academic year 
+SS 3400,Contemporary Europe,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3410,World Resources &amp; Development,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3500,Modern American History,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3505,Military History of the U.S.,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3510,History of American Technology,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3511,History of Science in America,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3512,"Building America: The History of Planning, Engineering, and Development in the United States",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3513,History of Making Things: Craft and Industry in America,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3515,History of American Architecture,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 3520,U.S. Environmental History,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3521,Energy in American History,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3530,The Automobile in America,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3540,History of Michigan,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2013-2014 academic year 
+SS 3541,The Copper Country,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+SS 3552,Renaissance &amp; Reformation,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+SS 3553,Empires in World History,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3560,History of England I,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3561,History of England II,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 3570,History of Canada,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 3580,Technology and Western Civilization,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3581,History of Science,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2014-2015 academic year 
+SS 3600,American Foreign Policy,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2011-2012 academic year 
+SS 3610,International Law,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,"Fall, Spring"
+SS 3612,International Relations,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3621,Introduction to Public Policy and Public Management,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3630,Environmental Policy and Politics,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+SS 3636,Perceptions of The Modern State and Governance,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3640,Selected Topics in Cyber-Law,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2015-2016 academic year 
+SS 3650,Intellectual Property Management,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3660,Constitutional Law,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2017-2018 academic year 
+SS 3661,Civil Rights &amp; Civil Liberties,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2014-2015 academic year 
+SS 3665,"Crime, Incarceration, and Social Policy",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 3700,Industry and Society,Social Sciences,3.0,SS 2700 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3710,Social Problems,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3750,Social Inequality,Social Sciences,3.0,SS 2700 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2017-2018 academic year 
+SS 3760,Human Dimensions of Natural Resources,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3800,Energy Technology and Policy,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 3801,"Science, Technology, &amp; Society",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 3820,"Ethical, Legal and Societal Implications (ELSI) of Nanotechnology",Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2014-2015 academic year 
+SS 3910,Histories and Cultures,Social Sciences,3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3920,Topics in Anthropology/Archaeology,Social Sciences,3.0;  Repeatable to a Max of 9,(SS 2100 or SS 2200) and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3950,Topics in American History,Social Sciences,3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3951,Topics in European History,Social Sciences,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3952,Topics in World History,Social Sciences,3.0;  Repeatable to a Max of 6,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 3960,International Experience,Social Sciences,variable to   9.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Summer
+SS 3961,Preparing for Cross-Cultural Immersion Experiences,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 3990,Topics in the Social Sciences,Social Sciences,variable to   3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 4000,Independent Study,Social Sciences,variable to   3.0;  Repeatable to a Max of 9,,,"Fall, Spring, Summer"
+SS 4001,History of Social Thought,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall - Offered alternate years beginning with the 2016-2017 academic year 
+SS 4009,Introduction to Survey Methodology,Social Sciences,3.0,,,Fall
+SS 4010,Statistics for the Social Sciences,Social Sciences,3.0,PSY 2720 or MA 2720 or BUS 2100,,Spring - Offered alternate years beginning with the 2016-2017 academic year 
+SS 4020,Methods of Teaching Social Studies,Social Sciences,2.0,ED 4700(C),,"Fall, Spring"
+SS 4030,Advanced Research in Anthropology,Social Sciences,2.0,,,"Fall, Spring"
+SS 4050,GIS Applications for Social Scientists,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring
+SS 4100,American Indian Political Issues,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2007-2008 academic year 
+SS 4200,Environmental Anthropology,Social Sciences,3.0,SS 2100 and UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Fall
+SS 4210,Global Change in Culture and Society Since 1400,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,Spring - Offered alternate years beginning with the 2010-2011 academic year 
+SS 4211,Ethnographic Methods,Social Sciences,3.0,UN 1015,,Spring
+SS 4220,Method &amp; Theory in Archaeology,Social Sciences,3.0,,,Fall - Offered alternate years beginning with the 2009-2010 academic year 
+SS 4380,Landscape Ecology and Planning,Social Sciences,3.0,,,Spring
+SS 4390,Seminar in Sustainability Issues,Social Sciences,variable to   3.0;  Repeatable to a Max of 9,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 4500,Historiography,Social Sciences,3.0,,,Fall - Offered alternate years beginning with the 2015-2016 academic year 
+SS 4501 - Senior Thesis,Senior Thesis - History,Social Sciences,3.0,SS 4500(C),,On Demand
+SS 4502,Historical Research,Social Sciences,1.0;  May be repeated,,,On Demand
+SS 4700,Communities and Research,Social Sciences,3.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 4900,Seminar in Social Sciences,Social Sciences,variable to   3.0;  Repeatable to a Max of 9,,,On Demand
+SS 4910,Professional Development for the Social Sciences,Social Sciences,1.0,,,Spring
+SS 4920,Internship Experience,Social Sciences,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+SS 4921 - Washington Internship,Washington Internship - Professional Practicum,Social Sciences,variable to  15.0;  Repeatable to a Max of 15,,,On Demand
+SS 4961,Experiential Learning in Cross-Cultural and Community Partnerships,Social Sciences,2.0,UN 1015 and (UN 1025 or Modern Language - 3000 level or higher),,On Demand
+SS 4990,Directed Study in Anthropology,Social Sciences,variable to   3.0,,,"Fall, Spring, Summer"
+SU 1000,Surveying Engineering Orientation,Surveying,1.0,,,Fall
+SU 2000,Introduction to Surveying,Surveying,2.0,,,"Fall, Spring"
+SU 2050,Plane Surveying,Surveying,3.0,SU 2000(C),,Fall
+SU 2220,Route and Construction Surveying,Surveying,3.0,SU 2050 or SU 2000,,Spring
+SU 3110,Surveying Field Practice,Surveying,4.0,SU 2220,,Fall
+SU 3180,Boundary Surveying Principles,Surveying,3.0,SU 3600(C),,Fall
+SU 3210,Site Planning and Development,Surveying,4.0,SU 2000,,Spring
+SU 3540,Geospatial Information Technology with Elements of Field Cartography,Surveying,4.0,MA 3710,,Spring
+SU 3600,Surveying Computations and Adjustments,Surveying,4.0,(SU 2000 or SU 2050) and (MA 2320 or MA 2321 or MA 2330) and SU 3110(C) and MA 3160(C) and MA 3710(C),,Fall
+SU 4003,Geographic Information Systems (GIS) Technology Fundamentals,Surveying,1.0,,,On Demand
+SU 4010,"Geospatial Concepts, Technologies, and Data",Surveying,3.0,,,On Demand
+SU 4045,Geospatial Data Fusion,Surveying,3.0,SU 4140,,Spring
+SU 4060,Geodesy,Surveying,3.0,SU 3600(C) or SU 3250,,"Fall, Spring"
+SU 4100,Geodetic Positioning,Surveying,3.0,SU 4060(C),,Fall
+SU 4140,Photogrammetry,Surveying,3.0,,,Fall
+SU 4142,3D Surveying and Modeling with Laser Scanner Data,Surveying,3.0,,,On Demand
+SU 4180,Land Subdivision Design,Surveying,3.0,SU 3180 and (CMG 3200 or SU 3210),,Spring
+SU 4480,Geospatial Science and Technology to Support Land Cadastre,Surveying,3.0,,,On Demand
+SU 4900,Capstone Design Project,Surveying,3.0,,,"Fall, Spring"
+SU 4996,Special Topics in Geospatial Technologies,Surveying,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+SU 4997,Independent Study in Geospatial Technologies,Surveying,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+SU 4998,Undergraduate Research in Geospatial Technologies,Surveying,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+SU 4999,Professional Practice Review,Surveying,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+TE 4996,Special Topics in Technology,Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+TE 4997,Independent Study in Technology,Technology,variable to   3.0;  Repeatable to a Max of 6,,,On Demand
+TE 4998,Undergraduate Research in Technology,Technology,variable to   6.0;  Repeatable to a Max of 6,,,On Demand
+UN 0500,Effective Scholarship,University Wide,1.0; Graded Pass/Fail Only,,,On Demand
+UN 1000,Frameworks for Success for ExSEL,University Wide,1.0,,,"Fall, Spring, Summer"
+UN 1005,Initiatives for Success,University Wide,1.0,,,"Fall, Spring, Summer"
+UN 1010,Creating Your Success for Themed Communities,University Wide,1.0,,,"Fall, Spring, Summer"
+UN 1011,Strategies for Success,University Wide,1.0,,,"Fall, Spring, Summer"
+UN 1012,Academic Language &amp; Practice,University Wide,1.0; Graded Pass/Fail Only,,,"Fall, Spring"
+UN 1015,Composition,University Wide,3.0,,,"Fall, Spring, Summer"
+UN 1025,Global Issues,University Wide,3.0,,,"Fall, Spring, Summer"
+UN 2100,Pavlis Leadership and Teamwork,University Wide,1.0,UN 1200,,Spring
+UN 2150,Pavlis Scholars/Leaders Sem. I,University Wide,1.0,,,"Fall, Spring"
+UN 2200,"Leadership, Culture, and Technology",University Wide,3.0,UN 2100,,"Fall, Spring"
+UN 2600,Fundamentals of Nanoscale Science and Engineering,University Wide,2.0,,,"Spring, Summer - Offered alternate years beginning with the 2007-2008 academic year "
+UN 2900,"Special Topics in Humanities, Arts, and Social Sciences",University Wide,3.0;  Repeatable to a Max of 6,,,On Demand
+UN 2990 - Special Topics,Special Topics - Interdiscip.,University Wide,variable to   6.0;  May be repeated,,,On Demand
+UN 3000,Pavlis Leadership and Project Development,University Wide,1.0,UN 2200,,"Fall, Spring"
+UN 3002,Undergraduate Cooperative Education I,University Wide,variable to   2.0;  May be repeated,,,"Fall, Spring, Summer"
+UN 3003,Undergraduate Cooperative Education II,University Wide,variable to   2.0;  May be repeated,UN 3002,,"Fall, Spring, Summer"
+UN 3004,Undergraduate Cooperative Education III,University Wide,variable to   2.0;  May be repeated,UN 3002 and UN 3003,,"Fall, Spring, Summer"
+UN 3005,Undergraduate Cooperative Education IV,University Wide,variable to   2.0;  May be repeated,UN 3002 and UN 3003 and UN 3004,,"Fall, Spring, Summer"
+UN 3100,Foundations of Ethical Leadership,University Wide,1.0,UN 3000,,Spring
+UN 3150,Pavlis Scholars &amp; Leaders Seminar II,University Wide,1.0,UN 2150,,"Fall, Spring"
+UN 3300,Innovation through Human Centered Design,University Wide,3.0,,,"Fall, Spring"
+UN 3404,Cultural and Language Awareness,University Wide,2.0,UN 3000,,Summer
+UN 3407,Pavlis International Project Development,University Wide,2.0,UN 3100,UN 3404,Summer
+UN 3900,"Advanced Topics in Humanities, Arts, and Social Sciences",University Wide,3.0;  Repeatable to a Max of 6,,,On Demand
+UN 3990 - Special Topics,Special Topics - Interdisciplinary,University Wide,variable to   6.0;  May be repeated,,,On Demand
+UN 4000,"Seminar Series in Earth, Planetary, and Space Sciences",University Wide,1.0;  Repeatable to a Max of 2,,,"Fall, Spring"
+UN 4060,Pavlis Global Leadership Practicum,University Wide,variable to   9.0,UN 3404 and UN 3407,,Summer
+UN 4100,Leadership Capstone Project I,University Wide,1.0,UN 4060,,"Fall, Spring"
+UN 4150,Pavlis Scholars &amp; Leaders Seminar III,University Wide,1.0,UN 3150,,"Fall, Spring"
+UN 4200,Leadership Capstone Project II,University Wide,1.0,UN 4060,,"Fall, Spring"
