@@ -15,11 +15,12 @@ credits = ""
 prereqs = ""
 coreqs = ""
 semesters = ""
+restrictions = ""
 for line in res_array:
     #print(line)
     #search for course id
     temp = re.search("<b>(.*) - ", line)
-    check = re.search("(<b>Semesters Offered:</b> (.*))|(<b>Credits:</b> (.*))|(<b>Pre-Requisite\(s\):</b> (.*))|(<b>Co-Requisite\(s\):</b> (.*))", line)
+    check = re.search("(<b>Restrictions: </b>(.*))|(<b>Semesters Offered:</b> (.*))|(<b>Credits:</b> (.*))|(<b>Pre-Requisite\(s\):</b> (.*))|(<b>Co-Requisite\(s\):</b> (.*))", line)
     if temp is not None and check is None:
         if temp.group(1) != course and course != "":
             # print("Course: {0} - {1}".format(course, name))
@@ -28,7 +29,7 @@ for line in res_array:
             # print("\tPrereqs: {0}".format(prereqs))
             # print("\tCoreqs: {0}".format(coreqs))
             # print("\tSemesters: {0}".format(semesters))
-            courses.append((course, name, dep, credits, prereqs, coreqs, semesters))
+            courses.append((course, name, dep, credits, prereqs, coreqs, semesters, restrictions))
             name = ""
             credits = ""
             prereqs = ""
@@ -47,6 +48,10 @@ for line in res_array:
     temp = re.search("<b>Semesters Offered:</b> (.*)", line)
     if temp is not None:
         semesters = temp.group(1)
+    #search for restrictions
+    temp = re.search("<b>Restrictions: </b>(.*)", line)
+    if temp is not None:
+        restrictions = temp.group(1)
     #search for prereqs
     temp = re.search("<b>Pre-Requisite\(s\):</b> (.*)", line)
     if temp is not None:
@@ -62,7 +67,7 @@ for line in res_array:
 
 with open('courses.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(("Course", "Department", "Credits", "Pre-Requisites", "Co-Requisites", "Semesters"))
+    writer.writerow(("Course", "Department", "Credits", "Pre-Requisites", "Co-Requisites", "Semesters", "Restrictions"))
     for c in courses:
         writer.writerow(c)
         # print("Course: {0} - {1}".format(c[0], c[1]))
