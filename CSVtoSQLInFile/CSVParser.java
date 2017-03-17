@@ -12,38 +12,32 @@ public class CSVParser {
 		FileReader in = null;
 		FileWriter out = null;
 		try {
-			in = new FileReader(new File(inFilepath));
+			in = new FileReader(new File(inFilepath));//set read and write destinations
 			out = new FileWriter (new File(outFilepath));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
 		char last = 0, current = 0;
 		try {
-			while (in.ready()) {
+			while (in.ready()) {//goes to the end of the file
 				current = (char) in.read();
-				if (last ==',' && current ==','){
+				if (last ==',' && current ==','){//inserts null into blank columns
 					out.write("null");
-					System.out.print("null");
 				}
-				out.write(current);
+				out.write(current);//put each character into the output file
 				last = current;
-				System.out.print(current);
 			}
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		try {
+		try {//close all resourses
 			in.close();
 			out.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
