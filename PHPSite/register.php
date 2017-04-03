@@ -27,7 +27,7 @@ if(isset($_POST['name']) && isset($_POST['username']) && isset($_POST['password'
 		$sql = "INSERT INTO profiles (name, username, password) VALUES ('$name', '$username', '$hash');";
 		$result=mysqli_query($connection, $sql);
 		echo "Account Created!";
-		echo "<br>Redirecting to login.";
+		echo "<br>Redirecting to <a href='login.php'>login</a>.";
 		header( "refresh:5; url=login.php" ); 
 		exit();
 	}
