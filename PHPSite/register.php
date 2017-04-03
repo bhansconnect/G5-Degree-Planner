@@ -24,7 +24,7 @@ if(isset($_POST['name']) && isset($_POST['username']) && isset($_POST['password'
 		echo "Username already taken.";
 	}else{
 		$hash = password_hash($password, PASSWORD_DEFAULT);
-		$sql = "INSERT INTO profiles (name, username, password) VALUES ('$name', '$username', '$hash');";
+		$sql = "INSERT INTO profiles (name, username, password, major, minor, taken) VALUES ('$name', '$username', '$hash','','','');";
 		$result=mysqli_query($connection, $sql);
 		echo "Account Created!";
 		echo "<br>Redirecting to <a href='login.php'>login</a>.";

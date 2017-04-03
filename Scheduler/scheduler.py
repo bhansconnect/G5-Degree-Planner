@@ -148,12 +148,16 @@ maxPrereqChain = 0
 for value in prereqLength.values():
     if value > maxPrereqChain:
         maxPrereqChain = value
-
+result = "";
 for i in range(maxPrereqChain + 1):
     i = maxPrereqChain - i
     for key, value in prereqLength.items():
         if value == i:
             if key not in complete:
                 print(key, ": ", value)
+                result = result+key+": "+str(value)+"<br>";
                 for v in prereqChain[key]:
                     print("   ", v)
+                    result=result+"   "+v+"<br>";
+
+print(result)
