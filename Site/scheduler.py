@@ -10,6 +10,12 @@ courses = ['CS 1000', 'CS 1121', 'CS 1122', 'CS 1142', 'CS 2311', 'CS 2321', 'CS
            'UN 1015']
 complete = ['CS 1000', 'CS 1121', 'MA 1160', 'UN 1015']
 
+def is_digit(n):
+    try:
+        int(n)
+        return True
+    except ValueError:
+        return  False
 
 def check_prereqs(input, prereqLength, prereqChain):
     input = input.replace("(C)", "")
@@ -17,8 +23,11 @@ def check_prereqs(input, prereqLength, prereqChain):
     exp = re.findall("\(([^)]+)\)", input)
     if exp:
         for group in exp:
+            #print(input)
             group_with_parentheses = "(" + group + ")"
+            #print(group)
             input = input.replace(group_with_parentheses, str(check_prereqs(group, prereqLength, prereqChain)))
+            #print(input)
             # print(str)
 
     # deal with 'and's
@@ -30,6 +39,7 @@ def check_prereqs(input, prereqLength, prereqChain):
         min = math.nan
         minPrereq = "null"
         for prereq in t:
+            #print(prereq, " -> ", is_digit(prereq))
             # or logic
             if prereq in prereqLength:
                 if not math.isnan(prereqLength[prereq]) and math.isnan(min):
@@ -38,7 +48,7 @@ def check_prereqs(input, prereqLength, prereqChain):
                 elif not math.isnan(prereqLength[prereq]) and prereqLength[prereq] < min:
                     min = prereqLength[prereq]
                     minPrereq = prereq
-            elif prereq.isdigit():
+            elif is_digit(prereq):
                 if math.isnan(min):
                     min = int(prereq)
                     minPrereq = "null"
@@ -89,50 +99,7 @@ while change:
             if not math.isnan(val):
                 change = True
                 prereqLength[key] = int(val) + 1
-        """
-        if math.isnan(value):
-            #if prereq met then set it to highest prereq plus 1
-            #change becomes true
-            #if the prereq only contains 'or's then check for any singular class
-            if not re.search('and', prereqs[key]):
-                t = prereqs[key].split(" or ")
-                min = math.nan
-                for prereq in t:
-                    #if the prereq is need/taken then update min
-                    if prereq in prereqLength:
-                        if not math.isnan(prereqLength[prereq]) and math.isnan(min):
-                            min = prereqLength[prereq]
-                        elif not math.isnan(prereqLength[prereq]) and prereqLength[prereq] < min:
-                            min = prereqLength[prereq]
-                if not math.isnan(min):
-                    change = True
-                    prereqLength[key] = min + 1
 
-            # if the prereq only contains 'and's then check for every class
-            elif not re.search('or', prereqs[key]):
-                t = prereqs[key].split(" and ")
-                max = math.nan
-                for prereq in t:
-                    # if the prereq is need/taken then update min
-                    if prereq in prereqLength:
-                        if math.isnan(prereqLength[prereq]):
-                            max = math.nan
-                            break
-                        if not math.isnan(prereqLength[prereq]) and math.isnan(max):
-                            max = prereqLength[prereq]
-                        elif not math.isnan(prereqLength[prereq]) and prereqLength[prereq] > max:
-                            max = prereqLength[prereq]
-                if not math.isnan(max):
-                    change = True
-                    prereqLength[key] = max + 1
-
-            #singular class
-            elif prereqs[key] in prereqLength and not math.isnan(prereqLength[prereqs[key]]):
-                prereqLength[key] = prereqLength[prereqs[key]] + 1
-
-            #mix of 'and's and 'or's
-
-"""
 change = True
 while change:
     change = False
@@ -150,14 +117,14 @@ for value in prereqLength.values():
         maxPrereqChain = value
 result = "";
 for i in range(maxPrereqChain + 1):
-    i = maxPrereqChain - i
+    j = maxPrereqChain - i
     for key, value in prereqLength.items():
-        if value == i:
+        if value == j:
             if key not in complete:
                 print(key, ": ", value)
                 result = result+key+": "+str(value)+"<br>";
-                for v in prereqChain[key]:
-                    print("   ", v)
-                    result=result+"   "+v+"<br>";
+                #for v in prereqChain[key]:
+                    #print("   ", v)
+                    #result=result+"   "+v+"<br>";
 
 print(result)
