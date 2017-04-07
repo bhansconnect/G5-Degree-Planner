@@ -25,7 +25,6 @@ if (isset($_SESSION['username']) && $_SESSION['loggedin'] == true && isset($_POS
 	$row = $result->fetch_assoc();
 
 	$classes_needed = $row['req_courses'];*/
-	echo exec("python3 scheduler.py");
 }
 ?>
 
@@ -42,6 +41,10 @@ if (isset($_SESSION['username']) && $_SESSION['loggedin'] == true && isset($_POS
 			<p class="submit"><input type="submit" name="commit" value="View Schedule"></p>
 		</form>
 	</div>
+	<?php 
+	if(isset($_POST['major_input']))
+		echo exec("python3 scheduler.py");
+	?>
 	<a href="viewmajor.php">View Major</a>
 	<a href="addclass.php">Add Class</a>
 	<a href="index.php">Home</a>

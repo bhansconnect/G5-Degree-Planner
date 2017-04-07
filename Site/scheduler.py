@@ -126,5 +126,5 @@ for i in range(maxPrereqChain + 1):
                 #for v in prereqChain[key]:
                     #print("   ", v)
                     #result=result+"   "+v+"<br>";
-
+result = result + "<br>";
 print(result)
