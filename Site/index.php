@@ -1,16 +1,13 @@
-<?php
-require "header.php"
-?>
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>G5 Degree Planner</title>
-	</head>
-	<body>
-		<h1>Welcome to the Home Page</h1>
-		<p>More info</p>
-		<a href="viewmajor.php">View Major</a>
-		<a href="addclass.php">Add Class</a>
-		<a href="schedule.php">View Schedule</a>
-		<a href="logout.php">Logout</a>
-	</body>
+<head>
+<meta http-equiv="refresh" content="0;url=pages/index.php">
+<title>SB Admin 2</title>
+<script language="javascript">
+    window.location.href = "pages/index.php"
+</script>
+</head>
+<body>
+Go to <a href="pages/index.php">/pages/index.php</a>
+</body>
 </html>
