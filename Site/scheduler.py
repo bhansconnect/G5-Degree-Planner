@@ -5,10 +5,8 @@ import sys
 
 
 # would normal grab degree information here but instead I am faking it for testing
-degree = "Computer Science"
-courses = ['CS 1000', 'CS 1121', 'CS 1122', 'CS 1142', 'CS 2311', 'CS 2321', 'CS 3000', 'CS 3141', 'CS 3311', 'CS 3331',
-           'CS 3411', 'CS 3421', 'CS 3425', 'CS 4121', 'CS 4321', 'MA 1160', 'MA 2160', 'MA 3710', 'MA 2330', 'UN 1025',
-           'UN 1015']
+degree = ""
+courses = []
 complete = []
 courses_a_semester = 5
 
@@ -24,11 +22,16 @@ if len(sys.argv) > 1:
     else:
         print("Please pick a Major!")
         sys.exit()
+    if degree == "Computer Science":
+        courses_a_semester = 3
     complete = data[5].split(", ")
     query = "SELECT * from majors WHERE major='" + degree + "'"
     cursor.execute(query)
     data = cursor.fetchone()
     courses = data[1].split(", ")
+    for c in complete:
+        if c not in courses:
+            courses.append(c)
     db.close()
 semesters = []
 
@@ -212,7 +215,20 @@ nottaken = []
 for c in courses:
     if c not in complete:
         nottaken.append(c)
+
 if len(nottaken) == 0:
-    print(semesters)
+    db = MySQLdb.connect("141.219.214.79", "degreePlanner", "teamsoftware", "TSP")
+    cursor = db.cursor()
+    out = ""
+    for i in range(len(semesters)):
+        out = out + "Semester " + str(i+1) + ":<br><ul>"
+        for c in semesters[i]:
+            query = "SELECT course_name from courses WHERE course_num='" + c + "'"
+            cursor.execute(query)
+            data = cursor.fetchone()
+            out = out + "<li>" + c + ": " + data[0] + "</li>"
+        out = out + "</ul><br>"
+    print(out)
+    db.close()
 else:
     print("You do not have the prerequisites for these course:", nottaken)

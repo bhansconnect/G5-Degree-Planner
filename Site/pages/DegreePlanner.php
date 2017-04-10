@@ -120,6 +120,7 @@ require "header.php";
 									<input class="btn btn-lg btn-success btn-block" type="submit" value="Select Courses">
 								</fieldset>
 							</form>
+							<br>
 							<?php
 								echo exec("python3 ../scheduler.py $username");
 							?>
