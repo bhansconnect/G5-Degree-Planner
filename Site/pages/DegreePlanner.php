@@ -54,7 +54,7 @@ require "header.php";
                     <div class="col-lg-12">
                         <h1 class="page-header">Degree Planner</h1>
 						<div class="panel-body">
-							Your current major is: <?php
+							Your Current Major is: <?php
 								require "mysql_connect.php";
 
 								$username=$_SESSION['username'];
@@ -90,7 +90,7 @@ require "header.php";
 							</form>
 						</div>
 						<div class="panel-body">
-							Select Courses: <?php
+							Selected Courses: <?php
 								$sql="SELECT taken FROM profiles where username='$username'";
 								$result=mysqli_query($connection, $sql);
 								$row = $result->fetch_assoc();

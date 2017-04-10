@@ -10,6 +10,7 @@ courses = ['CS 1000', 'CS 1121', 'CS 1122', 'CS 1142', 'CS 2311', 'CS 2321', 'CS
            'CS 3411', 'CS 3421', 'CS 3425', 'CS 4121', 'CS 4321', 'MA 1160', 'MA 2160', 'MA 3710', 'MA 2330', 'UN 1025',
            'UN 1015']
 complete = []
+courses_a_semester = 5
 
 if len(sys.argv) > 1:
     #print("loading info for user:", sys.argv[1])
@@ -38,18 +39,34 @@ def is_digit(n):
     except ValueError:
         return  False
 
+def parenthetic_contents(string):
+    """Generate parenthesized contents in string as pairs (level, contents)."""
+    stack = []
+    for i, c in enumerate(string):
+        if c == '(':
+            stack.append(i)
+        elif c == ')' and stack:
+            start = stack.pop()
+            yield (len(stack), string[start + 1: i])
+
 def check_prereqs(input, prereqLength, prereqChain):
-    input = input.replace("(C)", "")
-    # deal with parentheses
-    exp = re.findall("\(([^)]+)\)", input)
+    #input = input.replace("(C)", "")
+    exp = re.findall("[A-Z]{2,4}[ ]{1}[0-9]{4}[(]{1}[C]{1}[)]{1}", input)
     if exp:
         for group in exp:
-            #print(input)
-            group_with_parentheses = "(" + group + ")"
-            #print(group)
-            input = input.replace(group_with_parentheses, str(check_prereqs(group, prereqLength, prereqChain)))
-            #print(input)
-            # print(str)
+            input = input.replace(group, "-1")
+
+    # deal with parentheses
+    exp = parenthetic_contents(input)
+    if exp:
+        for group in exp:
+            if group[0] == 0:
+                #print(input)
+                group_with_parentheses = "(" + group[1] + ")"
+                #print(group[1])
+                input = input.replace(group_with_parentheses, str(check_prereqs(group[1], prereqLength, prereqChain)))
+                #print(input)
+                # print(str)
 
     # deal with 'and's
     groups = input.split(" and ")
@@ -95,9 +112,11 @@ while set(courses) != set(complete):
     #print(set(complete))
     prereqLength = {}
     prereqChain = {}
+    reversePrereqLength = {}
     for course in courses:
         prereqLength[course] = math.nan
         prereqChain[course] = []
+        reversePrereqLength[course] = 0
 
     db = MySQLdb.connect("141.219.214.79", "degreePlanner", "teamsoftware", "TSP")
 
@@ -126,6 +145,18 @@ while set(courses) != set(complete):
                     change = True
                     prereqLength[key] = int(val) + 1
 
+    for key in sorted(prereqLength, key=prereqLength.get, reverse=True):
+        if prereqLength[key] == -1:
+            reversePrereqLength[key] = -1
+            continue
+        for c in prereqChain[key]:
+            if prereqLength[c] == -1:
+                continue
+            if reversePrereqLength[c] < reversePrereqLength[key] + 1:
+                reversePrereqLength[c] = reversePrereqLength[key] + 1
+    #for key in sorted(reversePrereqLength, key=reversePrereqLength.get, reverse=True):
+    #    print(key, "->", reversePrereqLength[key])
+
     change = True
     while change:
         change = False
@@ -147,15 +178,27 @@ while set(courses) != set(complete):
         coursecount[c] = 0
     for key, value in prereqChain.items():
         for c in value:
-            coursecount[c] = coursecount[c] + 1
+            coursecount[c] = coursecount[c] + prereqLength[key]*prereqLength[key]
+
+    #for key, value in prereqLength.items():
+    #    if value == 0:
+    #        print(key)
+    #print()
 
     sem = []
-    for c in sorted(coursecount, key=coursecount.get, reverse=True):
-        if len(sem) >= 3:
-            break;
-        if prereqLength[c] == 0:
-            sem.append(c)
-            complete.append(c)
+    for key in sorted(reversePrereqLength, key=reversePrereqLength.get, reverse=True):
+        #print(key, "->", reversePrereqLength[key], "->", prereqLength[key])
+        if len(sem) >= courses_a_semester:
+            break
+        if prereqLength[key] == 0:
+            sem.append(key)
+            complete.append(key)
+            continue
+        #count = 0
+        #for c in prereqChain[key]:
+        #    if prereqLength[c] == 0:
+        #        count = count + 1
+        #print(count)
 
     if (len(sem) == 0):
         break
