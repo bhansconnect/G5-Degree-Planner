@@ -1,13 +1,6 @@
 <?php
 if(isset($_POST['username']) && isset($_POST['password']) && isset($_POST['name'])){
-    $host="localhost";
-    $username="root";
-    $password="onesockman43";
-    $db_name="TSP";
-    $tbl_name="profiles";
-
-    $connection=mysqli_connect("$host", "$username", "$password", "$db_name")or exit("cannot connect");
-
+	require "mysql_connect.php";
     $name = $_POST['name'];
 	$username=$_POST['username'];
     $password=$_POST['password'];
@@ -15,7 +8,7 @@ if(isset($_POST['username']) && isset($_POST['password']) && isset($_POST['name'
 	$name = mysqli_real_escape_string($connection, $name);
     $username = mysqli_real_escape_string($connection, $username);
     $password = mysqli_real_escape_string($connection, $password);
-    $sql="SELECT * FROM $tbl_name WHERE username='$username'";
+    $sql="SELECT * FROM profiles WHERE username='$username'";
     $result=mysqli_query($connection, $sql);
     $count = mysqli_num_rows($result);
 

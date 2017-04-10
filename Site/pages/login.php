@@ -1,19 +1,13 @@
 <?php
 if(isset($_POST['username']) && isset($_POST['password'])){
-    $host="localhost";
-    $username="root";
-    $password="onesockman43";
-    $db_name="TSP";
-    $tbl_name="profiles";
-
-    $connection=mysqli_connect("$host", "$username", "$password", "$db_name")or exit("cannot connect");
+    require "mysql_connect.php";
 
     $username=$_POST['username'];
     $password=$_POST['password'];
 
     $username = mysqli_real_escape_string($connection, $username);
     $password = mysqli_real_escape_string($connection, $password);
-    $sql="SELECT * FROM $tbl_name WHERE username='$username'";
+    $sql="SELECT * FROM profiles WHERE username='$username'";
     $result=mysqli_query($connection, $sql);
     $row = $result->fetch_assoc();
 

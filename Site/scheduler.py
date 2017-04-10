@@ -20,6 +20,9 @@ if len(sys.argv) > 1:
     data = cursor.fetchone()
     if data[3] != '':
         degree = data[3]
+    else:
+        print("Please pick a Major!")
+        sys.exit()
     complete = data[5].split(", ")
     query = "SELECT * from majors WHERE major='" + degree + "'"
     cursor.execute(query)
@@ -162,7 +165,11 @@ while set(courses) != set(complete):
     #print(result)
     #if result == "<br>":
     #    break
+nottaken = []
 for c in courses:
     if c not in complete:
-        print(c)
-print(semesters)
+        nottaken.append(c)
+if len(nottaken) == 0:
+    print(semesters)
+else:
+    print("You do not have the prerequisites for these course:", nottaken)
