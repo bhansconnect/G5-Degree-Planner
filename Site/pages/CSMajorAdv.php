@@ -51,6 +51,32 @@ require "header.php";
                     <!-- /.col-lg-12 -->
                 </div>
                 <!-- /.row -->
+                <h4> Sarah Kuhl </h4>
+                <p> csadvisor@mtu.edu </p>
+                <h4> Academic Year : </h4> <p> 906-487-3643 </p>
+                <h4> Summer Semester : </h4> <p> 906-487-2209 </p>
+                <h4> Room: </h4> <p> Rekhi 227 </p>
+                <br>
+                <h4> Walk - in hours: </h4>
+                <p> Monday 2-4pm </p>
+                <p> Tuesday 2-4 pm </p>
+                <p> Wednesday 10-Noon </p>
+                <br>
+                <p> If you can not make it to the walk in hours you need to set up an appointment through email. Sarah is available Monday - Thursday 8:30 am - 4:00 pm </p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
             </div>
             <!-- /.container-fluid -->
         </div>
