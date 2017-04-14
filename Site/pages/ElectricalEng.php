@@ -47,6 +47,20 @@ require "header.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Electrical Engineering</h1>
+						<div class="panel-body">
+						<a href="http://www.mtu.edu/ece/undergraduate/advising/electrical/pdfs/bsee-chart1617.pdf">Flowchart</a>
+						<h2>Classes</h2>
+							<?php
+							require "mysql_connect.php";
+
+							$sql ="SELECT course_name FROM courses WHERE dept='Electrical &amp; Computer Engrg'";
+							$result=mysqli_query($connection, $sql);
+							$rows = $result->fetch_all();
+							foreach($rows as $row){
+							echo $row[0]."<br>";
+							}
+							?>
+							</div>
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
