@@ -60,7 +60,7 @@ require "navigation.php";
                                     <i class="fa fa-graduation-cap fa-5x"></i>
                                 </div>
                                 <div class="col-xs-9 text-right">
-                                    <div class="huge">Degree Plan</div>
+                                    <div class="huge">Plan</div>
                                     <div>Your plan to graduation</div>
                                 </div>
                             </div>
